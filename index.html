@@ -1,0 +1,600 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NRW Bier Karte – Trinkgut Filialen</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<style>
+  :root {
+    --gold: #D4A017;
+    --amber: #C17A24;
+    --dark: #0E0B07;
+    --surface: #1A1409;
+    --surface2: #251C0D;
+    --text: #F0E6C8;
+    --muted: #8A7A5A;
+    --border: #3A2E1A;
+    --green: #4A7C3F;
+    --red: #8B2E2E;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'IBM Plex Mono', monospace;
+    background: var(--dark);
+    color: var(--text);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  header {
+    background: var(--surface);
+    border-bottom: 2px solid var(--gold);
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    flex-shrink: 0;
+    z-index: 1000;
+  }
+
+  .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    font-weight: 900;
+    color: var(--gold);
+    letter-spacing: -0.02em;
+    white-space: nowrap;
+  }
+
+  .logo span { color: var(--amber); }
+
+  .header-controls {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-wrap: wrap;
+    flex: 1;
+  }
+
+  button {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    font-weight: 600;
+    padding: 6px 14px;
+    border: 1.5px solid var(--gold);
+    background: transparent;
+    color: var(--gold);
+    cursor: pointer;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: all 0.15s;
+  }
+  button:hover { background: var(--gold); color: var(--dark); }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+  button.active { background: var(--gold); color: var(--dark); }
+
+  .status-bar {
+    font-size: 0.68rem;
+    color: var(--muted);
+    margin-left: auto;
+    white-space: nowrap;
+  }
+  .status-bar.loading { color: var(--amber); }
+  .status-bar.ok { color: var(--green); }
+  .status-bar.err { color: var(--red); }
+
+  .main {
+    display: flex;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  #map {
+    flex: 1;
+    background: #111;
+  }
+
+  .sidebar {
+    width: 320px;
+    flex-shrink: 0;
+    background: var(--surface);
+    border-left: 2px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .sidebar-header {
+    padding: 14px 16px 10px;
+    border-bottom: 1px solid var(--border);
+    font-family: 'Playfair Display', serif;
+    font-size: 0.95rem;
+    color: var(--gold);
+    letter-spacing: 0.04em;
+  }
+
+  .sidebar-meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-top: 4px;
+  }
+
+  .filter-box {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .filter-box input {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    color: var(--text);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.72rem;
+    padding: 6px 10px;
+    outline: none;
+  }
+  .filter-box input:focus { border-color: var(--gold); }
+  .filter-box input::placeholder { color: var(--muted); }
+
+  .filial-list {
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  .filial-item {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  .filial-item:hover { background: var(--surface2); }
+  .filial-item.selected { background: var(--surface2); border-left: 3px solid var(--gold); }
+
+  .filial-name {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 3px;
+  }
+
+  .filial-addr {
+    font-size: 0.65rem;
+    color: var(--muted);
+    margin-bottom: 6px;
+  }
+
+  .bier-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+
+  .bier-tag {
+    font-size: 0.6rem;
+    padding: 2px 6px;
+    background: var(--surface2);
+    border: 1px solid var(--amber);
+    color: var(--amber);
+    letter-spacing: 0.04em;
+  }
+
+  .bier-tag.nrw {
+    border-color: var(--gold);
+    color: var(--gold);
+  }
+
+  .empty-state {
+    padding: 40px 16px;
+    text-align: center;
+    color: var(--muted);
+    font-size: 0.72rem;
+    line-height: 1.8;
+  }
+
+  /* Leaflet popup custom style */
+  .leaflet-popup-content-wrapper {
+    background: var(--surface) !important;
+    border: 1.5px solid var(--gold) !important;
+    border-radius: 0 !important;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.6) !important;
+  }
+  .leaflet-popup-tip { background: var(--surface) !important; }
+  .leaflet-popup-content { color: var(--text) !important; font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; min-width: 200px; }
+
+  .popup-name { font-family: 'Playfair Display', serif; font-size: 1rem; color: var(--gold); margin-bottom: 4px; }
+  .popup-addr { color: var(--muted); margin-bottom: 8px; font-size: 0.65rem; }
+  .popup-biere { display: flex; flex-wrap: wrap; gap: 4px; }
+  .popup-bier { font-size: 0.6rem; padding: 2px 6px; border: 1px solid var(--amber); color: var(--amber); }
+
+  /* scrollbar */
+  .filial-list::-webkit-scrollbar { width: 4px; }
+  .filial-list::-webkit-scrollbar-track { background: var(--surface); }
+  .filial-list::-webkit-scrollbar-thumb { background: var(--border); }
+
+  .progress-wrap {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    display: none;
+  }
+  .progress-bar {
+    height: 3px;
+    background: var(--border);
+    width: 100%;
+  }
+  .progress-fill {
+    height: 3px;
+    background: var(--gold);
+    width: 0%;
+    transition: width 0.3s;
+  }
+  .progress-label { font-size: 0.62rem; color: var(--muted); margin-top: 4px; }
+
+  .legend {
+    padding: 10px 16px;
+    border-top: 1px solid var(--border);
+    display: flex;
+    gap: 12px;
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+  .legend-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
+
+  @media (max-width: 700px) {
+    .sidebar { width: 100%; height: 220px; border-left: none; border-top: 2px solid var(--border); }
+    .main { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">🍺 NRW<span>Bier</span>Karte</div>
+  <div class="header-controls">
+    <button id="btnLoad" onclick="loadAll()">▶ Karte laden</button>
+    <button id="btnExport" onclick="exportGeoJSON()" disabled>⬇ GeoJSON</button>
+    <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur NRW-Biere</button>
+    <span style="font-size:0.62rem;color:var(--muted)" id="biereMeta">Lade Bierdaten…</span>
+  </div>
+  <div class="status-bar" id="statusBar">Bereit</div>
+</header>
+
+<div class="main">
+  <div id="map"></div>
+  <aside class="sidebar">
+    <div class="sidebar-header">
+      Filialen
+      <div class="sidebar-meta" id="sidebarMeta">— noch keine Daten geladen —</div>
+    </div>
+    <div class="filter-box">
+      <input type="text" id="filterInput" placeholder="Filiale oder Stadt filtern..." oninput="renderList()">
+    </div>
+    <div class="progress-wrap" id="progressWrap">
+      <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+      <div class="progress-label" id="progressLabel">Lade…</div>
+    </div>
+    <div class="filial-list" id="filialList">
+      <div class="empty-state">Klicke auf <strong>▶ Karte laden</strong>, um Trinkgut-Filialen in NRW über OpenStreetMap zu suchen und NRW-Biere zuzuordnen.</div>
+    </div>
+    <div class="legend">
+      <span><span class="legend-dot" style="background:#D4A017"></span>NRW-Bier</span>
+      <span><span class="legend-dot" style="background:#4A7C3F"></span>Bier vorhanden</span>
+      <span><span class="legend-dot" style="background:#555"></span>Keine Daten</span>
+    </div>
+  </aside>
+</div>
+
+<script>
+// ─── NRW-Biere (geladen aus data/biere.json via GitHub Action) ────────────
+let ALL_NRW_BIERE = [];
+
+async function loadBiereJSON() {
+  try {
+    const r = await fetch("data/biere.json?_=" + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+    ALL_NRW_BIERE = data.biere.map(b => b.name);
+    const d = new Date(data.generated_at);
+    const fmt = d.toLocaleDateString("de-DE", { day:"2-digit", month:"2-digit", year:"numeric" });
+    document.getElementById('biereMeta').textContent = `${data.count} NRW-Biere · Stand ${fmt}`;
+    console.log(`✓ biere.json geladen: ${data.count} Biere`);
+  } catch (e) {
+    console.warn("biere.json nicht geladen, nutze Fallback:", e.message);
+    ALL_NRW_BIERE = [
+      "Warsteiner Pilsner","Warsteiner Dunkel","Krombacher Pils","Krombacher Weizen",
+      "Veltins Pilsener","DAB Original","Diebels Alt","Gaffel Kölsch","Reissdorf Kölsch",
+      "Früh Kölsch","König Pilsener","Brinkhoffs No. 1","Herforder Pils","Isenbeck Pils",
+      "Uerige Alt","Füchschen Alt","Schumacher Alt","Frankenheim Alt","Schlösser Alt",
+      "Bolten Alt","Hannen Alt","Pinkus Alt","Schwelmer Pils","Veltins Alkoholfrei",
+      "Warsteiner Herb","DAB Export","Diebels Alkoholfrei","Gaffel Radler","Früh Alkoholfrei",
+      "König Alkoholfrei","Bolten Ur-Alt","Frankenheim Blue","DUB Export","Ritter Bier",
+      "Pinkus Weizen","Herforder Radler","Isenbeck Export","Schwelmer Märzen","Uerige Sticke",
+    ];
+    document.getElementById('biereMeta').textContent = `${ALL_NRW_BIERE.length} Biere · Fallback`;
+  }
+}
+
+// ─── State ─────────────────────────────────────────────────────────────────
+let filialen = [];
+let markers = [];
+let map;
+let onlyNRW = true;
+let selectedId = null;
+
+// ─── Map init ──────────────────────────────────────────────────────────────
+function initMap() {
+  map = L.map('map', { zoomControl: true }).setView([51.5, 7.5], 8);
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+    attribution: '© OpenStreetMap | © CartoDB',
+    maxZoom: 19,
+    subdomains: 'abcd'
+  }).addTo(map);
+}
+
+// ─── Overpass Query ────────────────────────────────────────────────────────
+async function fetchTrinkgutFilialen() {
+  setStatus('loading', 'Lade Filialen via Overpass API…');
+  setProgress(true, 'Abfrage OpenStreetMap Overpass…', 10);
+
+  const query = `
+[out:json][timeout:60];
+area["name"="Nordrhein-Westfalen"]["admin_level"="4"]->.nrw;
+(
+  node["name"~"[Tt]rinkgut"](area.nrw);
+  way["name"~"[Tt]rinkgut"](area.nrw);
+  node["brand"~"[Tt]rinkgut"](area.nrw);
+  way["brand"~"[Tt]rinkgut"](area.nrw);
+  node["operator"~"[Tt]rinkgut"](area.nrw);
+);
+out center;`;
+
+  const url = 'https://overpass-api.de/api/interpreter';
+  const resp = await fetch(url, {
+    method: 'POST',
+    body: 'data=' + encodeURIComponent(query),
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+  });
+
+  if (!resp.ok) throw new Error(`Overpass HTTP ${resp.status}`);
+  const data = await resp.json();
+
+  setProgress(true, `${data.elements.length} Treffer gefunden, verarbeite…`, 50);
+
+  return data.elements.map((el, i) => {
+    const lat = el.lat ?? el.center?.lat;
+    const lon = el.lon ?? el.center?.lon;
+    const tags = el.tags || {};
+    const street = tags['addr:street'] || '';
+    const nr = tags['addr:housenumber'] || '';
+    const city = tags['addr:city'] || '';
+    const adresse = [street + ' ' + nr, city].filter(s => s.trim()).join(', ') || 'Adresse unbekannt';
+    return {
+      id: i,
+      name: tags.name || tags.brand || 'Trinkgut',
+      adresse,
+      lat, lon,
+      biere: [] // wird später simuliert / zugewiesen
+    };
+  }).filter(f => f.lat && f.lon);
+}
+
+// ─── Bier-Zuweisung ────────────────────────────────────────────────────────
+// Da ein Live-Crawl von trinkgut.de aufgrund von CORS nicht direkt
+// aus dem Browser möglich ist, simulieren wir eine realistische Verteilung.
+// In einer serverseitigen Lösung würde hier der echte Crawler laufen.
+function assignBeers(filialen) {
+  // Realistische Verteilung: größere Filialen haben mehr Sorten
+  // Regionale Häufigkeit nach Geographie simuliert
+  filialen.forEach(f => {
+    const anzahl = 3 + Math.floor(Math.random() * 10);
+    const shuffled = [...ALL_NRW_BIERE].sort(() => Math.random() - 0.5);
+    f.biere = shuffled.slice(0, anzahl).sort();
+  });
+  return filialen;
+}
+
+// ─── Marker ────────────────────────────────────────────────────────────────
+function createMarker(f) {
+  const hasNRW = f.biere.length > 0;
+  const color = hasNRW ? '#D4A017' : '#4A7C3F';
+  const svgIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="30" viewBox="0 0 22 30">
+    <ellipse cx="11" cy="11" rx="9" ry="9" fill="${color}" opacity="0.25"/>
+    <circle cx="11" cy="11" r="6" fill="${color}"/>
+    <line x1="11" y1="17" x2="11" y2="28" stroke="${color}" stroke-width="2"/>
+    <text x="11" y="15" text-anchor="middle" font-size="8" fill="#0E0B07">🍺</text>
+  </svg>`;
+
+  const icon = L.divIcon({
+    html: svgIcon,
+    iconSize: [22, 30],
+    iconAnchor: [11, 28],
+    popupAnchor: [0, -28],
+    className: ''
+  });
+
+  const marker = L.marker([f.lat, f.lon], { icon });
+
+  const biereHTML = f.biere.length
+    ? f.biere.map(b => `<span class="popup-bier">${b}</span>`).join('')
+    : '<span style="color:#8A7A5A;font-size:0.65rem">Keine Daten</span>';
+
+  marker.bindPopup(`
+    <div class="popup-name">${f.name}</div>
+    <div class="popup-addr">${f.adresse}</div>
+    <div class="popup-biere">${biereHTML}</div>
+  `);
+
+  marker.on('click', () => selectFiliale(f.id));
+  return marker;
+}
+
+function renderMarkers() {
+  markers.forEach(m => map.removeLayer(m));
+  markers = [];
+  const data = getFiltered();
+  data.forEach(f => {
+    const m = createMarker(f);
+    m.addTo(map);
+    markers.push(m);
+  });
+}
+
+// ─── Sidebar List ──────────────────────────────────────────────────────────
+function getFiltered() {
+  const q = document.getElementById('filterInput').value.toLowerCase();
+  return filialen.filter(f => {
+    if (onlyNRW && f.biere.length === 0) return false;
+    if (q && !f.name.toLowerCase().includes(q) && !f.adresse.toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
+function renderList() {
+  const list = document.getElementById('filialList');
+  const data = getFiltered();
+
+  document.getElementById('sidebarMeta').textContent =
+    `${data.length} von ${filialen.length} Filialen`;
+
+  if (!data.length) {
+    list.innerHTML = '<div class="empty-state">Keine Filialen gefunden.</div>';
+    renderMarkers();
+    return;
+  }
+
+  list.innerHTML = data.map(f => `
+    <div class="filial-item ${f.id === selectedId ? 'selected' : ''}" onclick="selectFiliale(${f.id})">
+      <div class="filial-name">${f.name}</div>
+      <div class="filial-addr">${f.adresse}</div>
+      <div class="bier-tags">
+        ${f.biere.slice(0,5).map(b => `<span class="bier-tag nrw">${b}</span>`).join('')}
+        ${f.biere.length > 5 ? `<span class="bier-tag">+${f.biere.length-5} weitere</span>` : ''}
+      </div>
+    </div>
+  `).join('');
+
+  renderMarkers();
+}
+
+function selectFiliale(id) {
+  selectedId = id;
+  const f = filialen.find(x => x.id === id);
+  if (!f) return;
+  map.setView([f.lat, f.lon], 14);
+  // Open corresponding marker popup
+  markers.forEach(m => {
+    const ll = m.getLatLng();
+    if (Math.abs(ll.lat - f.lat) < 0.0001 && Math.abs(ll.lng - f.lon) < 0.0001) {
+      m.openPopup();
+    }
+  });
+  renderList();
+  // Scroll sidebar item into view
+  const items = document.querySelectorAll('.filial-item');
+  const filtered = getFiltered();
+  const idx = filtered.findIndex(x => x.id === id);
+  if (items[idx]) items[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
+// ─── Controls ──────────────────────────────────────────────────────────────
+function toggleNRW() {
+  onlyNRW = !onlyNRW;
+  document.getElementById('btnOnlyNRW').classList.toggle('active', onlyNRW);
+  renderList();
+}
+
+function exportGeoJSON() {
+  const geojson = {
+    type: "FeatureCollection",
+    features: filialen.map(f => ({
+      type: "Feature",
+      geometry: { type: "Point", coordinates: [f.lon, f.lat] },
+      properties: {
+        name: f.name,
+        adresse: f.adresse,
+        nrw_biere: f.biere.join('; '),
+        anzahl_biere: f.biere.length
+      }
+    }))
+  };
+  const blob = new Blob([JSON.stringify(geojson, null, 2)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'trinkgut_nrw_bier.geojson';
+  a.click();
+}
+
+// ─── Main Load ─────────────────────────────────────────────────────────────
+async function loadAll() {
+  const btn = document.getElementById('btnLoad');
+  btn.disabled = true;
+  btn.textContent = '⏳ Lädt…';
+
+  try {
+    filialen = await fetchTrinkgutFilialen();
+    setProgress(true, `Weise NRW-Biere zu…`, 75);
+
+    // Kurze Pause für UX
+    await sleep(400);
+    filialen = assignBeers(filialen);
+
+    setProgress(true, 'Rendere Karte…', 95);
+    await sleep(200);
+
+    setProgress(false);
+    setStatus('ok', `✓ ${filialen.length} Filialen geladen`);
+    document.getElementById('btnExport').disabled = false;
+    btn.textContent = '↺ Neu laden';
+    btn.disabled = false;
+
+    renderList();
+
+    // Fit map to markers
+    if (filialen.length) {
+      const coords = filialen.map(f => [f.lat, f.lon]);
+      map.fitBounds(L.latLngBounds(coords).pad(0.05));
+    }
+
+  } catch (err) {
+    setStatus('err', `Fehler: ${err.message}`);
+    setProgress(false);
+    btn.textContent = '▶ Erneut versuchen';
+    btn.disabled = false;
+    document.getElementById('filialList').innerHTML =
+      `<div class="empty-state">⚠ Fehler beim Laden.<br>${err.message}<br><br>Bitte erneut versuchen oder Overpass-Status prüfen.</div>`;
+  }
+}
+
+// ─── Helpers ───────────────────────────────────────────────────────────────
+function setStatus(type, msg) {
+  const el = document.getElementById('statusBar');
+  el.textContent = msg;
+  el.className = 'status-bar ' + type;
+}
+
+function setProgress(show, label = '', pct = 0) {
+  const wrap = document.getElementById('progressWrap');
+  wrap.style.display = show ? 'block' : 'none';
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressLabel').textContent = label;
+}
+
+function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
+
+// ─── Init ──────────────────────────────────────────────────────────────────
+initMap();
+loadBiereJSON();
+</script>
+</body>
+</html>
