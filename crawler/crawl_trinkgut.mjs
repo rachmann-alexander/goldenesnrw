@@ -18,7 +18,7 @@ import {
   NRW_BRAUEREIEN,
   NRW_KEYWORDS,
   PRODUCT_SELECTORS,
-} from "./config.mjs";
+} from "../config.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUTPUT_DIR = path.join(__dirname, "..", "data");

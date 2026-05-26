@@ -343,50 +343,127 @@ function initMap() {
 }
 
 // ─── Overpass Query ────────────────────────────────────────────────────────
+const OVERPASS_ENDPOINTS = [
+  'https://overpass.openstreetmap.fr/api/interpreter',
+  'https://overpass.kumi.systems/api/interpreter',
+  'https://overpass-api.de/api/interpreter',
+  'https://lz4.overpass-api.de/api/interpreter',
+];
+
+function buildOverpassQuery() {
+  // Bbox NRW + exakter brand-Match: deutlich schneller als Regex über area
+  return `[out:json][timeout:15];
+(
+  node["brand"="Trinkgut"](50.3,5.8,52.6,9.5);
+  way["brand"="Trinkgut"](50.3,5.8,52.6,9.5);
+);
+out center;`;
+}
+
+function debugLog(hypothesisId, location, message, data = {}) {
+  // #region agent log
+  fetch('http://127.0.0.1:7471/ingest/a40ecb02-315d-458c-b287-ffb4f598de07',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'e2081a'},body:JSON.stringify({sessionId:'e2081a',runId:'pre-fix',hypothesisId,location,message,data,timestamp:Date.now()})}).catch(()=>{});
+  // #endregion
+}
+
 async function fetchTrinkgutFilialen() {
   setStatus('loading', 'Lade Filialen via Overpass API…');
   setProgress(true, 'Abfrage OpenStreetMap Overpass…', 10);
 
-  const query = `
-[out:json][timeout:60];
-area["name"="Nordrhein-Westfalen"]["admin_level"="4"]->.nrw;
-(
-  node["name"~"[Tt]rinkgut"](area.nrw);
-  way["name"~"[Tt]rinkgut"](area.nrw);
-  node["brand"~"[Tt]rinkgut"](area.nrw);
-  way["brand"~"[Tt]rinkgut"](area.nrw);
-  node["operator"~"[Tt]rinkgut"](area.nrw);
-);
-out center;`;
-
-  const url = 'https://overpass-api.de/api/interpreter';
-  const resp = await fetch(url, {
-    method: 'POST',
-    body: 'data=' + encodeURIComponent(query),
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+  const query = buildOverpassQuery();
+  debugLog('B', 'index.html:fetchTrinkgutFilialen', 'query prepared', {
+    queryLength: query.length,
+    endpointCount: OVERPASS_ENDPOINTS.length,
   });
 
-  if (!resp.ok) throw new Error(`Overpass HTTP ${resp.status}`);
-  const data = await resp.json();
+  let lastError = null;
 
-  setProgress(true, `${data.elements.length} Treffer gefunden, verarbeite…`, 50);
+  for (const url of OVERPASS_ENDPOINTS) {
+    const startedAt = performance.now();
+    const endpointLabel = url.replace('https://', '').split('/')[0];
+    setStatus('loading', `Overpass: ${endpointLabel}…`);
+    debugLog('A', 'index.html:fetchTrinkgutFilialen', 'request start', { url });
 
-  return data.elements.map((el, i) => {
-    const lat = el.lat ?? el.center?.lat;
-    const lon = el.lon ?? el.center?.lon;
-    const tags = el.tags || {};
-    const street = tags['addr:street'] || '';
-    const nr = tags['addr:housenumber'] || '';
-    const city = tags['addr:city'] || '';
-    const adresse = [street + ' ' + nr, city].filter(s => s.trim()).join(', ') || 'Adresse unbekannt';
-    return {
-      id: i,
-      name: tags.name || tags.brand || 'Trinkgut',
-      adresse,
-      lat, lon,
-      biere: [] // wird später simuliert / zugewiesen
-    };
-  }).filter(f => f.lat && f.lon);
+    try {
+      const resp = await fetch(url, {
+        method: 'POST',
+        body: 'data=' + encodeURIComponent(query),
+        headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+        signal: AbortSignal.timeout(45000),
+      });
+
+      const elapsedMs = Math.round(performance.now() - startedAt);
+      const responseText = await resp.text();
+
+      debugLog('A', 'index.html:fetchTrinkgutFilialen', 'response received', {
+        url,
+        status: resp.status,
+        ok: resp.ok,
+        elapsedMs,
+        bodyPreview: responseText.slice(0, 160),
+      });
+
+      if (!resp.ok) {
+        lastError = new Error(`Overpass HTTP ${resp.status} (${url})`);
+        debugLog('C', 'index.html:fetchTrinkgutFilialen', 'non-ok response', {
+          url,
+          status: resp.status,
+          elapsedMs,
+        });
+        continue;
+      }
+
+      let data;
+      try {
+        data = JSON.parse(responseText);
+      } catch (parseError) {
+        lastError = new Error(`Overpass JSON ungültig (${url})`);
+        debugLog('D', 'index.html:fetchTrinkgutFilialen', 'json parse failed', {
+          url,
+          error: parseError.message,
+        });
+        continue;
+      }
+
+      debugLog('E', 'index.html:fetchTrinkgutFilialen', 'success', {
+        url,
+        elementCount: data.elements?.length ?? 0,
+        elapsedMs,
+      });
+
+      setProgress(true, `${data.elements.length} Treffer gefunden, verarbeite…`, 50);
+
+      return data.elements.map((el, i) => {
+        const lat = el.lat ?? el.center?.lat;
+        const lon = el.lon ?? el.center?.lon;
+        const tags = el.tags || {};
+        const street = tags['addr:street'] || '';
+        const nr = tags['addr:housenumber'] || '';
+        const city = tags['addr:city'] || '';
+        const adresse = [street + ' ' + nr, city].filter(s => s.trim()).join(', ') || 'Adresse unbekannt';
+        return {
+          id: i,
+          name: tags.name || tags.brand || 'Trinkgut',
+          adresse,
+          lat, lon,
+          biere: []
+        };
+      }).filter(f => f.lat && f.lon);
+    } catch (error) {
+      const elapsedMs = Math.round(performance.now() - startedAt);
+      lastError = error;
+      debugLog('C', 'index.html:fetchTrinkgutFilialen', 'fetch failed', {
+        url,
+        error: error.message,
+        elapsedMs,
+      });
+    }
+  }
+
+  debugLog('A', 'index.html:fetchTrinkgutFilialen', 'all endpoints failed', {
+    lastError: lastError?.message ?? 'unknown',
+  });
+  throw lastError ?? new Error('Overpass API nicht erreichbar');
 }
 
 // ─── Bier-Zuweisung ────────────────────────────────────────────────────────

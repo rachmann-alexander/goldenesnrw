@@ -10,11 +10,11 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 
 ```
 ├── index.html               # GitHub Pages Frontend (Leaflet-Karte)
+├── config.mjs               # NRW-Brauerei-Whitelist und Keywords
 ├── data/
 │   └── biere.json           # Gecrawlte NRW-Bierliste (täglich aktualisiert)
 ├── crawler/
-│   ├── crawl_trinkgut.mjs   # Node.js-Crawler für trinkgut.de
-│   └── config.mjs           # NRW-Brauerei-Whitelist und Keywords
+│   └── crawl_trinkgut.mjs   # Node.js-Crawler für trinkgut.de
 ├── package.json             # Crawler-Abhängigkeiten (cheerio)
 └── .github/workflows/
     └── crawl.yml            # GitHub Action: täglich um 4:00 UTC
