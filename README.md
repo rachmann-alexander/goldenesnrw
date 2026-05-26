@@ -2,7 +2,7 @@
 
 Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regionalen NRW-Biere dort erhältlich sind.
 
-**→ [Zur Karte](https://DEIN-NAME.github.io/nrw-bier-karte)**
+**→ [Zur Karte](https://rachmann-alexander.github.io/goldenesnrw)**
 
 ---
 
@@ -13,7 +13,9 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 ├── data/
 │   └── biere.json           # Gecrawlte NRW-Bierliste (täglich aktualisiert)
 ├── crawler/
-│   └── crawl_trinkgut.py    # Python-Crawler für trinkgut.de
+│   ├── crawl_trinkgut.mjs   # Node.js-Crawler für trinkgut.de
+│   └── config.mjs           # NRW-Brauerei-Whitelist und Keywords
+├── package.json             # Crawler-Abhängigkeiten (cheerio)
 └── .github/workflows/
     └── crawl.yml            # GitHub Action: täglich um 4:00 UTC
 ```
@@ -23,7 +25,7 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 | Quelle | Was | Wie |
 |--------|-----|-----|
 | [Overpass API](https://overpass-api.de) | Trinkgut-Filialen in NRW | Live im Browser |
-| [trinkgut.de](https://www.trinkgut.de) | NRW-Biersortiment | GitHub Action (täglich) |
+| [trinkgut.de](https://www.trinkgut.de) | NRW-Biersortiment | GitHub Action (täglich, Node.js) |
 
 ## GitHub Pages einrichten
 
@@ -36,7 +38,7 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 
 Die Action `crawl.yml` läuft **täglich um 4:00 UTC** (5 Uhr MEZ / 6 Uhr MESZ):
 
-1. Crawlt `trinkgut.de` nach Bieren
+1. Crawlt `trinkgut.de` nach Bieren (Node.js + cheerio)
 2. Filtert NRW-Produkte nach Brauerei-Whitelist
 3. Schreibt `data/biere.json`
 4. Committet automatisch bei Änderungen
@@ -47,12 +49,12 @@ Manuell auslösen: **Actions → Trinkgut NRW-Biere crawlen → Run workflow**
 
 ```bash
 # Crawler lokal testen
-pip install requests beautifulsoup4 lxml
-python crawler/crawl_trinkgut.py
+npm install
+npm run crawl
 
 # Seite lokal servieren (wichtig wegen fetch() CORS)
-python -m http.server 8000
-# → http://localhost:8000
+npx serve .
+# → http://localhost:3000
 ```
 
 ## NRW-Brauereien (Whitelist)

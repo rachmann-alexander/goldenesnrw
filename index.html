@@ -390,9 +390,9 @@ out center;`;
 }
 
 // ─── Bier-Zuweisung ────────────────────────────────────────────────────────
-// Da ein Live-Crawl von trinkgut.de aufgrund von CORS nicht direkt
-// aus dem Browser möglich ist, simulieren wir eine realistische Verteilung.
-// In einer serverseitigen Lösung würde hier der echte Crawler laufen.
+// Die NRW-Bierliste kommt aus data/biere.json (Node.js-Crawler via GitHub Action).
+// Ein Live-Crawl von trinkgut.de ist im Browser wegen CORS nicht möglich;
+// pro Filiale wird daher eine realistische Verteilung simuliert.
 function assignBeers(filialen) {
   // Realistische Verteilung: größere Filialen haben mehr Sorten
   // Regionale Häufigkeit nach Geographie simuliert

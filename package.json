@@ -1,0 +1,14 @@
+{
+  "name": "goldenesnrw",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "crawl": "node crawler/crawl_trinkgut.mjs"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
