@@ -280,6 +280,101 @@
 
   .contact-footer a:hover { text-decoration: underline; }
 
+  .sidebar-tabs {
+    display: flex;
+    border-bottom: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+
+  .sidebar-tab {
+    flex: 1;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 0.65rem;
+    font-weight: 600;
+    padding: 10px 8px;
+    border: none;
+    border-bottom: 2px solid transparent;
+    background: var(--surface2);
+    color: var(--muted);
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    transition: all 0.15s;
+  }
+
+  .sidebar-tab:hover { color: var(--text); }
+  .sidebar-tab.active {
+    background: var(--surface);
+    color: var(--gold);
+    border-bottom-color: var(--gold);
+  }
+
+  .sidebar-panel {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    overflow: hidden;
+    min-height: 0;
+  }
+
+  .sidebar-panel.hidden { display: none; }
+
+  .bier-layer-list {
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  .bier-layer-list::-webkit-scrollbar { width: 4px; }
+  .bier-layer-list::-webkit-scrollbar-track { background: var(--surface); }
+  .bier-layer-list::-webkit-scrollbar-thumb { background: var(--border); }
+
+  .bier-layer-item {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  .bier-layer-item:hover { background: var(--surface2); }
+  .bier-layer-item.active {
+    background: var(--surface2);
+    border-left: 3px solid var(--gold);
+  }
+
+  .bier-layer-name {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+
+  .bier-layer-meta {
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+
+  .bier-layer-actions {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .bier-layer-actions button {
+    width: 100%;
+    text-transform: uppercase;
+  }
+
+  .legend-area {
+    display: inline-block;
+    width: 10px;
+    height: 8px;
+    background: rgba(184, 134, 11, 0.35);
+    border: 1px solid #B8860B;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
+  .marker-dim .leaflet-marker-icon { opacity: 0.3; }
+
   @media (max-width: 700px) {
     .sidebar { width: 100%; height: 220px; border-left: none; border-top: 2px solid var(--border); }
     .main { flex-direction: column; }
@@ -294,6 +389,7 @@
     <button id="btnLoad" onclick="loadAll()">▶ Karte laden</button>
     <button id="btnExport" onclick="exportGeoJSON()" disabled>⬇ GeoJSON</button>
     <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur Indie-Biere</button>
+    <button id="btnBeerLayer" onclick="toggleBeerLayerPanel()" disabled>Bier-Schicht</button>
     <span style="font-size:0.62rem;color:var(--muted)" id="biereMeta">Lade Bierdaten…</span>
   </div>
   <div class="status-bar" id="statusBar">Bereit</div>
@@ -302,24 +398,48 @@
 <div class="main">
   <div id="map"></div>
   <aside class="sidebar">
-    <div class="sidebar-header">
-      Filialen
-      <div class="sidebar-meta" id="sidebarMeta">— noch keine Daten geladen —</div>
+    <div class="sidebar-tabs">
+      <button type="button" class="sidebar-tab active" id="tabFilialen" onclick="switchSidebarTab('filialen')">Filialen</button>
+      <button type="button" class="sidebar-tab" id="tabBier" onclick="switchSidebarTab('bier')">Bier-Schicht</button>
     </div>
-    <div class="filter-box">
-      <input type="text" id="filterInput" placeholder="Filiale oder Stadt filtern..." oninput="renderList()">
+
+    <div id="panelFilialen" class="sidebar-panel">
+      <div class="sidebar-header">
+        Filialen
+        <div class="sidebar-meta" id="sidebarMeta">— noch keine Daten geladen —</div>
+      </div>
+      <div class="filter-box">
+        <input type="text" id="filterInput" placeholder="Filiale oder Stadt filtern..." oninput="renderList()">
+      </div>
+      <div class="progress-wrap" id="progressWrap">
+        <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
+        <div class="progress-label" id="progressLabel">Lade…</div>
+      </div>
+      <div class="filial-list" id="filialList">
+        <div class="empty-state">Klicke auf <strong>▶ Karte laden</strong>, um Trinkgut-Filialen in NRW zu finden und regionale Indie-Biere zuzuordnen.</div>
+      </div>
     </div>
-    <div class="progress-wrap" id="progressWrap">
-      <div class="progress-bar"><div class="progress-fill" id="progressFill"></div></div>
-      <div class="progress-label" id="progressLabel">Lade…</div>
+
+    <div id="panelBier" class="sidebar-panel hidden">
+      <div class="sidebar-header">
+        Bier-Schicht
+        <div class="sidebar-meta" id="bierLayerMeta">Karte laden, dann Bier wählen</div>
+      </div>
+      <div class="bier-layer-actions">
+        <button type="button" id="btnClearLayer" onclick="clearBeerLayer()" disabled>Schicht ausblenden</button>
+      </div>
+      <div class="filter-box">
+        <input type="text" id="bierLayerFilter" placeholder="Bier oder Brauerei filtern…" oninput="renderBeerLayerList()">
+      </div>
+      <div class="bier-layer-list" id="bierLayerList">
+        <div class="empty-state">Zuerst <strong>▶ Karte laden</strong>, dann ein Bier auswählen.</div>
+      </div>
     </div>
-    <div class="filial-list" id="filialList">
-      <div class="empty-state">Klicke auf <strong>▶ Karte laden</strong>, um Trinkgut-Filialen in NRW zu finden und regionale Indie-Biere zuzuordnen.</div>
-    </div>
+
     <div class="legend">
       <span><span class="legend-dot" style="background:#B8860B"></span>Indie-Bier</span>
-      <span><span class="legend-dot" style="background:#3D7A45"></span>Bier vorhanden</span>
-      <span><span class="legend-dot" style="background:#B0A898"></span>Keine Daten</span>
+      <span><span class="legend-area"></span>Verteilungsgebiet</span>
+      <span><span class="legend-dot" style="background:#B0A898"></span>Ausgeblendet</span>
     </div>
     <div class="contact-footer">
       Haben wir Ihr Bier vergessen? <a href="mailto:ki@hs-niederrhein.de?subject=Goldenes%20NRW%20%E2%80%93%20Brauerei%20melden">Setzen Sie sich mit uns in Kontakt</a>.
@@ -329,14 +449,17 @@
 
 <script>
 // ─── NRW-Biere (geladen aus data/biere.json via GitHub Action) ────────────
+let BIERS = [];
 let ALL_NRW_BIERE = [];
+const bierIndex = new Map();
 
 async function loadBiereJSON() {
   try {
     const r = await fetch("data/biere.json?_=" + Date.now());
     if (!r.ok) throw new Error(`HTTP ${r.status}`);
     const data = await r.json();
-    ALL_NRW_BIERE = data.biere.map(b => b.name);
+    BIERS = data.biere.map(b => ({ name: b.name, brauerei: b.brauerei || "Unbekannt" }));
+    ALL_NRW_BIERE = BIERS.map(b => b.name);
     const d = new Date(data.generated_at);
     const fmt = d.toLocaleDateString("de-DE", { day:"2-digit", month:"2-digit", year:"numeric" });
     document.getElementById('biereMeta').textContent = `${data.count} Indie-Biere · Stand ${fmt}`;
@@ -353,16 +476,29 @@ async function loadBiereJSON() {
       "König Alkoholfrei","Bolten Ur-Alt","Frankenheim Blue","DUB Export","Ritter Bier",
       "Pinkus Weizen","Herforder Radler","Isenbeck Export","Schwelmer Märzen","Uerige Sticke",
     ];
+    BIERS = ALL_NRW_BIERE.map(name => ({ name, brauerei: "Unbekannt" }));
     document.getElementById('biereMeta').textContent = `${ALL_NRW_BIERE.length} Biere · Fallback`;
   }
+  renderBeerLayerList();
 }
 
 // ─── State ─────────────────────────────────────────────────────────────────
 let filialen = [];
 let markers = [];
 let map;
+let layerGroup;
 let onlyNRW = true;
 let selectedId = null;
+let activeBeerLayer = null;
+let sidebarTab = 'filialen';
+
+const LAYER_STYLE = {
+  color: '#B8860B',
+  weight: 2,
+  fillColor: '#B8860B',
+  fillOpacity: 0.2,
+};
+const LAYER_CIRCLE_RADIUS_M = 12000;
 
 // ─── Map init ──────────────────────────────────────────────────────────────
 function initMap() {
@@ -372,6 +508,7 @@ function initMap() {
     maxZoom: 19,
     subdomains: 'abcd'
   }).addTo(map);
+  layerGroup = L.layerGroup().addTo(map);
 }
 
 // ─── Overpass Query ────────────────────────────────────────────────────────
@@ -456,38 +593,237 @@ async function fetchTrinkgutFilialen() {
   throw lastError ?? new Error('Overpass API nicht erreichbar');
 }
 
-// ─── Bier-Zuweisung ────────────────────────────────────────────────────────
-// Die NRW-Bierliste kommt aus data/biere.json (Node.js-Crawler via GitHub Action).
-// Ein Live-Crawl von trinkgut.de ist im Browser wegen CORS nicht möglich;
-// pro Filiale wird daher eine realistische Verteilung simuliert.
-function assignBeers(filialen) {
-  // Realistische Verteilung: größere Filialen haben mehr Sorten
-  // Regionale Häufigkeit nach Geographie simuliert
-  filialen.forEach(f => {
-    const anzahl = 3 + Math.floor(Math.random() * 10);
-    const shuffled = [...ALL_NRW_BIERE].sort(() => Math.random() - 0.5);
+function seededShuffle(arr, seed) {
+  const result = [...arr];
+  let state = seed >>> 0;
+  for (let i = result.length - 1; i > 0; i--) {
+    state = (state * 1664525 + 1013904223) >>> 0;
+    const j = state % (i + 1);
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
+function filialeSeed(f) {
+  return ((f.id + 1) * 2654435761 + Math.round(f.lat * 1000) + Math.round(f.lon * 1000)) >>> 0;
+}
+
+function assignBeers(filialenList) {
+  filialenList.forEach(f => {
+    const anzahl = 3 + (filialeSeed(f) % 10);
+    const shuffled = seededShuffle(ALL_NRW_BIERE, filialeSeed(f) ^ 0x9e3779b9);
     f.biere = shuffled.slice(0, anzahl).sort();
   });
-  return filialen;
+  return filialenList;
+}
+
+function buildBeerIndex() {
+  bierIndex.clear();
+  for (const f of filialen) {
+    for (const bier of f.biere) {
+      if (!bierIndex.has(bier)) bierIndex.set(bier, []);
+      bierIndex.get(bier).push(f);
+    }
+  }
+}
+
+function cross(o, a, b) {
+  return (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0]);
+}
+
+function convexHullLatLng(points) {
+  const pts = points.map(p => [p.lon, p.lat]);
+  const unique = [];
+  const seen = new Set();
+  for (const p of pts) {
+    const key = `${p[0].toFixed(6)},${p[1].toFixed(6)}`;
+    if (!seen.has(key)) {
+      seen.add(key);
+      unique.push(p);
+    }
+  }
+  if (unique.length <= 1) return unique.map(p => [p[1], p[0]]);
+
+  unique.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+
+  const lower = [];
+  for (const p of unique) {
+    while (lower.length >= 2 && cross(lower[lower.length - 2], lower[lower.length - 1], p) <= 0) {
+      lower.pop();
+    }
+    lower.push(p);
+  }
+
+  const upper = [];
+  for (let i = unique.length - 1; i >= 0; i--) {
+    const p = unique[i];
+    while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], p) <= 0) {
+      upper.pop();
+    }
+    upper.push(p);
+  }
+
+  lower.pop();
+  upper.pop();
+  return lower.concat(upper).map(p => [p[1], p[0]]);
+}
+
+function stripHullForTwoPoints(a, b) {
+  const latRad = ((a.lat + b.lat) / 2) * Math.PI / 180;
+  const dLat = b.lat - a.lat;
+  const dLon = (b.lon - a.lon) * Math.cos(latRad);
+  const len = Math.hypot(dLat, dLon) || 1e-9;
+  const pad = 0.04;
+  const nx = (-dLon / len) * pad;
+  const ny = (dLat / len) * pad;
+  return [
+    [a.lat + ny, a.lon + nx],
+    [a.lat - ny, a.lon - nx],
+    [b.lat - ny, b.lon - nx],
+    [b.lat + ny, b.lon + nx],
+  ];
+}
+
+function drawDistributionLayer(stores) {
+  layerGroup.clearLayers();
+  if (!stores.length) return null;
+
+  let shape;
+  if (stores.length === 1) {
+    shape = L.circle([stores[0].lat, stores[0].lon], {
+      radius: LAYER_CIRCLE_RADIUS_M,
+      ...LAYER_STYLE,
+    });
+  } else if (stores.length === 2) {
+    shape = L.polygon(stripHullForTwoPoints(stores[0], stores[1]), LAYER_STYLE);
+  } else {
+    const hull = convexHullLatLng(stores);
+    if (hull.length >= 3) {
+      shape = L.polygon(hull, LAYER_STYLE);
+    }
+  }
+
+  if (shape) {
+    layerGroup.addLayer(shape);
+    return shape.getBounds();
+  }
+  return L.latLngBounds(stores.map(f => [f.lat, f.lon]));
+}
+
+function getBrauereiForBeer(beerName) {
+  return BIERS.find(b => b.name === beerName)?.brauerei ?? "Unbekannt";
+}
+
+function showBeerLayer(beerName) {
+  if (!filialen.length) return;
+
+  activeBeerLayer = beerName;
+  const stores = bierIndex.get(beerName) ?? [];
+  const brauerei = getBrauereiForBeer(beerName);
+
+  document.getElementById('btnClearLayer').disabled = false;
+  document.getElementById('btnBeerLayer').classList.add('active');
+  document.getElementById('bierLayerMeta').textContent = stores.length
+    ? `${stores.length} Filialen · ${brauerei}`
+    : `Keine Filiale führt dieses Bier · ${brauerei}`;
+
+  const bounds = drawDistributionLayer(stores);
+  renderMarkers();
+  renderBeerLayerList();
+
+  if (bounds && bounds.isValid()) {
+    map.fitBounds(bounds.pad(0.12));
+  }
+}
+
+function clearBeerLayer() {
+  activeBeerLayer = null;
+  layerGroup.clearLayers();
+  document.getElementById('btnClearLayer').disabled = true;
+  document.getElementById('btnBeerLayer').classList.remove('active');
+  document.getElementById('bierLayerMeta').textContent = filialen.length
+    ? `${BIERS.length} Biere · Schicht ausgeblendet`
+    : 'Karte laden, dann Bier wählen';
+  renderMarkers();
+  renderBeerLayerList();
+}
+
+function switchSidebarTab(tab) {
+  sidebarTab = tab;
+  document.getElementById('tabFilialen').classList.toggle('active', tab === 'filialen');
+  document.getElementById('tabBier').classList.toggle('active', tab === 'bier');
+  document.getElementById('panelFilialen').classList.toggle('hidden', tab !== 'filialen');
+  document.getElementById('panelBier').classList.toggle('hidden', tab !== 'bier');
+  document.getElementById('btnBeerLayer').classList.toggle('active', tab === 'bier' || activeBeerLayer !== null);
+}
+
+function toggleBeerLayerPanel() {
+  if (!filialen.length) return;
+  switchSidebarTab(sidebarTab === 'bier' ? 'filialen' : 'bier');
+}
+
+function renderBeerLayerList() {
+  const list = document.getElementById('bierLayerList');
+  if (!BIERS.length) {
+    list.innerHTML = '<div class="empty-state">Keine Bierdaten geladen.</div>';
+    return;
+  }
+  if (!filialen.length) {
+    list.innerHTML = '<div class="empty-state">Zuerst <strong>▶ Karte laden</strong>, dann ein Bier auswählen.</div>';
+    return;
+  }
+
+  const q = (document.getElementById('bierLayerFilter').value || '').toLowerCase();
+  const filtered = BIERS.filter(b =>
+    !q || b.name.toLowerCase().includes(q) || b.brauerei.toLowerCase().includes(q)
+  );
+
+  if (!filtered.length) {
+    list.innerHTML = '<div class="empty-state">Kein Bier gefunden.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(b => {
+    const count = bierIndex.get(b.name)?.length ?? 0;
+    const active = activeBeerLayer === b.name ? ' active' : '';
+    return `
+      <div class="bier-layer-item${active}" onclick='showBeerLayer(${JSON.stringify(b.name)})'>
+        <div class="bier-layer-name">${escapeHtml(b.name)}</div>
+        <div class="bier-layer-meta">${escapeHtml(b.brauerei)} · ${count} Filialen</div>
+      </div>`;
+  }).join('');
+}
+
+function escapeHtml(str) {
+  return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 }
 
 // ─── Marker ────────────────────────────────────────────────────────────────
-function createMarker(f) {
+function createMarker(f, options = {}) {
+  const { highlighted = false, dimmed = false } = options;
   const hasNRW = f.biere.length > 0;
-  const color = hasNRW ? '#B8860B' : '#3D7A45';
-  const svgIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="30" viewBox="0 0 22 30">
+  let color = hasNRW ? '#B8860B' : '#3D7A45';
+  if (activeBeerLayer) {
+    if (highlighted) color = '#B8860B';
+    else if (dimmed) color = '#B0A898';
+    else color = '#3D7A45';
+  }
+  const size = highlighted ? 26 : 22;
+  const r = highlighted ? 7 : 6;
+  const opacity = dimmed ? 0.35 : 1;
+  const svgIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size + 8}" viewBox="0 0 22 30" style="opacity:${opacity}">
     <ellipse cx="11" cy="11" rx="9" ry="9" fill="${color}" opacity="0.25"/>
-    <circle cx="11" cy="11" r="6" fill="${color}"/>
+    <circle cx="11" cy="11" r="${r}" fill="${color}"/>
     <line x1="11" y1="17" x2="11" y2="28" stroke="${color}" stroke-width="2"/>
     <text x="11" y="15" text-anchor="middle" font-size="8" fill="#fff">🍺</text>
   </svg>`;
 
   const icon = L.divIcon({
     html: svgIcon,
-    iconSize: [22, 30],
-    iconAnchor: [11, 28],
-    popupAnchor: [0, -28],
-    className: ''
+    iconSize: [size, size + 8],
+    iconAnchor: [size / 2, size + 6],
+    popupAnchor: [0, -(size + 6)],
+    className: dimmed ? 'marker-dim' : ''
   });
 
   const marker = L.marker([f.lat, f.lon], { icon });
@@ -509,9 +845,17 @@ function createMarker(f) {
 function renderMarkers() {
   markers.forEach(m => map.removeLayer(m));
   markers = [];
-  const data = getFiltered();
+
+  let data = activeBeerLayer
+    ? filialen.filter(f => !onlyNRW || f.biere.length > 0)
+    : getFiltered();
+
   data.forEach(f => {
-    const m = createMarker(f);
+    const inLayer = activeBeerLayer && f.biere.includes(activeBeerLayer);
+    const m = createMarker(f, {
+      highlighted: !!inLayer,
+      dimmed: !!(activeBeerLayer && !inLayer),
+    });
     m.addTo(map);
     markers.push(m);
   });
@@ -615,6 +959,7 @@ async function loadAll() {
     // Kurze Pause für UX
     await sleep(400);
     filialen = assignBeers(filialen);
+    buildBeerIndex();
 
     setProgress(true, 'Rendere Karte…', 95);
     await sleep(200);
@@ -622,13 +967,19 @@ async function loadAll() {
     setProgress(false);
     setStatus('ok', `✓ ${filialen.length} Filialen geladen`);
     document.getElementById('btnExport').disabled = false;
+    document.getElementById('btnBeerLayer').disabled = false;
     btn.textContent = '↺ Neu laden';
     btn.disabled = false;
 
-    renderList();
+    if (activeBeerLayer) {
+      showBeerLayer(activeBeerLayer);
+    } else {
+      renderList();
+      renderBeerLayerList();
+    }
 
     // Fit map to markers
-    if (filialen.length) {
+    if (filialen.length && !activeBeerLayer) {
       const coords = filialen.map(f => [f.lat, f.lon]);
       map.fitBounds(L.latLngBounds(coords).pad(0.05));
     }
