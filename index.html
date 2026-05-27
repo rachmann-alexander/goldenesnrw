@@ -375,6 +375,69 @@
 
   .marker-dim .leaflet-marker-icon { opacity: 0.3; }
 
+  .brauerei-item {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+
+  .brauerei-item:hover { background: var(--surface2); }
+  .brauerei-item.selected {
+    background: var(--surface2);
+    border-left: 3px solid var(--amber);
+  }
+
+  .brauerei-name {
+    font-size: 0.72rem;
+    font-weight: 600;
+    color: var(--text);
+    margin-bottom: 2px;
+  }
+
+  .brauerei-meta {
+    font-size: 0.62rem;
+    color: var(--muted);
+  }
+
+  .brauerei-badge {
+    display: inline-block;
+    font-size: 0.55rem;
+    padding: 1px 5px;
+    margin-left: 6px;
+    border: 1px solid var(--border);
+    color: var(--muted);
+    vertical-align: middle;
+    letter-spacing: 0.04em;
+  }
+
+  .brauerei-detail {
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+    background: var(--surface2);
+    font-size: 0.65rem;
+    line-height: 1.7;
+    color: var(--text);
+  }
+
+  .brauerei-detail h3 {
+    font-family: 'Playfair Display', serif;
+    font-size: 0.9rem;
+    color: var(--amber);
+    margin-bottom: 6px;
+  }
+
+  .brauerei-detail a { color: var(--gold); }
+
+  .legend-building {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    background: #C17A24;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
   @media (max-width: 700px) {
     .sidebar { width: 100%; height: 220px; border-left: none; border-top: 2px solid var(--border); }
     .main { flex-direction: column; }
@@ -390,7 +453,9 @@
     <button id="btnExport" onclick="exportGeoJSON()" disabled>⬇ GeoJSON</button>
     <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur Indie-Biere</button>
     <button id="btnBeerLayer" onclick="toggleBeerLayerPanel()" disabled>Bier-Schicht</button>
+    <button id="btnStammhaus" onclick="toggleStammhausLayer()">Stammhäuser</button>
     <span style="font-size:0.62rem;color:var(--muted)" id="biereMeta">Lade Bierdaten…</span>
+    <span style="font-size:0.62rem;color:var(--muted)" id="brauereienMeta"></span>
   </div>
   <div class="status-bar" id="statusBar">Bereit</div>
 </header>
@@ -401,6 +466,7 @@
     <div class="sidebar-tabs">
       <button type="button" class="sidebar-tab active" id="tabFilialen" onclick="switchSidebarTab('filialen')">Filialen</button>
       <button type="button" class="sidebar-tab" id="tabBier" onclick="switchSidebarTab('bier')">Bier-Schicht</button>
+      <button type="button" class="sidebar-tab" id="tabBrauereien" onclick="switchSidebarTab('brauereien')">Brauereien</button>
     </div>
 
     <div id="panelFilialen" class="sidebar-panel">
@@ -436,9 +502,24 @@
       </div>
     </div>
 
+    <div id="panelBrauereien" class="sidebar-panel hidden">
+      <div class="sidebar-header">
+        Brauereien
+        <div class="sidebar-meta" id="brauereienSidebarMeta">Stammhaus-Metadaten</div>
+      </div>
+      <div id="brauereiDetail"></div>
+      <div class="filter-box">
+        <input type="text" id="brauereiFilter" placeholder="Brauerei oder Ort filtern…" oninput="renderBrauereiList()">
+      </div>
+      <div class="bier-layer-list" id="brauereiList">
+        <div class="empty-state">Lade Brauerei-Daten…</div>
+      </div>
+    </div>
+
     <div class="legend">
       <span><span class="legend-dot" style="background:#B8860B"></span>Indie-Bier</span>
       <span><span class="legend-area"></span>Verteilungsgebiet</span>
+      <span><span class="legend-building"></span>Stammhaus</span>
       <span><span class="legend-dot" style="background:#B0A898"></span>Ausgeblendet</span>
     </div>
     <div class="contact-footer">
@@ -482,6 +563,192 @@ async function loadBiereJSON() {
   renderBeerLayerList();
 }
 
+// ─── Brauereien / Stammhaus (data/brauereien.json) ─────────────────────────
+let BRAUEREIEN = [];
+let stammhausLayerGroup;
+let showStammhausLayer = false;
+const stammhausMarkers = new Map();
+let selectedBrauerei = null;
+
+async function loadBrauereienJSON() {
+  try {
+    const r = await fetch("data/brauereien.json?_=" + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+    BRAUEREIEN = data.brauereien || [];
+    const d = new Date(data.generated_at);
+    const fmt = d.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit", year: "numeric" });
+    document.getElementById('brauereienMeta').textContent =
+      `${data.count} Brauereien · ${data.with_coordinates} auf Karte · ${fmt}`;
+    buildStammhausMarkers();
+    renderBrauereiList();
+    console.log(`✓ brauereien.json geladen: ${data.count} Brauereien`);
+  } catch (e) {
+    console.warn("brauereien.json nicht geladen:", e.message);
+    document.getElementById('brauereienMeta').textContent = "Brauerei-Daten nicht verfügbar";
+    document.getElementById('brauereiList').innerHTML =
+      '<div class="empty-state">brauereien.json konnte nicht geladen werden.</div>';
+  }
+}
+
+function formatAbsatz(hl) {
+  if (hl == null) return null;
+  if (hl >= 1_000_000) {
+    const mio = hl / 1_000_000;
+    const txt = mio >= 10 ? Math.round(mio) : mio.toFixed(1).replace(/\.0$/, "");
+    return `${txt} Mio. hl/Jahr`;
+  }
+  if (hl >= 1000) return `${Math.round(hl / 1000)} Tsd. hl/Jahr`;
+  return `${hl} hl/Jahr`;
+}
+
+function stammhausPopupHTML(b) {
+  const s = b.stammhaus || {};
+  const absatz = formatAbsatz(b.absatz_hl);
+  const lines = [
+    s.adresse ? `<div class="popup-addr">${escapeHtml(s.adresse)}</div>` : "",
+    b.geschaeftsfuehrung ? `<div>Geschäftsführung: ${escapeHtml(b.geschaeftsfuehrung)}</div>` : "",
+    absatz ? `<div>Absatz: ${escapeHtml(absatz)}</div>` : "",
+    b.gruendung ? `<div>Gegründet: ${b.gruendung}</div>` : "",
+    b.website ? `<div><a href="${escapeHtml(b.website)}" target="_blank" rel="noopener">Website</a></div>` : "",
+    !b.geschaeftsfuehrung && !absatz ? '<div style="color:#7A6F5C;font-size:0.62rem;margin-top:4px">Weitere Angaben folgen.</div>' : "",
+  ].filter(Boolean).join("");
+  return `<div class="popup-name">${escapeHtml(b.name)}</div>${lines}`;
+}
+
+function brauereiDetailHTML(b) {
+  const s = b.stammhaus || {};
+  const absatz = formatAbsatz(b.absatz_hl);
+  const rows = [
+    s.adresse ? `<div><strong>Adresse:</strong> ${escapeHtml(s.adresse)}</div>` : (s.ort ? `<div><strong>Ort:</strong> ${escapeHtml(s.ort)}</div>` : ""),
+    b.geschaeftsfuehrung ? `<div><strong>Geschäftsführung:</strong> ${escapeHtml(b.geschaeftsfuehrung)}</div>` : "",
+    absatz ? `<div><strong>Absatz:</strong> ${escapeHtml(absatz)}</div>` : "",
+    b.gruendung ? `<div><strong>Gegründet:</strong> ${b.gruendung}</div>` : "",
+    b.website ? `<div><strong>Website:</strong> <a href="${escapeHtml(b.website)}" target="_blank" rel="noopener">${escapeHtml(b.website.replace(/^https?:\/\//, ""))}</a></div>` : "",
+    b.biere?.length ? `<div style="margin-top:6px"><strong>Biere:</strong> ${escapeHtml(b.biere.slice(0, 4).join(", "))}${b.biere.length > 4 ? " …" : ""}</div>` : "",
+  ].filter(Boolean).join("");
+  return `<div class="brauerei-detail"><h3>${escapeHtml(b.name)}</h3>${rows || "<div>Keine weiteren Metadaten.</div>"}</div>`;
+}
+
+function createStammhausMarker(b) {
+  const color = "#C17A24";
+  const size = 24;
+  const svgIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="${size}" height="${size + 8}" viewBox="0 0 24 32">
+    <rect x="4" y="10" width="16" height="14" fill="${color}" opacity="0.25"/>
+    <path d="M12 4 L20 12 H16 V22 H8 V12 H4 Z" fill="${color}"/>
+    <line x1="12" y1="22" x2="12" y2="30" stroke="${color}" stroke-width="2"/>
+  </svg>`;
+  const icon = L.divIcon({
+    html: svgIcon,
+    iconSize: [size, size + 8],
+    iconAnchor: [size / 2, size + 6],
+    popupAnchor: [0, -(size + 6)],
+    className: "",
+  });
+  const marker = L.marker([b.stammhaus.lat, b.stammhaus.lon], { icon });
+  marker.bindPopup(stammhausPopupHTML(b));
+  marker.on("click", () => selectBrauerei(b.name, { skipPan: true }));
+  return marker;
+}
+
+function buildStammhausMarkers() {
+  stammhausLayerGroup.clearLayers();
+  stammhausMarkers.clear();
+  for (const b of BRAUEREIEN) {
+    if (b.stammhaus?.lat == null || b.stammhaus?.lon == null) continue;
+    const marker = createStammhausMarker(b);
+    stammhausMarkers.set(b.name, marker);
+    stammhausLayerGroup.addLayer(marker);
+  }
+}
+
+function updateStammhausLayerVisibility() {
+  if (showStammhausLayer) {
+    if (!map.hasLayer(stammhausLayerGroup)) stammhausLayerGroup.addTo(map);
+  } else if (map.hasLayer(stammhausLayerGroup)) {
+    map.removeLayer(stammhausLayerGroup);
+  }
+}
+
+function toggleStammhausLayer() {
+  showStammhausLayer = !showStammhausLayer;
+  document.getElementById('btnStammhaus').classList.toggle('active', showStammhausLayer);
+  updateStammhausLayerVisibility();
+}
+
+function hasStammhausCoords(b) {
+  return b.stammhaus?.lat != null && b.stammhaus?.lon != null;
+}
+
+function renderBrauereiList() {
+  const list = document.getElementById('brauereiList');
+  const detail = document.getElementById('brauereiDetail');
+  if (!BRAUEREIEN.length) {
+    list.innerHTML = '<div class="empty-state">Keine Brauerei-Daten geladen.</div>';
+    detail.innerHTML = "";
+    return;
+  }
+
+  const q = (document.getElementById('brauereiFilter').value || '').toLowerCase();
+  const filtered = BRAUEREIEN.filter(b => {
+    const ort = b.stammhaus?.ort || "";
+    return !q || b.name.toLowerCase().includes(q) || ort.toLowerCase().includes(q);
+  });
+
+  const withCoords = BRAUEREIEN.filter(hasStammhausCoords).length;
+  document.getElementById('brauereienSidebarMeta').textContent =
+    `${filtered.length} von ${BRAUEREIEN.length} · ${withCoords} auf Karte`;
+
+  const selected = selectedBrauerei ? BRAUEREIEN.find(b => b.name === selectedBrauerei) : null;
+  detail.innerHTML = selected ? brauereiDetailHTML(selected) : "";
+
+  if (!filtered.length) {
+    list.innerHTML = '<div class="empty-state">Keine Brauerei gefunden.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(b => {
+    const ort = b.stammhaus?.ort || "—";
+    const badge = hasStammhausCoords(b) ? "" : '<span class="brauerei-badge">Keine Karte</span>';
+    const active = selectedBrauerei === b.name ? " selected" : "";
+    return `
+      <div class="brauerei-item${active}" onclick='selectBrauerei(${JSON.stringify(b.name)})'>
+        <div class="brauerei-name">${escapeHtml(b.name)}${badge}</div>
+        <div class="brauerei-meta">${escapeHtml(ort)} · ${b.biere?.length ?? 0} Biere</div>
+      </div>`;
+  }).join("");
+}
+
+function selectBrauerei(name, options = {}) {
+  const { skipPan = false } = options;
+  selectedBrauerei = name;
+  const b = BRAUEREIEN.find(x => x.name === name);
+  if (!b) return;
+
+  if (!showStammhausLayer) {
+    showStammhausLayer = true;
+    document.getElementById('btnStammhaus').classList.add('active');
+    updateStammhausLayerVisibility();
+  }
+
+  switchSidebarTab('brauereien');
+  renderBrauereiList();
+
+  if (hasStammhausCoords(b) && !skipPan) {
+    map.setView([b.stammhaus.lat, b.stammhaus.lon], 13);
+    stammhausMarkers.get(name)?.openPopup();
+  }
+
+  const items = document.querySelectorAll('.brauerei-item');
+  const q = (document.getElementById('brauereiFilter').value || '').toLowerCase();
+  const filtered = BRAUEREIEN.filter(br => {
+    const ort = br.stammhaus?.ort || "";
+    return !q || br.name.toLowerCase().includes(q) || ort.toLowerCase().includes(q);
+  });
+  const idx = filtered.findIndex(x => x.name === name);
+  if (items[idx]) items[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+}
+
 // ─── State ─────────────────────────────────────────────────────────────────
 let filialen = [];
 let markers = [];
@@ -509,6 +776,7 @@ function initMap() {
     subdomains: 'abcd'
   }).addTo(map);
   layerGroup = L.layerGroup().addTo(map);
+  stammhausLayerGroup = L.layerGroup();
 }
 
 // ─── Overpass Query ────────────────────────────────────────────────────────
@@ -752,8 +1020,10 @@ function switchSidebarTab(tab) {
   sidebarTab = tab;
   document.getElementById('tabFilialen').classList.toggle('active', tab === 'filialen');
   document.getElementById('tabBier').classList.toggle('active', tab === 'bier');
+  document.getElementById('tabBrauereien').classList.toggle('active', tab === 'brauereien');
   document.getElementById('panelFilialen').classList.toggle('hidden', tab !== 'filialen');
   document.getElementById('panelBier').classList.toggle('hidden', tab !== 'bier');
+  document.getElementById('panelBrauereien').classList.toggle('hidden', tab !== 'brauereien');
   document.getElementById('btnBeerLayer').classList.toggle('active', tab === 'bier' || activeBeerLayer !== null);
 }
 
@@ -1013,6 +1283,7 @@ function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 // ─── Init ──────────────────────────────────────────────────────────────────
 initMap();
 loadBiereJSON();
+loadBrauereienJSON();
 </script>
 </body>
 </html>

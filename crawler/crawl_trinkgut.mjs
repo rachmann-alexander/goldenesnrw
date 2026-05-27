@@ -18,6 +18,7 @@ import {
   NRW_BRAUEREIEN,
   NRW_KEYWORDS,
   PRODUCT_SELECTORS,
+  getBrauereiBiere,
 } from "../config.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -193,8 +194,8 @@ function normalizeCategoryPath(href) {
 
 function buildFallbackList() {
   const nrwBiere = [];
-  for (const [brauerei, biere] of Object.entries(NRW_BRAUEREIEN)) {
-    for (const bier of biere) {
+  for (const brauerei of Object.keys(NRW_BRAUEREIEN)) {
+    for (const bier of getBrauereiBiere(brauerei)) {
       nrwBiere.push({ name: bier, brauerei });
     }
   }

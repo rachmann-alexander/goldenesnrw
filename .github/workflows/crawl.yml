@@ -13,6 +13,9 @@ on:
     branches: [main]
     paths:
       - "crawler/**"
+      - "config.mjs"
+      - "config/**"
+      - "scripts/**"
       - "package.json"
       - "package-lock.json"
       - ".github/workflows/crawl.yml"
@@ -41,10 +44,13 @@ jobs:
         run: npm run crawl
         timeout-minutes: 15
 
+      - name: Brauereien exportieren
+        run: npm run export:brauereien
+
       - name: Auf Änderungen prüfen
         id: changes
         run: |
-          git diff --quiet data/biere.json \
+          git diff --quiet data/biere.json data/brauereien.json \
             && echo "changed=false" >> $GITHUB_OUTPUT \
             || echo "changed=true" >> $GITHUB_OUTPUT
 
@@ -53,10 +59,11 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/biere.json
+          git add data/biere.json data/brauereien.json
           DATUM=$(date -u +"%Y-%m-%d %H:%M UTC")
           COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/biere.json')).count)")
-          git commit -m "🍺 biere.json aktualisiert – ${COUNT} NRW-Biere (${DATUM})"
+          BRAU=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/brauereien.json')).count)")
+          git commit -m "🍺 Daten aktualisiert – ${COUNT} Biere, ${BRAU} Brauereien (${DATUM})"
           git push
 
       - name: Zusammenfassung
@@ -70,6 +77,11 @@ jobs:
             echo "|------|------|" >> $GITHUB_STEP_SUMMARY
             echo "| NRW-Biere gefunden | **${COUNT}** |" >> $GITHUB_STEP_SUMMARY
             echo "| Generiert am | ${DATUM} |" >> $GITHUB_STEP_SUMMARY
+            if [ -f data/brauereien.json ]; then
+              BRAU=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/brauereien.json')).count)")
+              COORDS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/brauereien.json')).with_coordinates)")
+              echo "| Brauereien (Stammhaus) | **${BRAU}** (${COORDS} mit Koordinaten) |" >> $GITHUB_STEP_SUMMARY
+            fi
             echo "| Geändert | ${{ steps.changes.outputs.changed }} |" >> $GITHUB_STEP_SUMMARY
           else
             echo "❌ data/biere.json wurde nicht erzeugt" >> $GITHUB_STEP_SUMMARY
