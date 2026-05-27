@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NRW Bier Karte – Trinkgut Filialen</title>
+<title>Goldenes NRW – Indie-Biere aus NRW</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=IBM+Plex+Mono:wght@400;600&display=swap" rel="stylesheet">
@@ -12,16 +12,17 @@
 
 <style>
   :root {
-    --gold: #D4A017;
+    --gold: #B8860B;
     --amber: #C17A24;
-    --dark: #0E0B07;
-    --surface: #1A1409;
-    --surface2: #251C0D;
-    --text: #F0E6C8;
-    --muted: #8A7A5A;
-    --border: #3A2E1A;
-    --green: #4A7C3F;
-    --red: #8B2E2E;
+    --dark: #FAF7F0;
+    --surface: #FFFFFF;
+    --surface2: #F3EDE0;
+    --text: #2C2416;
+    --muted: #7A6F5C;
+    --border: #E2D8C4;
+    --green: #3D7A45;
+    --red: #B54545;
+    --accent: #D4A017;
   }
 
   * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -38,7 +39,8 @@
 
   header {
     background: var(--surface);
-    border-bottom: 2px solid var(--gold);
+    border-bottom: 1px solid var(--border);
+    box-shadow: 0 1px 8px rgba(44, 36, 22, 0.06);
     padding: 12px 20px;
     display: flex;
     align-items: center;
@@ -49,14 +51,24 @@
 
   .logo {
     font-family: 'Playfair Display', serif;
-    font-size: 1.5rem;
+    font-size: 1.15rem;
     font-weight: 900;
-    color: var(--gold);
-    letter-spacing: -0.02em;
-    white-space: nowrap;
+    color: var(--text);
+    letter-spacing: -0.01em;
+    line-height: 1.25;
+    max-width: 280px;
   }
 
-  .logo span { color: var(--amber); }
+  .logo em {
+    font-style: normal;
+    color: var(--gold);
+    display: block;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+  }
 
   .header-controls {
     display: flex;
@@ -79,9 +91,9 @@
     text-transform: uppercase;
     transition: all 0.15s;
   }
-  button:hover { background: var(--gold); color: var(--dark); }
+  button:hover { background: var(--gold); color: #fff; border-color: var(--gold); }
   button:disabled { opacity: 0.4; cursor: not-allowed; }
-  button.active { background: var(--gold); color: var(--dark); }
+  button.active { background: var(--gold); color: #fff; border-color: var(--gold); }
 
   .status-bar {
     font-size: 0.68rem;
@@ -101,7 +113,7 @@
 
   #map {
     flex: 1;
-    background: #111;
+    background: #EAE6DC;
   }
 
   .sidebar {
@@ -206,9 +218,9 @@
   /* Leaflet popup custom style */
   .leaflet-popup-content-wrapper {
     background: var(--surface) !important;
-    border: 1.5px solid var(--gold) !important;
-    border-radius: 0 !important;
-    box-shadow: 0 4px 20px rgba(0,0,0,0.6) !important;
+    border: 1px solid var(--border) !important;
+    border-radius: 4px !important;
+    box-shadow: 0 4px 16px rgba(44, 36, 22, 0.12) !important;
   }
   .leaflet-popup-tip { background: var(--surface) !important; }
   .leaflet-popup-content { color: var(--text) !important; font-family: 'IBM Plex Mono', monospace; font-size: 0.72rem; min-width: 200px; }
@@ -251,6 +263,23 @@
   }
   .legend-dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 4px; vertical-align: middle; }
 
+  .contact-footer {
+    padding: 12px 16px;
+    border-top: 1px solid var(--border);
+    background: var(--surface2);
+    font-size: 0.62rem;
+    line-height: 1.6;
+    color: var(--muted);
+  }
+
+  .contact-footer a {
+    color: var(--gold);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  .contact-footer a:hover { text-decoration: underline; }
+
   @media (max-width: 700px) {
     .sidebar { width: 100%; height: 220px; border-left: none; border-top: 2px solid var(--border); }
     .main { flex-direction: column; }
@@ -260,11 +289,11 @@
 <body>
 
 <header>
-  <div class="logo">🍺 NRW<span>Bier</span>Karte</div>
+  <div class="logo"><em>Goldenes NRW</em>Indie-Biere aus NRW</div>
   <div class="header-controls">
     <button id="btnLoad" onclick="loadAll()">▶ Karte laden</button>
     <button id="btnExport" onclick="exportGeoJSON()" disabled>⬇ GeoJSON</button>
-    <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur NRW-Biere</button>
+    <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur Indie-Biere</button>
     <span style="font-size:0.62rem;color:var(--muted)" id="biereMeta">Lade Bierdaten…</span>
   </div>
   <div class="status-bar" id="statusBar">Bereit</div>
@@ -285,12 +314,15 @@
       <div class="progress-label" id="progressLabel">Lade…</div>
     </div>
     <div class="filial-list" id="filialList">
-      <div class="empty-state">Klicke auf <strong>▶ Karte laden</strong>, um Trinkgut-Filialen in NRW über OpenStreetMap zu suchen und NRW-Biere zuzuordnen.</div>
+      <div class="empty-state">Klicke auf <strong>▶ Karte laden</strong>, um Trinkgut-Filialen in NRW zu finden und regionale Indie-Biere zuzuordnen.</div>
     </div>
     <div class="legend">
-      <span><span class="legend-dot" style="background:#D4A017"></span>NRW-Bier</span>
-      <span><span class="legend-dot" style="background:#4A7C3F"></span>Bier vorhanden</span>
-      <span><span class="legend-dot" style="background:#555"></span>Keine Daten</span>
+      <span><span class="legend-dot" style="background:#B8860B"></span>Indie-Bier</span>
+      <span><span class="legend-dot" style="background:#3D7A45"></span>Bier vorhanden</span>
+      <span><span class="legend-dot" style="background:#B0A898"></span>Keine Daten</span>
+    </div>
+    <div class="contact-footer">
+      Haben wir Ihr Bier vergessen? <a href="mailto:ki@hs-niederrhein.de?subject=Goldenes%20NRW%20%E2%80%93%20Brauerei%20melden">Setzen Sie sich mit uns in Kontakt</a>.
     </div>
   </aside>
 </div>
@@ -307,7 +339,7 @@ async function loadBiereJSON() {
     ALL_NRW_BIERE = data.biere.map(b => b.name);
     const d = new Date(data.generated_at);
     const fmt = d.toLocaleDateString("de-DE", { day:"2-digit", month:"2-digit", year:"numeric" });
-    document.getElementById('biereMeta').textContent = `${data.count} NRW-Biere · Stand ${fmt}`;
+    document.getElementById('biereMeta').textContent = `${data.count} Indie-Biere · Stand ${fmt}`;
     console.log(`✓ biere.json geladen: ${data.count} Biere`);
   } catch (e) {
     console.warn("biere.json nicht geladen, nutze Fallback:", e.message);
@@ -335,7 +367,7 @@ let selectedId = null;
 // ─── Map init ──────────────────────────────────────────────────────────────
 function initMap() {
   map = L.map('map', { zoomControl: true }).setView([51.5, 7.5], 8);
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
     attribution: '© OpenStreetMap | © CartoDB',
     maxZoom: 19,
     subdomains: 'abcd'
@@ -351,7 +383,6 @@ const OVERPASS_ENDPOINTS = [
 ];
 
 function buildOverpassQuery() {
-  // Bbox NRW + exakter brand-Match: deutlich schneller als Regex über area
   return `[out:json][timeout:15];
 (
   node["brand"="Trinkgut"](50.3,5.8,52.6,9.5);
@@ -360,29 +391,16 @@ function buildOverpassQuery() {
 out center;`;
 }
 
-function debugLog(hypothesisId, location, message, data = {}) {
-  // #region agent log
-  fetch('http://127.0.0.1:7471/ingest/a40ecb02-315d-458c-b287-ffb4f598de07',{method:'POST',headers:{'Content-Type':'application/json','X-Debug-Session-Id':'e2081a'},body:JSON.stringify({sessionId:'e2081a',runId:'pre-fix',hypothesisId,location,message,data,timestamp:Date.now()})}).catch(()=>{});
-  // #endregion
-}
-
 async function fetchTrinkgutFilialen() {
   setStatus('loading', 'Lade Filialen via Overpass API…');
   setProgress(true, 'Abfrage OpenStreetMap Overpass…', 10);
 
   const query = buildOverpassQuery();
-  debugLog('B', 'index.html:fetchTrinkgutFilialen', 'query prepared', {
-    queryLength: query.length,
-    endpointCount: OVERPASS_ENDPOINTS.length,
-  });
-
   let lastError = null;
 
   for (const url of OVERPASS_ENDPOINTS) {
-    const startedAt = performance.now();
     const endpointLabel = url.replace('https://', '').split('/')[0];
     setStatus('loading', `Overpass: ${endpointLabel}…`);
-    debugLog('A', 'index.html:fetchTrinkgutFilialen', 'request start', { url });
 
     try {
       const resp = await fetch(url, {
@@ -392,44 +410,25 @@ async function fetchTrinkgutFilialen() {
         signal: AbortSignal.timeout(45000),
       });
 
-      const elapsedMs = Math.round(performance.now() - startedAt);
       const responseText = await resp.text();
 
-      debugLog('A', 'index.html:fetchTrinkgutFilialen', 'response received', {
-        url,
-        status: resp.status,
-        ok: resp.ok,
-        elapsedMs,
-        bodyPreview: responseText.slice(0, 160),
-      });
-
       if (!resp.ok) {
-        lastError = new Error(`Overpass HTTP ${resp.status} (${url})`);
-        debugLog('C', 'index.html:fetchTrinkgutFilialen', 'non-ok response', {
-          url,
-          status: resp.status,
-          elapsedMs,
-        });
+        lastError = new Error(`Overpass HTTP ${resp.status} (${endpointLabel})`);
         continue;
       }
 
       let data;
       try {
         data = JSON.parse(responseText);
-      } catch (parseError) {
-        lastError = new Error(`Overpass JSON ungültig (${url})`);
-        debugLog('D', 'index.html:fetchTrinkgutFilialen', 'json parse failed', {
-          url,
-          error: parseError.message,
-        });
+      } catch {
+        lastError = new Error(`Overpass JSON ungültig (${endpointLabel})`);
         continue;
       }
 
-      debugLog('E', 'index.html:fetchTrinkgutFilialen', 'success', {
-        url,
-        elementCount: data.elements?.length ?? 0,
-        elapsedMs,
-      });
+      if (data.remark && (!data.elements || data.elements.length === 0)) {
+        lastError = new Error(`Overpass: ${data.remark}`);
+        continue;
+      }
 
       setProgress(true, `${data.elements.length} Treffer gefunden, verarbeite…`, 50);
 
@@ -450,19 +449,10 @@ async function fetchTrinkgutFilialen() {
         };
       }).filter(f => f.lat && f.lon);
     } catch (error) {
-      const elapsedMs = Math.round(performance.now() - startedAt);
       lastError = error;
-      debugLog('C', 'index.html:fetchTrinkgutFilialen', 'fetch failed', {
-        url,
-        error: error.message,
-        elapsedMs,
-      });
     }
   }
 
-  debugLog('A', 'index.html:fetchTrinkgutFilialen', 'all endpoints failed', {
-    lastError: lastError?.message ?? 'unknown',
-  });
   throw lastError ?? new Error('Overpass API nicht erreichbar');
 }
 
@@ -484,12 +474,12 @@ function assignBeers(filialen) {
 // ─── Marker ────────────────────────────────────────────────────────────────
 function createMarker(f) {
   const hasNRW = f.biere.length > 0;
-  const color = hasNRW ? '#D4A017' : '#4A7C3F';
+  const color = hasNRW ? '#B8860B' : '#3D7A45';
   const svgIcon = `<svg xmlns="http://www.w3.org/2000/svg" width="22" height="30" viewBox="0 0 22 30">
     <ellipse cx="11" cy="11" rx="9" ry="9" fill="${color}" opacity="0.25"/>
     <circle cx="11" cy="11" r="6" fill="${color}"/>
     <line x1="11" y1="17" x2="11" y2="28" stroke="${color}" stroke-width="2"/>
-    <text x="11" y="15" text-anchor="middle" font-size="8" fill="#0E0B07">🍺</text>
+    <text x="11" y="15" text-anchor="middle" font-size="8" fill="#fff">🍺</text>
   </svg>`;
 
   const icon = L.divIcon({
@@ -504,7 +494,7 @@ function createMarker(f) {
 
   const biereHTML = f.biere.length
     ? f.biere.map(b => `<span class="popup-bier">${b}</span>`).join('')
-    : '<span style="color:#8A7A5A;font-size:0.65rem">Keine Daten</span>';
+    : '<span style="color:#7A6F5C;font-size:0.65rem">Keine Daten</span>';
 
   marker.bindPopup(`
     <div class="popup-name">${f.name}</div>
@@ -620,7 +610,7 @@ async function loadAll() {
 
   try {
     filialen = await fetchTrinkgutFilialen();
-    setProgress(true, `Weise NRW-Biere zu…`, 75);
+    setProgress(true, `Weise Indie-Biere zu…`, 75);
 
     // Kurze Pause für UX
     await sleep(400);

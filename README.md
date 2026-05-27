@@ -1,6 +1,6 @@
-# 🍺 NRW Bier Karte
+# Goldenes NRW – Indie-Biere aus NRW
 
-Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regionalen NRW-Biere dort erhältlich sind.
+Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren aus Nordrhein-Westfalen.
 
 **→ [Zur Karte](https://rachmann-alexander.github.io/goldenesnrw)**
 
@@ -10,7 +10,7 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 
 ```
 ├── index.html               # GitHub Pages Frontend (Leaflet-Karte)
-├── config.mjs               # NRW-Brauerei-Whitelist und Keywords
+├── config.mjs               # NRW-Brauerei-Whitelist (Wikipedia-Referenz)
 ├── data/
 │   └── biere.json           # Gecrawlte NRW-Bierliste (täglich aktualisiert)
 ├── crawler/
@@ -25,7 +25,8 @@ Interaktive Karte aller **Trinkgut-Filialen in NRW** mit Anzeige, welche regiona
 | Quelle | Was | Wie |
 |--------|-----|-----|
 | [Overpass API](https://overpass-api.de) | Trinkgut-Filialen in NRW | Live im Browser |
-| [trinkgut.de](https://www.trinkgut.de) | NRW-Biersortiment | GitHub Action (täglich, Node.js) |
+| [trinkgut.de](https://www.trinkgut.de) | Indie-Biersortiment NRW | GitHub Action (täglich, Node.js) |
+| [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen) | Brauerei-Referenz NRW | `config.mjs` |
 
 ## GitHub Pages einrichten
 
@@ -57,9 +58,11 @@ npx serve .
 # → http://localhost:3000
 ```
 
-## NRW-Brauereien (Whitelist)
+## NRW-Brauereien (Referenz)
 
-Warsteiner · Krombacher · Veltins · DAB · Diebels · Uerige · Füchschen · Schumacher · Gaffel · Reissdorf · Früh · Sion · Dom · Päffgen · Peters · Stifts · Bolten · Hannen · Frankenheim · Schlösser · König · Brinkhoff · Dortmunder Union · Pinkus Müller · Herforder · Isenbeck · Schwelmer · Ritter
+Die Whitelist in [`config.mjs`](config.mjs) basiert auf der [Wikipedia-Liste der Brauereien in NRW](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen) (~168 Brauereien).
+
+Fehlt eine Brauerei? [ki@hs-niederrhein.de](mailto:ki@hs-niederrhein.de)
 
 ---
 
