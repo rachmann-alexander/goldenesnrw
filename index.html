@@ -461,7 +461,7 @@
     <button id="btnLoad" onclick="loadAll()">▶ Karte laden</button>
     <button id="btnExport" onclick="exportGeoJSON()" disabled>⬇ GeoJSON</button>
     <button id="btnOnlyNRW" class="active" onclick="toggleNRW()">Nur Indie-Biere</button>
-    <button id="btnBeerLayer" onclick="toggleBeerLayerPanel()" disabled>Bier-Schicht</button>
+    <button id="btnBeerLayer" onclick="toggleBeerLayerPanel()">Bier-Schicht</button>
     <button id="btnStammhaus" onclick="toggleStammhausLayer()">Stammhäuser</button>
     <span style="font-size:0.62rem;color:var(--muted)" id="biereMeta">Lade Bierdaten…</span>
     <span style="font-size:0.62rem;color:var(--muted)" id="brauereienMeta"></span>
@@ -498,7 +498,7 @@
     <div id="panelBier" class="sidebar-panel hidden">
       <div class="sidebar-header">
         Bier-Schicht
-        <div class="sidebar-meta" id="bierLayerMeta">Karte laden, dann Bier wählen</div>
+        <div class="sidebar-meta" id="bierLayerMeta">Lade Bierdaten…</div>
       </div>
       <div class="bier-layer-actions">
         <button type="button" id="btnClearLayer" onclick="clearBeerLayer()" disabled>Schicht ausblenden</button>
@@ -507,14 +507,14 @@
         <input type="text" id="bierLayerFilter" placeholder="Bier oder Brauerei filtern…" oninput="renderBeerLayerList()">
       </div>
       <div class="bier-layer-list" id="bierLayerList">
-        <div class="empty-state">Zuerst <strong>▶ Karte laden</strong>, dann ein Bier auswählen.</div>
+        <div class="empty-state">Lade Bierdaten…</div>
       </div>
     </div>
 
     <div id="panelBrauereien" class="sidebar-panel hidden">
       <div class="sidebar-header">
         Brauereien
-        <div class="sidebar-meta" id="brauereienSidebarMeta">Stammhaus-Metadaten</div>
+        <div class="sidebar-meta" id="brauereienSidebarMeta">Lade Brauerei-Daten…</div>
       </div>
       <div id="brauereiDetail"></div>
       <div class="filter-box">
@@ -544,6 +544,17 @@ let BIERS = [];
 let ALL_NRW_BIERE = [];
 const bierIndex = new Map();
 
+function updateBierLayerMetaDefault() {
+  const el = document.getElementById('bierLayerMeta');
+  if (!BIERS.length) {
+    el.textContent = 'Keine Bierdaten geladen';
+    return;
+  }
+  el.textContent = filialen.length
+    ? `${BIERS.length} Biere · Schicht ausgeblendet`
+    : `${BIERS.length} Biere · Verteilung nach Karte laden`;
+}
+
 async function loadBiereJSON() {
   try {
     const r = await fetch("data/biere.json?_=" + Date.now());
@@ -569,6 +580,10 @@ async function loadBiereJSON() {
     ];
     BIERS = ALL_NRW_BIERE.map(name => ({ name, brauerei: "Unbekannt" }));
     document.getElementById('biereMeta').textContent = `${ALL_NRW_BIERE.length} Biere · Fallback`;
+  }
+  if (BIERS.length) {
+    document.getElementById('btnBeerLayer').disabled = false;
+    if (!activeBeerLayer) updateBierLayerMetaDefault();
   }
   renderBeerLayerList();
 }
@@ -1019,11 +1034,19 @@ function getBrauereiForBeer(beerName) {
 }
 
 function showBeerLayer(beerName) {
-  if (!filialen.length) return;
-
   activeBeerLayer = beerName;
-  const stores = bierIndex.get(beerName) ?? [];
   const brauerei = getBrauereiForBeer(beerName);
+
+  if (!filialen.length) {
+    document.getElementById('btnClearLayer').disabled = true;
+    document.getElementById('btnBeerLayer').classList.add('active');
+    document.getElementById('bierLayerMeta').textContent = `${beerName} · Verteilung nach Karte laden`;
+    renderBeerLayerList();
+    switchSidebarTab('bier');
+    return;
+  }
+
+  const stores = bierIndex.get(beerName) ?? [];
 
   document.getElementById('btnClearLayer').disabled = false;
   document.getElementById('btnBeerLayer').classList.add('active');
@@ -1045,9 +1068,7 @@ function clearBeerLayer() {
   layerGroup.clearLayers();
   document.getElementById('btnClearLayer').disabled = true;
   document.getElementById('btnBeerLayer').classList.remove('active');
-  document.getElementById('bierLayerMeta').textContent = filialen.length
-    ? `${BIERS.length} Biere · Schicht ausgeblendet`
-    : 'Karte laden, dann Bier wählen';
+  updateBierLayerMetaDefault();
   renderMarkers();
   renderBeerLayerList();
 }
@@ -1064,7 +1085,6 @@ function switchSidebarTab(tab) {
 }
 
 function toggleBeerLayerPanel() {
-  if (!filialen.length) return;
   switchSidebarTab(sidebarTab === 'bier' ? 'filialen' : 'bier');
 }
 
@@ -1072,10 +1092,6 @@ function renderBeerLayerList() {
   const list = document.getElementById('bierLayerList');
   if (!BIERS.length) {
     list.innerHTML = '<div class="empty-state">Keine Bierdaten geladen.</div>';
-    return;
-  }
-  if (!filialen.length) {
-    list.innerHTML = '<div class="empty-state">Zuerst <strong>▶ Karte laden</strong>, dann ein Bier auswählen.</div>';
     return;
   }
 
@@ -1089,13 +1105,15 @@ function renderBeerLayerList() {
     return;
   }
 
+  const hasFilialen = filialen.length > 0;
   list.innerHTML = filtered.map(b => {
     const count = bierIndex.get(b.name)?.length ?? 0;
     const active = activeBeerLayer === b.name ? ' active' : '';
+    const filialMeta = hasFilialen ? `${count} Filialen` : 'Filialen: —';
     return `
       <div class="bier-layer-item${active}" onclick='showBeerLayer(${JSON.stringify(b.name)})'>
         <div class="bier-layer-name">${escapeHtml(b.name)}</div>
-        <div class="bier-layer-meta">${escapeHtml(b.brauerei)} · ${count} Filialen</div>
+        <div class="bier-layer-meta">${escapeHtml(b.brauerei)} · ${filialMeta}</div>
       </div>`;
   }).join('');
 }
@@ -1273,7 +1291,6 @@ async function loadAll() {
     setProgress(false);
     setStatus('ok', `✓ ${filialen.length} Filialen geladen`);
     document.getElementById('btnExport').disabled = false;
-    document.getElementById('btnBeerLayer').disabled = false;
     btn.textContent = '↺ Neu laden';
     btn.disabled = false;
 
