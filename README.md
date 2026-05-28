@@ -14,7 +14,8 @@ Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren a
 ├── config/stammhaus-details.mjs  # Recherche-Daten für große Brauereien
 ├── data/
 │   ├── biere.json           # Gecrawlte NRW-Bierliste (täglich aktualisiert)
-│   └── brauereien.json      # Exportierte Brauerei-/Stammhaus-Daten
+│   ├── brauereien.json      # Exportierte Brauerei-/Stammhaus-Daten
+│   └── nrw-grenze.geojson   # Landesgrenze NRW (GeoJSON)
 ├── scripts/
 │   └── export-brauereien.mjs
 ├── crawler/
@@ -31,11 +32,13 @@ Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren a
 | [Overpass API](https://overpass-api.de) | Trinkgut-Filialen in NRW | Live im Browser |
 | [trinkgut.de](https://www.trinkgut.de) | Indie-Biersortiment NRW | GitHub Action (täglich, Node.js) |
 | [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen) | Brauerei-Referenz NRW | `config.mjs` |
+| [deutschlandGeoJSON](https://github.com/isellsoap/deutschlandGeoJSON) | Landesgrenze NRW | `data/nrw-grenze.geojson` |
 
 ## Karten-Ebenen
 
 | Ebene | Beschreibung |
 |-------|--------------|
+| **Landesgrenze** | NRW-Umriss (permanent sichtbar) |
 | **Filialen** | Trinkgut-Markierungen mit simuliert zugeordneten Indie-Bieren |
 | **Bier-Schicht** | Verteilungsgebiet (Convex Hull) pro Biersorte |
 | **Stammhäuser** | Brauerei-Stammhäuser mit Metadaten (Adresse, GF, Absatz, …) |

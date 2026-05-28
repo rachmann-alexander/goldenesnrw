@@ -373,6 +373,15 @@
     vertical-align: middle;
   }
 
+  .legend-border {
+    display: inline-block;
+    width: 14px;
+    height: 0;
+    border-top: 2px dashed #7A6F5C;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
   .marker-dim .leaflet-marker-icon { opacity: 0.3; }
 
   .brauerei-item {
@@ -520,6 +529,7 @@
       <span><span class="legend-dot" style="background:#B8860B"></span>Indie-Bier</span>
       <span><span class="legend-area"></span>Verteilungsgebiet</span>
       <span><span class="legend-building"></span>Stammhaus</span>
+      <span><span class="legend-border"></span>Landesgrenze</span>
       <span><span class="legend-dot" style="background:#B0A898"></span>Ausgeblendet</span>
     </div>
     <div class="contact-footer">
@@ -754,6 +764,7 @@ let filialen = [];
 let markers = [];
 let map;
 let layerGroup;
+let nrwBoundaryLayer;
 let onlyNRW = true;
 let selectedId = null;
 let activeBeerLayer = null;
@@ -767,6 +778,15 @@ const LAYER_STYLE = {
 };
 const LAYER_CIRCLE_RADIUS_M = 12000;
 
+const NRW_BOUNDARY_STYLE = {
+  color: '#7A6F5C',
+  weight: 2,
+  opacity: 0.85,
+  fillColor: '#B8860B',
+  fillOpacity: 0.04,
+  dashArray: '6 4',
+};
+
 // ─── Map init ──────────────────────────────────────────────────────────────
 function initMap() {
   map = L.map('map', { zoomControl: true }).setView([51.5, 7.5], 8);
@@ -777,6 +797,22 @@ function initMap() {
   }).addTo(map);
   layerGroup = L.layerGroup().addTo(map);
   stammhausLayerGroup = L.layerGroup();
+}
+
+async function loadNrwBoundary() {
+  try {
+    const r = await fetch("data/nrw-grenze.geojson?_=" + Date.now());
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    const data = await r.json();
+    nrwBoundaryLayer = L.geoJSON(data, {
+      style: NRW_BOUNDARY_STYLE,
+      interactive: false,
+    });
+    nrwBoundaryLayer.addTo(map);
+    console.log("✓ nrw-grenze.geojson geladen");
+  } catch (e) {
+    console.warn("nrw-grenze.geojson nicht geladen:", e.message);
+  }
 }
 
 // ─── Overpass Query ────────────────────────────────────────────────────────
@@ -1282,6 +1318,7 @@ function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 // ─── Init ──────────────────────────────────────────────────────────────────
 initMap();
+loadNrwBoundary();
 loadBiereJSON();
 loadBrauereienJSON();
 </script>
