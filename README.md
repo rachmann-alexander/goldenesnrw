@@ -10,6 +10,9 @@ Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren a
 
 ```
 ├── index.html               # GitHub Pages Frontend (Leaflet-Karte)
+├── impressum.html           # Impressum
+├── methodik.html            # Fachliche Erläuterung der Datenpipeline
+├── pages.css                # Gemeinsame Styles für Impressum & Methodik
 ├── config.mjs               # NRW-Brauereien inkl. Stammhaus-Metadaten
 ├── config/stammhaus-details.mjs  # Recherche-Daten für große Brauereien
 ├── data/
