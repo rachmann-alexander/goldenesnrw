@@ -220,6 +220,16 @@
     vertical-align: middle;
   }
 
+  .legend-area {
+    display: inline-block;
+    width: 12px;
+    height: 8px;
+    background: rgba(184, 134, 11, 0.18);
+    border: 1px dashed #B8860B;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
   .contact-footer {
     padding: 12px 16px;
     border-top: 1px solid var(--border);
@@ -380,6 +390,7 @@
   <div class="logo"><em>Goldenes NRW</em>Bierangebote &amp; Brauereien</div>
   <div class="header-controls">
     <button id="btnAngebote" class="active" onclick="toggleAngeboteLayer()">Angebote</button>
+    <button id="btnVerbreitung" onclick="toggleVerbreitungLayer()">Verbreitung</button>
     <button id="btnStammhaus" onclick="toggleStammhausLayer()">Stammhäuser</button>
     <button id="btnExport" onclick="exportGeoJSON()">⬇ GeoJSON</button>
     <span style="font-size:0.62rem;color:var(--muted)" id="angeboteMeta">Lade Angebote…</span>
@@ -393,6 +404,7 @@
   <aside class="sidebar">
     <div class="sidebar-tabs">
       <button type="button" class="sidebar-tab active" id="tabAngebote" onclick="switchSidebarTab('angebote')">Angebote</button>
+      <button type="button" class="sidebar-tab" id="tabVerbreitung" onclick="switchSidebarTab('verbreitung')">Verbreitung</button>
       <button type="button" class="sidebar-tab" id="tabBrauereien" onclick="switchSidebarTab('brauereien')">Brauereien</button>
     </div>
 
@@ -407,6 +419,20 @@
       <div id="regionDetail"></div>
       <div class="scroll-list" id="angeboteList">
         <div class="empty-state">Lade Angebote…</div>
+      </div>
+    </div>
+
+    <div id="panelVerbreitung" class="sidebar-panel hidden">
+      <div class="sidebar-header">
+        Bier-Verbreitung
+        <div class="sidebar-meta" id="verbreitungSidebarMeta">Lade Bierdaten…</div>
+      </div>
+      <div class="filter-box">
+        <input type="text" id="verbreitungFilter" placeholder="Bier oder Marke filtern…" oninput="renderVerbreitungList()">
+      </div>
+      <div id="verbreitungDetail"></div>
+      <div class="scroll-list" id="verbreitungList">
+        <div class="empty-state">Lade Bierdaten…</div>
       </div>
     </div>
 
@@ -426,6 +452,7 @@
 
     <div class="legend">
       <span><span class="legend-dot" style="background:#B8860B"></span>Angebots-Region</span>
+      <span><span class="legend-area"></span>Verbreitungsgebiet</span>
       <span><span class="legend-building"></span>Stammhaus</span>
       <span><span class="legend-border"></span>Landesgrenze</span>
     </div>
@@ -457,6 +484,21 @@ let stammhausLayerGroup;
 let showStammhausLayer = false;
 const stammhausMarkers = new Map();
 let selectedBrauerei = null;
+
+// Bier-Verbreitung (aggregiert aus Angeboten)
+let BIER_INDEX = new Map();
+let verbreitungLayerGroup;
+let showVerbreitungLayer = false;
+let selectedBier = null;
+
+const VERBREITUNG_STYLE = {
+  color: '#B8860B',
+  weight: 2,
+  fillColor: '#B8860B',
+  fillOpacity: 0.18,
+  dashArray: '6 4',
+};
+const VERBREITUNG_CIRCLE_RADIUS_M = 15000;
 
 const NRW_BOUNDARY_STYLE = {
   color: '#7A6F5C',
@@ -511,6 +553,7 @@ function initMap() {
   }).addTo(map);
   angeboteLayerGroup = L.layerGroup().addTo(map);
   stammhausLayerGroup = L.layerGroup();
+  verbreitungLayerGroup = L.layerGroup();
 }
 
 async function loadNrwBoundary() {
@@ -538,7 +581,9 @@ async function loadAngeboteJSON() {
       `${data.offer_count ?? 0} Angebote · ${data.region_count ?? REGIONEN.length} Regionen · ${fmt}`;
     setStatus('ok', `✓ ${data.offer_count ?? 0} Angebote geladen`);
     buildRegionMarkers();
+    buildBierIndex();
     renderAngeboteList();
+    renderVerbreitungList();
   } catch (e) {
     console.warn("angebote.json nicht geladen:", e.message);
     document.getElementById('angeboteMeta').textContent = "Angebote nicht verfügbar";
@@ -555,6 +600,40 @@ function regionCheapest(region) {
     if (o.preis != null && (min == null || o.preis < min)) min = o.preis;
   }
   return min;
+}
+
+// ─── Bier-Index (Marke + Produkt → Regionen) ─────────────────────────────────
+function bierKeyOf(o) {
+  return [o.marke, o.produkt].filter(Boolean).join(' ').trim() || (o.produkt || o.marke || '').trim();
+}
+
+function buildBierIndex() {
+  BIER_INDEX = new Map();
+  for (const region of REGIONEN) {
+    for (const o of region.angebote || []) {
+      const key = bierKeyOf(o);
+      if (!key) continue;
+      let entry = BIER_INDEX.get(key);
+      if (!entry) {
+        entry = { key, label: offerLabel(o), marke: o.marke || null, produkt: o.produkt || null, regionen: new Map() };
+        BIER_INDEX.set(key, entry);
+      }
+      const prev = entry.regionen.get(region.stadt);
+      if (!prev || (o.preis != null && (prev.preis == null || o.preis < prev.preis))) {
+        entry.regionen.set(region.stadt, { region, preis: o.preis ?? null, haendler: o.haendler || [], einheit: o.einheit || null });
+      }
+    }
+  }
+}
+
+function bierPriceRange(entry) {
+  let min = null, max = null;
+  for (const { preis } of entry.regionen.values()) {
+    if (preis == null) continue;
+    if (min == null || preis < min) min = preis;
+    if (max == null || preis > max) max = preis;
+  }
+  return { min, max };
 }
 
 function createRegionMarker(region) {
@@ -906,12 +985,201 @@ function selectBrauerei(name, options = {}) {
   if (items[idx]) items[idx].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
 }
 
+// ─── Geometrie-Helfer (regionengenau) ────────────────────────────────────────
+function cross(o, a, b) {
+  return (a[0] - o[0]) * (b[1] - o[1]) - (a[1] - o[1]) * (b[0] - o[0]);
+}
+
+function convexHullLatLng(points) {
+  const pts = points.map(p => [p.lon, p.lat]);
+  const unique = [];
+  const seen = new Set();
+  for (const p of pts) {
+    const key = `${p[0].toFixed(6)},${p[1].toFixed(6)}`;
+    if (!seen.has(key)) { seen.add(key); unique.push(p); }
+  }
+  if (unique.length <= 1) return unique.map(p => [p[1], p[0]]);
+  unique.sort((a, b) => a[0] - b[0] || a[1] - b[1]);
+
+  const lower = [];
+  for (const p of unique) {
+    while (lower.length >= 2 && cross(lower[lower.length - 2], lower[lower.length - 1], p) <= 0) lower.pop();
+    lower.push(p);
+  }
+  const upper = [];
+  for (let i = unique.length - 1; i >= 0; i--) {
+    const p = unique[i];
+    while (upper.length >= 2 && cross(upper[upper.length - 2], upper[upper.length - 1], p) <= 0) upper.pop();
+    upper.push(p);
+  }
+  lower.pop();
+  upper.pop();
+  return lower.concat(upper).map(p => [p[1], p[0]]);
+}
+
+function stripForTwoPoints(a, b) {
+  const latRad = ((a.lat + b.lat) / 2) * Math.PI / 180;
+  const dLat = b.lat - a.lat;
+  const dLon = (b.lon - a.lon) * Math.cos(latRad);
+  const len = Math.hypot(dLat, dLon) || 1e-9;
+  const pad = 0.06;
+  const nx = (-dLon / len) * pad;
+  const ny = (dLat / len) * pad;
+  return [
+    [a.lat + ny, a.lon + nx],
+    [a.lat - ny, a.lon - nx],
+    [b.lat - ny, b.lon - nx],
+    [b.lat + ny, b.lon + nx],
+  ];
+}
+
+// ─── Verbreitungs-Layer ──────────────────────────────────────────────────────
+function updateVerbreitungLayerVisibility() {
+  if (showVerbreitungLayer) {
+    if (!map.hasLayer(verbreitungLayerGroup)) verbreitungLayerGroup.addTo(map);
+  } else if (map.hasLayer(verbreitungLayerGroup)) {
+    map.removeLayer(verbreitungLayerGroup);
+  }
+}
+
+function toggleVerbreitungLayer() {
+  showVerbreitungLayer = !showVerbreitungLayer;
+  document.getElementById('btnVerbreitung').classList.toggle('active', showVerbreitungLayer);
+  updateVerbreitungLayerVisibility();
+}
+
+function verbreitungMarker(stadt, info, label) {
+  const preis = formatPreis(info.preis);
+  const r = info.region;
+  const marker = L.circleMarker([r.lat, r.lon], {
+    radius: 7,
+    color: '#8a6508',
+    weight: 2,
+    fillColor: '#B8860B',
+    fillOpacity: 0.9,
+  });
+  const haendler = (info.haendler || []).join(', ');
+  marker.bindPopup(`<div class="popup-name">${escapeHtml(label)}</div>
+    <div class="popup-addr">${escapeHtml(stadt)}${preis ? ` · <span class="popup-offer-price">${escapeHtml(preis)}</span>` : ''}</div>
+    <div class="popup-offer-meta">${escapeHtml([haendler, info.einheit].filter(Boolean).join(' · '))}</div>`);
+  return marker;
+}
+
+function drawVerbreitung(bierKey) {
+  verbreitungLayerGroup.clearLayers();
+  const entry = BIER_INDEX.get(bierKey);
+  if (!entry) return;
+
+  const regionen = [...entry.regionen.entries()].map(([stadt, info]) => ({ stadt, info, region: info.region }));
+  const pts = regionen.map(x => x.region);
+
+  let shape = null;
+  if (pts.length === 1) {
+    shape = L.circle([pts[0].lat, pts[0].lon], { radius: VERBREITUNG_CIRCLE_RADIUS_M, ...VERBREITUNG_STYLE });
+  } else if (pts.length === 2) {
+    shape = L.polygon(stripForTwoPoints(pts[0], pts[1]), VERBREITUNG_STYLE);
+  } else if (pts.length >= 3) {
+    const hull = convexHullLatLng(pts);
+    if (hull.length >= 3) shape = L.polygon(hull, VERBREITUNG_STYLE);
+  }
+  if (shape) verbreitungLayerGroup.addLayer(shape);
+
+  for (const { stadt, info } of regionen) {
+    verbreitungLayerGroup.addLayer(verbreitungMarker(stadt, info, entry.label));
+  }
+
+  if (!showVerbreitungLayer) {
+    showVerbreitungLayer = true;
+    document.getElementById('btnVerbreitung').classList.add('active');
+    updateVerbreitungLayerVisibility();
+  }
+
+  const bounds = shape && shape.getBounds ? shape.getBounds()
+    : L.latLngBounds(pts.map(p => [p.lat, p.lon]));
+  if (bounds && bounds.isValid()) map.fitBounds(bounds.pad(0.15));
+}
+
+function clearVerbreitung() {
+  selectedBier = null;
+  verbreitungLayerGroup.clearLayers();
+  renderVerbreitungList();
+}
+
+function selectBier(key) {
+  selectedBier = key;
+  switchSidebarTab('verbreitung');
+  drawVerbreitung(key);
+  renderVerbreitungList();
+}
+
+function renderVerbreitungList() {
+  const list = document.getElementById('verbreitungList');
+  const detail = document.getElementById('verbreitungDetail');
+  if (!BIER_INDEX.size) {
+    list.innerHTML = '<div class="empty-state">Keine Bierdaten geladen.</div>';
+    detail.innerHTML = '';
+    return;
+  }
+
+  const totalRegionen = REGIONEN.length;
+  const entries = [...BIER_INDEX.values()].sort((a, b) =>
+    b.regionen.size - a.regionen.size || a.label.localeCompare(b.label, 'de'));
+
+  const selected = selectedBier ? BIER_INDEX.get(selectedBier) : null;
+  if (selected) {
+    const range = bierPriceRange(selected);
+    const preisTxt = range.min == null ? 'kein Preis'
+      : (range.max != null && range.max !== range.min
+        ? `${formatPreis(range.min)} – ${formatPreis(range.max)}`
+        : `ab ${formatPreis(range.min)}`);
+    const regionRows = [...selected.regionen.entries()]
+      .sort((a, b) => (a[1].preis ?? 1e9) - (b[1].preis ?? 1e9))
+      .map(([stadt, info]) => {
+        const preis = formatPreis(info.preis);
+        return `<div class="offer-item" onclick='selectRegion(${JSON.stringify(stadt)})'>
+          <div class="offer-name">${escapeHtml(stadt)}${preis ? ` · <span class="offer-price">${escapeHtml(preis)}</span>` : ''}</div>
+        </div>`;
+      }).join('');
+    detail.innerHTML = `<div class="detail-box">
+      <button class="close-detail" onclick="clearVerbreitung()">Schließen</button>
+      <h3>${escapeHtml(selected.label)}</h3>
+      <div>In ${selected.regionen.size} von ${totalRegionen} Regionen · ${escapeHtml(preisTxt)}</div>
+    </div>${regionRows}`;
+  } else {
+    detail.innerHTML = '';
+  }
+
+  const q = (document.getElementById('verbreitungFilter').value || '').toLowerCase().trim();
+  const filtered = entries.filter(e =>
+    !q || e.label.toLowerCase().includes(q) || (e.marke || '').toLowerCase().includes(q));
+
+  document.getElementById('verbreitungSidebarMeta').textContent =
+    `${filtered.length} Biere · nach Verbreitung sortiert`;
+
+  if (!filtered.length) {
+    list.innerHTML = '<div class="empty-state">Kein Bier gefunden.</div>';
+    return;
+  }
+
+  list.innerHTML = filtered.map(e => {
+    const range = bierPriceRange(e);
+    const ab = range.min != null ? ` · ab ${formatPreis(range.min)}` : '';
+    const active = selectedBier === e.key ? ' selected' : '';
+    return `<div class="region-item${active}" onclick='selectBier(${JSON.stringify(e.key)})'>
+      <div class="region-name">${escapeHtml(e.label)}</div>
+      <div class="region-meta">in ${e.regionen.size} ${e.regionen.size === 1 ? 'Region' : 'Regionen'}${ab}</div>
+    </div>`;
+  }).join('');
+}
+
 // ─── Sidebar tabs ────────────────────────────────────────────────────────────
 function switchSidebarTab(tab) {
   sidebarTab = tab;
   document.getElementById('tabAngebote').classList.toggle('active', tab === 'angebote');
+  document.getElementById('tabVerbreitung').classList.toggle('active', tab === 'verbreitung');
   document.getElementById('tabBrauereien').classList.toggle('active', tab === 'brauereien');
   document.getElementById('panelAngebote').classList.toggle('hidden', tab !== 'angebote');
+  document.getElementById('panelVerbreitung').classList.toggle('hidden', tab !== 'verbreitung');
   document.getElementById('panelBrauereien').classList.toggle('hidden', tab !== 'brauereien');
 }
 
