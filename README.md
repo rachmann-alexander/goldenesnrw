@@ -1,6 +1,6 @@
-# Goldenes NRW – Indie-Biere aus NRW
+# Goldenes NRW – Bierangebote &amp; Brauereien
 
-Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren aus Nordrhein-Westfalen und einer **Stammhaus-Ebene** für NRW-Brauereien.
+Interaktive Karte mit **regionalen Bierangeboten in NRW** (Quelle: marktguru, inoffiziell) und einer **Stammhaus-Ebene** für NRW-Brauereien.
 
 **→ [Zur Karte](https://rachmann-alexander.github.io/goldenesnrw)**
 
@@ -14,16 +14,18 @@ Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren a
 ├── methodik.html            # Fachliche Erläuterung der Datenpipeline
 ├── pages.css                # Gemeinsame Styles für Impressum & Methodik
 ├── config.mjs               # NRW-Brauereien inkl. Stammhaus-Metadaten
-├── config/stammhaus-details.mjs  # Recherche-Daten für große Brauereien
+├── config/
+│   ├── stammhaus-details.mjs # Recherche-Daten für große Brauereien
+│   └── nrw-orte.mjs          # NRW-Orte (PLZ + Koordinaten) für marktguru-Abfrage
 ├── data/
-│   ├── biere.json           # Gecrawlte NRW-Bierliste (täglich aktualisiert)
+│   ├── angebote.json        # Regionale Bierangebote (täglich aktualisiert)
 │   ├── brauereien.json      # Exportierte Brauerei-/Stammhaus-Daten
 │   └── nrw-grenze.geojson   # Landesgrenze NRW (GeoJSON)
 ├── scripts/
 │   └── export-brauereien.mjs
 ├── crawler/
-│   └── crawl_trinkgut.mjs   # Node.js-Crawler für trinkgut.de
-├── package.json             # Crawler-Abhängigkeiten (cheerio)
+│   └── fetch_marktguru.mjs  # Node.js-Abruf der marktguru-Angebote
+├── package.json
 └── .github/workflows/
     └── crawl.yml            # GitHub Action: täglich um 4:00 UTC
 ```
@@ -32,18 +34,22 @@ Interaktive Karte der **Trinkgut-Filialen in NRW** mit regionalen Indie-Bieren a
 
 | Quelle | Was | Wie |
 |--------|-----|-----|
-| [Overpass API](https://overpass-api.de) | Trinkgut-Filialen in NRW | Live im Browser |
-| [trinkgut.de](https://www.trinkgut.de) | Indie-Biersortiment NRW | GitHub Action (täglich, Node.js) |
+| [marktguru.de](https://www.marktguru.de) (inoffiziell) | Regionale Bierangebote in NRW | GitHub Action (täglich, Node.js) |
 | [Wikipedia](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen) | Brauerei-Referenz NRW | `config.mjs` |
 | [deutschlandGeoJSON](https://github.com/isellsoap/deutschlandGeoJSON) | Landesgrenze NRW | `data/nrw-grenze.geojson` |
+
+> **Hinweis zur Quelle:** marktguru bietet keine öffentlich dokumentierte API. Die nötigen
+> API-Schlüssel werden – wie im Browser der Website selbst – aus dem eingebetteten
+> JSON-Konfigurationsblock der Startseite gelesen. Die Nutzung erfolgt ausschließlich zu
+> Lehr-/Demozwecken; es besteht keine Verbindung zu oder Freigabe durch marktguru.
+> Angebote sind regional (nach PLZ), nicht filialgenau.
 
 ## Karten-Ebenen
 
 | Ebene | Beschreibung |
 |-------|--------------|
 | **Landesgrenze** | NRW-Umriss (permanent sichtbar) |
-| **Filialen** | Trinkgut-Markierungen mit simuliert zugeordneten Indie-Bieren |
-| **Bier-Schicht** | Verteilungsgebiet (Convex Hull) pro Biersorte |
+| **Angebote** | Regionale Bierangebote, gebündelt am Stadt-/PLZ-Mittelpunkt |
 | **Stammhäuser** | Brauerei-Stammhäuser mit Metadaten (Adresse, GF, Absatz, …) |
 
 Metadaten werden in [`config.mjs`](config.mjs) gepflegt und per `npm run export:brauereien` nach [`data/brauereien.json`](data/brauereien.json) exportiert. Brauereien ohne Koordinaten erscheinen in der Brauerei-Liste, aber ohne Kartenmarker.
@@ -59,19 +65,18 @@ Metadaten werden in [`config.mjs`](config.mjs) gepflegt und per `npm run export:
 
 Die Action `crawl.yml` läuft **täglich um 4:00 UTC** (5 Uhr MEZ / 6 Uhr MESZ):
 
-1. Crawlt `trinkgut.de` nach Bieren (Node.js + cheerio)
-2. Filtert NRW-Produkte nach Brauerei-Whitelist
-3. Schreibt `data/biere.json`
-4. Exportiert `data/brauereien.json` aus `config.mjs`
-5. Committet automatisch bei Änderungen
+1. Ruft marktguru-Angebote für die NRW-Orte aus `config/nrw-orte.mjs` ab
+2. Schreibt `data/angebote.json`
+3. Exportiert `data/brauereien.json` aus `config.mjs`
+4. Committet automatisch bei Änderungen
 
-Manuell auslösen: **Actions → Trinkgut NRW-Biere crawlen → Run workflow**
+Manuell auslösen: **Actions → marktguru NRW-Bierangebote abrufen → Run workflow**
 
 ## Lokale Entwicklung
 
 ```bash
 npm install
-npm run crawl              # biere.json erzeugen
+npm run fetch:angebote       # angebote.json erzeugen (Netzwerkzugriff nötig)
 npm run export:brauereien    # brauereien.json erzeugen
 
 # Seite lokal servieren (wichtig wegen fetch() CORS)
@@ -81,10 +86,10 @@ npx serve .
 
 ## NRW-Brauereien (Referenz)
 
-Die Whitelist in [`config.mjs`](config.mjs) basiert auf der [Wikipedia-Liste der Brauereien in NRW](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen) (~168 Brauereien). Für ~30 große und bekannte Brauereien sind Stammhaus-Adressen und Koordinaten hinterlegt; weitere Felder können ergänzt werden.
+Die Liste in [`config.mjs`](config.mjs) basiert auf der [Wikipedia-Liste der Brauereien in NRW](https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen). Für ~30 große und bekannte Brauereien sind Stammhaus-Adressen und Koordinaten hinterlegt; weitere Felder können ergänzt werden.
 
 Fehlt eine Brauerei oder ein Stammhaus? [ki@hs-niederrhein.de](mailto:ki@hs-niederrhein.de)
 
 ---
 
-*Kartendaten: © OpenStreetMap-Mitwirkende | Tiles: © CartoDB*
+*Kartendaten: © OpenStreetMap-Mitwirkende | Tiles: © CartoDB | Angebote: marktguru.de (inoffiziell)*

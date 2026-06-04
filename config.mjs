@@ -1,13 +1,3 @@
-export const BASE_URL = "https://www.trinkgut.de";
-
-export const HEADERS = {
-  "User-Agent": "Mozilla/5.0 (compatible; GoldenesNRW/1.0; +https://github.com/)",
-  "Accept-Language": "de-DE,de;q=0.9",
-  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-};
-
-export const DELAY = 1.5;
-
 // Quelle: https://de.wikipedia.org/wiki/Liste_der_Brauereien_in_Nordrhein-Westfalen
 export const NRW_BRAUEREIEN = {
   "Warsteiner": {
@@ -2207,35 +2197,3 @@ export function formatStammhausAdresse(stammhaus) {
   const parts = [stammhaus.strasse, [stammhaus.plz, stammhaus.ort].filter(Boolean).join(" ")].filter(Boolean);
   return parts.length ? parts.join(", ") : stammhaus.ort ?? null;
 }
-
-export const NRW_KEYWORDS = [
-  ...Object.keys(NRW_BRAUEREIEN),
-  "Kölsch", "Altbier", "Alt ", " Alt", "Ruhrgebiet",
-  "Dortmund", "Düsseldorf", "Köln", "Münster", "NRW",
-  "Nordrhein-Westfalen", "Bergisch", "Rheinisch", "Indie", "Craft",
-];
-
-export const EXCLUDE_KEYWORDS = [
-  "Bitburger", "Bitburg",
-  "Köstritzer",
-  "Mönchshof",
-  "Erdinger", "Paulaner", "Augustiner", "Franziskaner",
-  "Radeberger",
-  "Becks", "Haake-Beck",
-  "Jever",
-  "Flensburger",
-];
-
-export const DEFAULT_CATEGORIES = ["/sortiment/bier", "/bier", "/getraenke/bier"];
-
-export const PRODUCT_SELECTORS = [
-  "span.product-name",
-  "div.product-name",
-  "h2.product-title",
-  "a.product-link",
-  "[class*='product'][class*='name']",
-  "[class*='item-name']",
-  "[class*='article-name']",
-];
-
-export const BEER_LINK_KEYWORDS = ["bier", "pils", "kölsch", "alt", "weizen", "lager"];

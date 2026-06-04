@@ -3,11 +3,8 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "crawl": "node crawler/crawl_trinkgut.mjs",
+    "fetch:angebote": "node crawler/fetch_marktguru.mjs",
     "export:brauereien": "node scripts/export-brauereien.mjs"
-  },
-  "dependencies": {
-    "cheerio": "^1.0.0"
   },
   "engines": {
     "node": ">=20"

@@ -1,4 +1,4 @@
-name: Trinkgut NRW-Biere crawlen
+name: marktguru NRW-Bierangebote abrufen
 
 on:
   # Täglich um 4:00 UTC (5:00 MEZ / 6:00 MESZ)
@@ -21,8 +21,8 @@ on:
       - ".github/workflows/crawl.yml"
 
 jobs:
-  crawl:
-    name: Crawl & Commit biere.json
+  fetch:
+    name: Angebote abrufen & committen
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -40,8 +40,8 @@ jobs:
       - name: Abhängigkeiten installieren
         run: npm ci
 
-      - name: Crawler ausführen
-        run: npm run crawl
+      - name: Angebote abrufen (marktguru)
+        run: npm run fetch:angebote
         timeout-minutes: 15
 
       - name: Brauereien exportieren
@@ -50,7 +50,7 @@ jobs:
       - name: Auf Änderungen prüfen
         id: changes
         run: |
-          git diff --quiet data/biere.json data/brauereien.json \
+          git diff --quiet data/angebote.json data/brauereien.json \
             && echo "changed=false" >> $GITHUB_OUTPUT \
             || echo "changed=true" >> $GITHUB_OUTPUT
 
@@ -59,23 +59,26 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/biere.json data/brauereien.json
+          git add data/angebote.json data/brauereien.json
           DATUM=$(date -u +"%Y-%m-%d %H:%M UTC")
-          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/biere.json')).count)")
+          COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/angebote.json')).offer_count)")
           BRAU=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/brauereien.json')).count)")
-          git commit -m "🍺 Daten aktualisiert – ${COUNT} Biere, ${BRAU} Brauereien (${DATUM})"
+          git commit -m "🍺 Angebote aktualisiert – ${COUNT} Angebote, ${BRAU} Brauereien (${DATUM})"
+          git pull --rebase origin main
           git push
 
       - name: Zusammenfassung
         if: always()
         run: |
-          echo "### 🍺 Crawler-Ergebnis" >> $GITHUB_STEP_SUMMARY
-          if [ -f data/biere.json ]; then
-            COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/biere.json')).count)")
-            DATUM=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/biere.json')).generated_at)")
+          echo "### 🍺 marktguru-Ergebnis" >> $GITHUB_STEP_SUMMARY
+          if [ -f data/angebote.json ]; then
+            COUNT=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/angebote.json')).offer_count)")
+            REGIONS=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/angebote.json')).region_count)")
+            DATUM=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/angebote.json')).generated_at)")
             echo "| Feld | Wert |" >> $GITHUB_STEP_SUMMARY
             echo "|------|------|" >> $GITHUB_STEP_SUMMARY
-            echo "| NRW-Biere gefunden | **${COUNT}** |" >> $GITHUB_STEP_SUMMARY
+            echo "| Bier-Angebote gesamt | **${COUNT}** |" >> $GITHUB_STEP_SUMMARY
+            echo "| NRW-Regionen | ${REGIONS} |" >> $GITHUB_STEP_SUMMARY
             echo "| Generiert am | ${DATUM} |" >> $GITHUB_STEP_SUMMARY
             if [ -f data/brauereien.json ]; then
               BRAU=$(node -e "console.log(JSON.parse(require('fs').readFileSync('data/brauereien.json')).count)")
@@ -84,5 +87,5 @@ jobs:
             fi
             echo "| Geändert | ${{ steps.changes.outputs.changed }} |" >> $GITHUB_STEP_SUMMARY
           else
-            echo "❌ data/biere.json wurde nicht erzeugt" >> $GITHUB_STEP_SUMMARY
+            echo "❌ data/angebote.json wurde nicht erzeugt" >> $GITHUB_STEP_SUMMARY
           fi
