@@ -1132,19 +1132,11 @@ function renderVerbreitungList() {
       : (range.max != null && range.max !== range.min
         ? `${formatPreis(range.min)} – ${formatPreis(range.max)}`
         : `ab ${formatPreis(range.min)}`);
-    const regionRows = [...selected.regionen.entries()]
-      .sort((a, b) => (a[1].preis ?? 1e9) - (b[1].preis ?? 1e9))
-      .map(([stadt, info]) => {
-        const preis = formatPreis(info.preis);
-        return `<div class="offer-item" onclick='selectRegion(${JSON.stringify(stadt)})'>
-          <div class="offer-name">${escapeHtml(stadt)}${preis ? ` · <span class="offer-price">${escapeHtml(preis)}</span>` : ''}</div>
-        </div>`;
-      }).join('');
     detail.innerHTML = `<div class="detail-box">
       <button class="close-detail" onclick="clearVerbreitung()">Schließen</button>
       <h3>${escapeHtml(selected.label)}</h3>
       <div>In ${selected.regionen.size} von ${totalRegionen} Regionen · ${escapeHtml(preisTxt)}</div>
-    </div>${regionRows}`;
+    </div>`;
   } else {
     detail.innerHTML = '';
   }
