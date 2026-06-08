@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-07T07:53:58.805Z",
+  "generated_at": "2026-06-08T08:54:29.439Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1604,
+  "offer_count": 2330,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 67,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -83,6 +83,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -137,6 +151,20 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -419,6 +447,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -444,6 +500,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -487,6 +557,20 @@
           "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -582,6 +666,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -699,6 +811,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -711,146 +851,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Gilden",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Fun",
-          "marke": "Jever",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.04,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Mühlen Kölsch",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 71,
+      "anzahl": 107,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -946,6 +946,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -1014,6 +1028,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -1254,6 +1282,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -1279,6 +1335,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -1308,6 +1378,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -1450,6 +1534,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -1588,118 +1700,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Fun",
-          "marke": "Jever",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Premium-Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 95,
+      "anzahl": 132,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -1893,6 +1893,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -2017,6 +2045,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -2355,6 +2397,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -2397,6 +2467,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -2425,6 +2509,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -2451,104 +2549,6 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud Beer",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.8,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier Hell",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier Hell",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 96,
+      "anzahl": 140,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -2756,6 +2756,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -2838,6 +2866,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -3176,6 +3218,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -3218,6 +3316,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -3244,6 +3356,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -3272,132 +3398,6 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud Beer",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 74,
+      "anzahl": 111,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -3493,6 +3493,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -3575,6 +3603,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -3857,6 +3899,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -3899,6 +3969,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -3925,6 +4009,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -4067,6 +4165,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
@@ -4077,6 +4189,20 @@
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-12",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
@@ -4121,132 +4247,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Fun",
-          "marke": "Jever",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 93,
+      "anzahl": 136,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -4454,6 +4454,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -4550,6 +4578,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -4888,6 +4930,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -4930,6 +5028,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -4958,6 +5070,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -4970,132 +5096,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Frische-Box XXL",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 7.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.35,
-          "gueltig_von": "2026-06-14",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud Beer",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Dortmunder Kronen",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 64,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -5205,6 +5205,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -5273,6 +5287,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -5457,6 +5485,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -5483,6 +5539,34 @@
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -5639,6 +5723,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
@@ -5649,6 +5747,20 @@
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-12",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
@@ -5765,6 +5877,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -5805,146 +5945,6 @@
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Premium Pilsner",
-          "marke": "Landskron",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierglas-Set BEER BASIC 4-tlg.",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Trends by Ostermann"
-          ],
-          "preis": 16.9,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 4.22,
-          "gueltig_von": "2026-05-29",
-          "gueltig_bis": "2026-06-26",
-          "kategorie": "Glasartikel"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 97,
+      "anzahl": 133,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -6180,6 +6180,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -6231,6 +6245,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.78,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -6558,6 +6586,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -6583,6 +6639,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -6626,6 +6696,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Pilsener",
@@ -6710,90 +6794,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.59,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 66,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -6875,6 +6875,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -6929,6 +6943,20 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -7197,6 +7225,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -7222,6 +7278,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -7265,6 +7335,20 @@
           "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -7360,6 +7444,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -7477,6 +7589,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7503,146 +7643,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Fun",
-          "marke": "Jever",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.04,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.45,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Mühlen Kölsch",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 61,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -7780,6 +7780,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7831,6 +7845,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -8144,6 +8172,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -8167,6 +8251,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -8198,6 +8296,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Weißbier",
@@ -8256,6 +8368,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -8340,158 +8480,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Krombacher",
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
-          "preis": 12.99,
+          "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.3,
+          "grundpreis": 1.2,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.04,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 54,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -8541,6 +8541,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-11",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
@@ -8599,6 +8613,20 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -8853,6 +8881,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -8878,6 +8962,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -8907,6 +9005,20 @@
           "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -9021,6 +9133,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -9077,6 +9217,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9119,6 +9287,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Bolten",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.97,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Kapuziner",
           "haendler": [
@@ -9145,118 +9341,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Eifeler Landbier",
-          "marke": "Gemünder",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Mühlen Kölsch",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierzelt-Garnitur",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "OBI"
-          ],
-          "preis": 119.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 40,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Gartenmöbel"
         }
       ]
     },
@@ -9265,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 60,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -9338,6 +9422,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -9392,6 +9504,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -9632,6 +9758,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -9660,6 +9814,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -9672,6 +9840,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -9786,6 +9968,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -9884,6 +10094,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9926,8 +10164,8 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
+          "produkt": "Helles",
+          "marke": "Bolten",
           "haendler": [
             "trinkgut"
           ],
@@ -9940,172 +10178,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.04,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Diebels",
+          "produkt": "Pilsener",
+          "marke": "Flensburger",
           "haendler": [
             "trinkgut"
           ],
-          "preis": 24,
+          "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.2,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Tequila Flavoured Beer",
-          "marke": "Desperados",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 24.95,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.15,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Braumeister",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 42.95,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.86,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierzelt-Garnitur",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "OBI"
-          ],
-          "preis": 119.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 40,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Gartenmöbel"
         }
       ]
     },
@@ -10114,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 89,
+      "anzahl": 132,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10271,6 +10355,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Veltins",
+          "haendler": [
+            "2 Brüder"
+          ],
+          "preis": 0.79,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-04",
+          "gueltig_bis": "2026-06-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -10339,6 +10451,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -10663,6 +10789,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -10705,6 +10887,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -10731,6 +10927,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Mexican Beer",
@@ -10803,6 +11013,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
@@ -10815,146 +11039,6 @@
           "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10963,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 59,
+      "anzahl": 95,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -11036,6 +11120,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -11090,6 +11188,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -11330,6 +11442,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -11358,6 +11498,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -11370,6 +11524,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -11467,6 +11635,34 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -11568,6 +11764,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweißbier",
+          "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -11610,6 +11834,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Helles",
+          "marke": "Bolten",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.97,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Flensburger",
           "haendler": [
@@ -11650,146 +11888,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.04,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 24,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Tequila Flavoured Beer",
-          "marke": "Desperados",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 24.95,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.15,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Braumeister",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 42.95,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.86,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierzelt-Garnitur",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "OBI"
-          ],
-          "preis": 119.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 40,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Gartenmöbel"
         }
       ]
     },
@@ -11798,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 99,
+      "anzahl": 135,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -11955,6 +12053,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -12034,6 +12146,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.8,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -12291,6 +12417,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -12333,6 +12487,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -12345,6 +12513,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Nastro Azzurro 0.0% Alkoholfrei",
@@ -12459,6 +12641,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -12527,118 +12737,6 @@
           "gueltig_von": "2026-06-03",
           "gueltig_bis": "2026-06-10",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Bitburger",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 11.6,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.16,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Gutsherren",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 11.6,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.17,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 11.6,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.16,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12647,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 82,
+      "anzahl": 120,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12818,6 +12916,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -12872,6 +12984,20 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -13196,6 +13322,48 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -13235,6 +13403,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -13278,6 +13460,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -13364,113 +13560,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
           "haendler": [
-            "REWE"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
+          "grundpreis": 2.08,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -13479,12 +13577,12 @@
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
-            "REWE Dortmund"
+            "EDEKA"
           ],
-          "preis": 11.49,
+          "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.15,
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -14345,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 79,
+      "anzahl": 115,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -14516,6 +14614,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -14553,6 +14665,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.78,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -14838,6 +14964,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -14863,6 +15017,20 @@
           "grundpreis": 2.52,
           "gueltig_von": "2026-06-04",
           "gueltig_bis": "2026-06-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -14892,6 +15060,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Pilsener",
@@ -15006,10 +15188,38 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
             "Combi"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -15074,118 +15284,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Herforder",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.23,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Herforder",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.35,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -15194,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 103,
+      "anzahl": 145,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -15351,6 +15449,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -15461,6 +15573,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Lagerbier",
@@ -15715,6 +15841,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.66,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -15757,6 +15939,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -15783,6 +15979,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Nastro Azzurro 0.0% Alkoholfrei",
@@ -15923,118 +16133,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Dortmunder Kronen",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-03",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-10",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -16043,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 91,
+      "anzahl": 127,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -16228,6 +16326,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -16279,6 +16391,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.78,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Elephant Extra Strong",
+          "marke": "Carlsberg",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
@@ -16564,6 +16690,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.95,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.65,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original",
           "marke": "Desperados",
           "haendler": [
@@ -16606,6 +16760,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Lager Beer",
           "marke": "Heineken",
           "haendler": [
@@ -16632,6 +16800,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pale Ale",
+          "marke": "Maisel & Friends",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 6.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.28,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Craft Beer"
         },
         {
           "produkt": "Premium Pils",
@@ -16797,90 +16979,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.59,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.59,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-12",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
