@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-12T08:24:16.343Z",
+  "generated_at": "2026-06-13T07:44:55.595Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2753,
+  "offer_count": 2731,
   "regionen": [
     {
       "stadt": "Köln",
@@ -69,6 +69,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -123,20 +137,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -209,20 +209,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -249,6 +235,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -304,6 +304,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -389,20 +403,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 127,
+      "anzahl": 126,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -869,20 +869,6 @@
           ],
           "preis": 0.55,
           "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
@@ -918,6 +904,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -929,6 +929,20 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-11",
           "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -986,20 +1000,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -1086,20 +1086,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -1126,6 +1112,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -1167,6 +1167,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -1238,20 +1252,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -1478,20 +1478,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -1700,6 +1686,20 @@
           "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 158,
+      "anzahl": 156,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -1796,20 +1796,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Wicküler",
           "haendler": [
             "Netto Marken-Discount"
@@ -1877,6 +1863,20 @@
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Brewers Gold",
@@ -1989,20 +1989,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -2549,6 +2535,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 177,
+      "anzahl": 175,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -2644,20 +2644,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -2726,6 +2712,20 @@
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Brewers Gold",
@@ -2810,20 +2810,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -3022,6 +3008,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränke",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -3118,20 +3118,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 126,
+      "anzahl": 125,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -3416,20 +3416,6 @@
           ],
           "preis": 0.55,
           "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
@@ -3465,6 +3451,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -3476,6 +3476,20 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-11",
           "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -3564,20 +3578,6 @@
         },
         {
           "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
             "Netto Marken-Discount"
@@ -3661,20 +3661,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -3701,6 +3687,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -4095,20 +4095,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -4247,6 +4233,20 @@
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-12",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 164,
+      "anzahl": 162,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -4342,20 +4342,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -4424,6 +4410,20 @@
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Brewers Gold",
@@ -4522,20 +4522,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -5096,6 +5082,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Lager Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 5.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.8,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 112,
+      "anzahl": 110,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -5128,20 +5128,6 @@
           ],
           "preis": 0.55,
           "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-07",
@@ -5189,6 +5175,20 @@
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Brewers Gold",
@@ -5245,20 +5245,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -5625,20 +5611,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -5935,6 +5907,34 @@
         {
           "produkt": "Hefeweißbier",
           "marke": "Patrizier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
           "haendler": [
             "trinkgut"
           ],
@@ -6418,17 +6418,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
           "haendler": [
-            "Lidl"
+            "REWE"
           ],
           "preis": 3.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -6514,20 +6514,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Pils",
@@ -6754,6 +6740,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Frische-Box XXL",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bierkrug",
           "marke": "Creatable",
           "haendler": [
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 119,
+      "anzahl": 118,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -6861,6 +6861,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -6915,20 +6929,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -7001,20 +7001,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7041,6 +7027,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -7085,17 +7085,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
           "haendler": [
-            "Lidl"
+            "REWE"
           ],
           "preis": 3.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -7181,20 +7181,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -7643,6 +7629,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "nahkauf"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -7990,6 +7990,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränke",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -8001,20 +8015,6 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         },
         {
@@ -8086,20 +8086,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -8340,6 +8326,20 @@
           "kategorie": "Craft Beer"
         },
         {
+          "produkt": "Frische-Box XXL",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bud Beer",
           "marke": "Anheuser Busch",
           "haendler": [
@@ -8545,6 +8545,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -8599,20 +8613,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -8685,20 +8685,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -8725,6 +8711,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -8766,6 +8766,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -8851,20 +8865,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -9408,6 +9408,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -9462,20 +9476,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -9562,20 +9562,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9602,6 +9588,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -9643,6 +9643,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -9700,20 +9714,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 167,
+      "anzahl": 166,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10412,20 +10412,6 @@
         },
         {
           "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
             "Netto Marken-Discount"
@@ -10621,6 +10607,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränke",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -10703,20 +10703,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -11039,6 +11025,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Craft Beer"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 6.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.7,
+          "gueltig_von": "2026-06-10",
+          "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11106,6 +11106,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -11146,20 +11160,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -11246,20 +11246,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 2.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-06-18",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -11286,6 +11272,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-18",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -11327,6 +11327,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -11384,20 +11398,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 158,
+      "anzahl": 157,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12093,20 +12093,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -12737,6 +12723,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 144,
+      "anzahl": 142,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12832,20 +12832,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -12902,6 +12888,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -12956,20 +12956,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -13154,6 +13140,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränke",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -13250,20 +13250,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -13560,20 +13546,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -13586,6 +13558,34 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud Beer",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.63,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 106,
+      "anzahl": 105,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -13681,20 +13681,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -13735,6 +13721,20 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Brewers Gold",
@@ -13989,6 +13989,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Bitburger",
           "haendler": [
@@ -14014,20 +14028,6 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         },
         {
@@ -14127,20 +14127,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -14353,17 +14339,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Frische-Box XXL",
+          "marke": "Veltins",
           "haendler": [
-            "Thomas Philipps"
+            "Lidl"
           ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
+          "preis": 7.99,
+          "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         },
         {
@@ -14434,6 +14420,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-06-10",
           "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         }
       ]
@@ -14852,17 +14852,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Bier + Cola + X",
+          "marke": "Karlsberg MiXery",
           "haendler": [
-            "Lidl"
+            "REWE"
           ],
           "preis": 3.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         },
         {
@@ -14934,20 +14934,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier + Cola + X",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Pils",
@@ -15160,6 +15146,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Frische-Box XXL",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bierkrug",
           "marke": "Creatable",
           "haendler": [
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 171,
+      "anzahl": 169,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -15380,20 +15380,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Wicküler",
           "haendler": [
             "Netto Marken-Discount"
@@ -15449,6 +15435,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -15489,20 +15489,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -16093,20 +16079,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -16133,6 +16105,34 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.63,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 147,
+      "anzahl": 143,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -16228,20 +16228,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Holsten",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.55,
-          "alt_preis": 0.74,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -16312,6 +16298,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Bier",
+          "marke": "Staropramen",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.77,
+          "alt_preis": 0.95,
+          "einheit": "Liter",
+          "grundpreis": 1.54,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Brewers Gold",
           "marke": "Warsteiner",
           "haendler": [
@@ -16352,20 +16352,6 @@
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "San Miguel",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Natur Radler",
@@ -16575,34 +16561,6 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-07",
           "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         },
         {
@@ -16886,20 +16844,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 7.77,
-          "alt_preis": 9.99,
-          "einheit": "Liter",
-          "grundpreis": 1.55,
-          "gueltig_von": "2026-06-07",
-          "gueltig_bis": "2026-06-13",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Frische-Box XXL",
           "marke": "Veltins",
           "haendler": [
@@ -16980,6 +16924,62 @@
           "einheit": "Liter",
           "grundpreis": 1.14,
           "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Hasseröder",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Hasseröder",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-07",
+          "gueltig_bis": "2026-06-13",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-06-10",
+          "gueltig_bis": "2026-06-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-12",
           "gueltig_bis": "2026-06-13",
           "kategorie": "Bier"
         }
