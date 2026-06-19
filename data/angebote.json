@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-18T08:45:53.315Z",
+  "generated_at": "2026-06-19T09:04:51.879Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1995,
+  "offer_count": 1996,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 93,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -618,6 +618,20 @@
           "produkt": "Kölsch",
           "marke": "Gilden",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Gilden",
+          "haendler": [
             "E center"
           ],
           "preis": 10.99,
@@ -836,20 +850,6 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
           "kategorie": "Bier"
         }
       ]
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 104,
+      "anzahl": 103,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -1834,20 +1834,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -2549,6 +2535,20 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-05-31",
+          "gueltig_bis": "2026-06-30",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2725,20 +2725,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-06-19",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 103,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -3532,20 +3532,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -4247,6 +4233,20 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 107,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -4409,20 +4409,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -5095,6 +5081,20 @@
           "grundpreis": 1.43,
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         }
       ]
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 89,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -9433,20 +9433,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -10011,6 +9997,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -10021,6 +10021,20 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
           "kategorie": "Bier"
         },
         {
@@ -10176,20 +10190,6 @@
           "gueltig_von": "2026-06-14",
           "gueltig_bis": "2026-06-20",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Bolten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-06-14",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 108,
+      "anzahl": 107,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -10324,20 +10324,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Veltins",
-          "haendler": [
-            "2 Brüder"
-          ],
-          "preis": 0.79,
-          "alt_preis": 0.99,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-06-04",
-          "gueltig_bis": "2026-06-18",
           "kategorie": "Bier"
         },
         {
@@ -11039,6 +11025,20 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 92,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -11723,6 +11723,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-14",
+          "gueltig_bis": "2026-06-20",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -11874,20 +11888,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Das Original",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-14",
-          "gueltig_bis": "2026-06-20",
-          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 122,
+      "anzahl": 124,
       "angebote": [
         {
           "produkt": "Original 5,0",
