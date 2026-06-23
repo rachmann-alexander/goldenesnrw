@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-22T09:47:31.045Z",
+  "generated_at": "2026-06-23T07:46:35.933Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1559,
+  "offer_count": 1772,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 78,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Biere",
@@ -128,7 +128,35 @@
           "produkt": "Bier",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
             "E center"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
           ],
           "preis": 0.89,
           "alt_preis": null,
@@ -265,6 +293,34 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
@@ -366,7 +422,35 @@
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
             "E center"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -489,6 +573,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Wicküler",
           "haendler": [
@@ -514,6 +612,20 @@
           "grundpreis": 2.35,
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Sester",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -604,12 +716,40 @@
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
             "E center"
           ],
           "preis": 10.79,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -711,146 +851,6 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 79,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Biere",
@@ -1002,6 +1002,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+ Mixgetränke",
           "marke": "Veltins",
           "haendler": [
@@ -1100,6 +1128,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
@@ -1179,6 +1221,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.02,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -1324,6 +1380,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Wicküler",
           "haendler": [
@@ -1439,12 +1509,40 @@
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
             "E center"
           ],
           "preis": 10.79,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -1602,104 +1700,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 88,
+      "anzahl": 98,
       "angebote": [
         {
           "produkt": "Biere",
@@ -1818,6 +1818,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -1935,6 +1963,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
@@ -2042,6 +2084,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.02,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -2187,6 +2243,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -2252,6 +2322,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -2442,7 +2526,7 @@
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
-            "trinkgut"
+            "Marktkauf"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -2453,10 +2537,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
+          "produkt": "Bier",
+          "marke": "König Pilsener",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -2464,91 +2548,7 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.13,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 95,
+      "anzahl": 116,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -2714,6 +2714,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Malzgetränk",
           "marke": "Knabe Malz",
           "haendler": [
@@ -2796,6 +2852,34 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Würste"
+        },
+        {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Pils",
@@ -2893,6 +2977,62 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -3064,6 +3204,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -3129,6 +3283,48 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -3202,202 +3398,6 @@
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.29,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.43,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.29,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.43,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 85,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -3647,6 +3647,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Bier Steaks",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Kilogramm",
+          "grundpreis": 9.9,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "mariniertes Fleisch"
+        },
+        {
           "produkt": "Bio Bierschinken",
           "marke": "BioBio",
           "haendler": [
@@ -3796,6 +3810,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -4014,6 +4056,20 @@
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
+            "E center"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
             "EDEKA"
           ],
           "preis": 10.79,
@@ -4191,62 +4247,6 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 86,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -4426,6 +4426,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Malzgetränk",
           "marke": "Knabe Malz",
           "haendler": [
@@ -4510,6 +4566,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -4589,6 +4673,62 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.02,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -4734,6 +4874,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -4785,6 +4939,48 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -4897,202 +5093,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.15,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.13,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 78,
+      "anzahl": 88,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -6082,6 +6082,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+ Mixgetränke",
           "marke": "Veltins",
           "haendler": [
@@ -6166,6 +6194,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -6248,6 +6290,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -6460,6 +6516,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -6511,6 +6581,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -6710,90 +6794,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-05-31",
-          "gueltig_bis": "2026-06-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 47,
+      "anzahl": 57,
       "angebote": [
         {
           "produkt": "Biere",
@@ -7719,6 +7719,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -7794,6 +7822,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
@@ -7859,6 +7901,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.02,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -7990,6 +8046,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -7999,6 +8069,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -8072,6 +8156,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -8153,6 +8251,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Landbier",
+          "marke": "Pott's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -8270,6 +8382,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -8279,6 +8405,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.15,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 17.6,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -8318,7 +8458,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 77,
+      "anzahl": 78,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -8741,6 +8881,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -9145,20 +9299,6 @@
           "gueltig_von": "2026-06-26",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9167,7 +9307,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 71,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Biere",
@@ -9282,6 +9422,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.88,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -9296,10 +9450,52 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+ Mixgetränke",
           "marke": "Veltins",
           "haendler": [
             "E center"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 0.89,
           "alt_preis": null,
@@ -9408,6 +9604,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -9436,6 +9646,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefeweizen",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9445,6 +9669,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.33,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -9464,6 +9702,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Heineken",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -9476,6 +9742,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Peach 0,0%",
+          "marke": "Bitburger",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Weißbier Alkoholfrei",
@@ -9649,6 +9929,20 @@
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
             "E center"
           ],
           "preis": 10.79,
@@ -9656,6 +9950,20 @@
           "einheit": "Liter",
           "grundpreis": 1.08,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "E center"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-24",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -9744,6 +10052,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -9826,188 +10148,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "E center"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lagerbier",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10016,7 +10156,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 75,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -10131,6 +10271,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Malzgetränk",
           "marke": "Knabe Malz",
           "haendler": [
@@ -10215,6 +10411,34 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -10282,6 +10506,62 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles Lager",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.9,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia",
+          "marke": "Estrella",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -10411,6 +10691,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -10448,6 +10742,62 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -10566,6 +10916,20 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "REWE"
@@ -10633,230 +10997,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Moritz Fiege",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles Bierchen",
-          "marke": "Stauder",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles Bierchen",
-          "marke": "Stauder",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10865,7 +11005,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 75,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -11022,10 +11162,38 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+ Mixgetränke",
           "marke": "Veltins",
           "haendler": [
             "E center"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 0.89,
           "alt_preis": null,
@@ -11204,6 +11372,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -11250,6 +11432,20 @@
           "marke": "Jever",
           "haendler": [
             "E center"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -11470,6 +11666,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -11622,90 +11846,6 @@
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11714,7 +11854,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 96,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -12306,6 +12446,34 @@
         },
         {
           "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
           "marke": "Becker's Pils",
           "haendler": [
             "trinkgut"
@@ -12400,6 +12568,20 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -12513,48 +12695,6 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.13,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12563,7 +12703,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 79,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Biere",
@@ -12673,6 +12813,48 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -12821,6 +13003,20 @@
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
             "E center"
           ],
           "preis": 3.49,
@@ -12892,6 +13088,20 @@
           "marke": "Jever",
           "haendler": [
             "E center"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -13025,6 +13235,20 @@
           "grundpreis": 2.27,
           "gueltig_von": "2026-06-17",
           "gueltig_bis": "2026-06-24",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -13317,90 +13541,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-24",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "E center"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -14261,7 +14401,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 64,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Biere",
@@ -14362,6 +14502,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+",
           "marke": "Veltins",
           "haendler": [
@@ -14446,6 +14614,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
@@ -14514,6 +14696,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -14698,6 +14894,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -14735,6 +14945,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -14897,6 +15121,20 @@
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
             "trinkgut"
           ],
           "preis": 11.99,
@@ -14992,113 +15230,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
+          "produkt": "Landbier",
+          "marke": "Pott's",
           "haendler": [
-            "REWE"
+            "Marktkauf"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lagerbier",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Starnberger Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
+          "grundpreis": 2.27,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -15110,7 +15250,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 95,
+      "anzahl": 114,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -15253,6 +15393,48 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V+ Mixgetränke",
           "marke": "Veltins",
           "haendler": [
@@ -15279,6 +15461,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Premium Pilsener",
@@ -15421,6 +15617,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Das Leichte",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Das Original",
           "marke": "Vitamalz",
           "haendler": [
@@ -15480,7 +15704,35 @@
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
             "E center"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -15631,6 +15883,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Wicküler",
           "haendler": [
@@ -15704,12 +15970,54 @@
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 10.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
             "E center"
           ],
           "preis": 10.79,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -15783,174 +16091,6 @@
           "gueltig_von": "2026-06-26",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.13,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -15959,7 +16099,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 77,
+      "anzahl": 89,
       "angebote": [
         {
           "produkt": "Biere",
@@ -16102,6 +16242,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+",
+          "marke": "Veltins",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Malzgetränk",
           "marke": "Knabe Malz",
           "haendler": [
@@ -16172,6 +16340,20 @@
           "kategorie": "Würste"
         },
         {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -16226,6 +16408,20 @@
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Grevensteiner Landbier",
@@ -16368,6 +16564,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Wicküler",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
@@ -16447,6 +16657,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.08,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
@@ -16547,6 +16785,20 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-05-31",
           "gueltig_bis": "2026-06-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Marktkauf"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
         {
@@ -16685,118 +16937,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.25,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-17",
-          "gueltig_bis": "2026-06-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierfass",
-          "marke": "Heineken",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-06-26",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-06-24",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
