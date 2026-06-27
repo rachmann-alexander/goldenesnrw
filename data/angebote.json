@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-06-26T07:51:01.830Z",
+  "generated_at": "2026-06-27T06:51:17.875Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2126,
+  "offer_count": 2087,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 112,
+      "anzahl": 110,
       "angebote": [
         {
           "produkt": "Biere",
@@ -41,20 +41,6 @@
           "kategorie": "Cocktails"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -79,6 +65,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 108,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "Biere",
@@ -872,20 +872,6 @@
           "einheit": "Liter",
           "grundpreis": 0.9,
           "gueltig_von": "2026-06-24",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -904,6 +890,20 @@
           "kategorie": "Cocktails"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Altbier",
           "marke": "Diebels",
           "haendler": [
@@ -914,20 +914,6 @@
           "einheit": "Liter",
           "grundpreis": 1.38,
           "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -956,6 +942,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 114,
+      "anzahl": 111,
       "angebote": [
         {
           "produkt": "Biere",
@@ -1725,17 +1725,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 129,
+      "anzahl": 126,
       "angebote": [
         {
           "produkt": "Biere",
@@ -2574,17 +2574,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 111,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Biere",
@@ -3423,20 +3423,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier-Mix Getränk",
           "marke": "Bitburger",
           "haendler": [
@@ -3449,6 +3435,20 @@
           "gueltig_von": "2026-07-02",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Cocktails"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Altbier",
@@ -3479,20 +3479,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -3517,6 +3503,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 122,
+      "anzahl": 119,
       "angebote": [
         {
           "produkt": "Biere",
@@ -4272,17 +4272,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 93,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Biere",
@@ -5121,17 +5121,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 108,
+      "anzahl": 107,
       "angebote": [
         {
           "produkt": "Biere",
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 93,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Biere",
@@ -6833,20 +6833,6 @@
           "kategorie": "Cocktails"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -6871,6 +6857,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 76,
+      "anzahl": 75,
       "angebote": [
         {
           "produkt": "Biere",
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 96,
+      "anzahl": 95,
       "angebote": [
         {
           "produkt": "Biere",
@@ -8531,20 +8531,6 @@
           "kategorie": "Cocktails"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -8569,6 +8555,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 122,
+      "anzahl": 121,
       "angebote": [
         {
           "produkt": "Biere",
@@ -9394,20 +9394,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -9432,6 +9418,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 117,
+      "anzahl": 115,
       "angebote": [
         {
           "produkt": "Biere",
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 99,
+      "anzahl": 98,
       "angebote": [
         {
           "produkt": "Biere",
@@ -11092,20 +11092,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Galicia Exportbier",
-          "marke": "Estrella",
-          "haendler": [
-            "ALDI SÜD"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.39,
-          "gueltig_von": "2026-06-25",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -11130,6 +11116,20 @@
           "einheit": "Liter",
           "grundpreis": 1.58,
           "gueltig_von": "2026-06-21",
+          "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Galicia Exportbier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.39,
+          "gueltig_von": "2026-06-25",
           "gueltig_bis": "2026-06-27",
           "kategorie": "Bier"
         },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 116,
+      "anzahl": 114,
       "angebote": [
         {
           "produkt": "Biere",
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 105,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Biere",
@@ -12762,17 +12762,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 72,
+      "anzahl": 70,
       "angebote": [
         {
           "produkt": "Biere",
@@ -13611,17 +13611,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 93,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Biere",
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 134,
+      "anzahl": 131,
       "angebote": [
         {
           "produkt": "Biere",
@@ -15309,17 +15309,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 106,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "Biere",
@@ -16158,20 +16158,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-06-21",
-          "gueltig_bis": "2026-06-27",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Holsten",
           "haendler": [
@@ -16183,6 +16169,20 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-06-21",
           "gueltig_bis": "2026-06-27",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
