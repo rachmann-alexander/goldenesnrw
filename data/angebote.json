@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-03T07:19:02.258Z",
+  "generated_at": "2026-07-04T06:46:04.704Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2007,
+  "offer_count": 2034,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 96,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Kölsch",
@@ -97,20 +97,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -121,6 +107,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -837,20 +851,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,22 +859,8 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 98,
+      "anzahl": 101,
       "angebote": [
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Bier-Mix Getränk",
           "marke": "Bitburger",
@@ -888,6 +874,20 @@
           "gueltig_von": "2026-07-02",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Cocktails"
+        },
+        {
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.74,
+          "alt_preis": 0.94,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -960,20 +960,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -984,6 +970,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -1028,6 +1042,20 @@
           "gueltig_von": "2026-07-02",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -1196,6 +1224,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -1658,48 +1700,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 109,
+      "anzahl": 111,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -1725,17 +1725,17 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -1863,6 +1863,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -2115,6 +2129,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -2521,34 +2549,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,20 +2557,20 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 115,
+      "anzahl": 117,
       "angebote": [
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -2684,6 +2684,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -2894,6 +2908,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -3370,34 +3398,6 @@
           "gueltig_von": "2026-06-30",
           "gueltig_bis": "2026-07-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,22 +3406,8 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 106,
+      "anzahl": 109,
       "angebote": [
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Bier-Mix Getränk",
           "marke": "Bitburger",
@@ -3435,6 +3421,20 @@
           "gueltig_von": "2026-07-02",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Cocktails"
+        },
+        {
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.74,
+          "alt_preis": 0.94,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -3521,6 +3521,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Natur Radler Zitrone",
           "marke": "Gösser",
           "haendler": [
@@ -3589,6 +3603,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -3799,6 +3827,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -4205,48 +4247,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener Steinie",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.67,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Warsteiner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,20 +4255,20 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 105,
+      "anzahl": 107,
       "angebote": [
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -4396,6 +4396,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -4648,6 +4662,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -5068,34 +5096,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 88,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -5121,17 +5121,17 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -5287,6 +5287,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -5471,6 +5485,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
+        },
+        {
           "produkt": "Premium Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -5583,20 +5611,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Feldschlößchen",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 7.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -5608,6 +5622,20 @@
           "grundpreis": 1.6,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Feldschlößchen",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
         {
@@ -5914,34 +5942,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsner",
-          "marke": "Landskron",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.28,
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 92,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Kölsch",
@@ -6889,20 +6889,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -6913,6 +6899,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -7628,20 +7642,6 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         }
       ]
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 86,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Bier-Mix Getränk",
@@ -8573,20 +8573,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -8597,6 +8583,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -9327,20 +9341,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.12,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 93,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Bier-Mix Getränk",
@@ -9422,20 +9422,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -9446,6 +9432,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -10175,20 +10189,6 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         }
       ]
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 101,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Bier-Mix Getränk",
@@ -11120,20 +11120,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -11144,6 +11130,34 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-06-28",
+          "gueltig_bis": "2026-07-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-07-16",
+          "gueltig_bis": "2026-07-18",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         },
@@ -11873,20 +11887,6 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
         }
       ]
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 102,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -12762,17 +12762,17 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -12872,6 +12872,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -13096,6 +13110,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -13558,34 +13586,6 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,20 +13594,20 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 114,
+      "anzahl": 116,
       "angebote": [
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -13763,6 +13763,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Cocktails"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Bud Beer",
@@ -13931,6 +13945,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Kölsch",
@@ -14399,34 +14427,6 @@
           "marke": "Beck's",
           "haendler": [
             "REWE"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Petz"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Petz"
           ],
           "preis": 11.49,
           "alt_preis": null,
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 116,
+      "anzahl": 118,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -15309,17 +15309,17 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -15433,6 +15433,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -15643,6 +15657,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -16105,34 +16133,6 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 104,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -16172,17 +16172,17 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Svetlo Pivo",
+          "marke": "Jelen Pivo",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
+          "preis": 0.74,
+          "alt_preis": 0.94,
           "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
         },
         {
@@ -16296,6 +16296,20 @@
           "gueltig_von": "2026-06-28",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Das Original",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Elephant",
@@ -16506,6 +16520,20 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bierkastenkühltasche",
+          "marke": "thisisnobrand123",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 3.99,
+          "alt_preis": 4.99,
+          "einheit": "Stück",
+          "grundpreis": 3.99,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Outdoorausrüstung"
         },
         {
           "produkt": "Premium Pilsener",
@@ -16954,34 +16982,6 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-04",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-06-28",
-          "gueltig_bis": "2026-07-04",
-          "kategorie": "Bier"
         }
       ]
     }
