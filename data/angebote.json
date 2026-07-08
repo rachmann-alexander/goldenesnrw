@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-07T07:36:15.692Z",
+  "generated_at": "2026-07-08T06:26:57.449Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2311,
+  "offer_count": 2379,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 109,
+      "anzahl": 112,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -672,6 +672,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -837,20 +851,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 126,
+      "anzahl": 129,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -1605,6 +1605,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -1686,20 +1700,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt-Bier",
-          "marke": "Bolten",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 113,
+      "anzahl": 116,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -2384,6 +2384,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -2535,20 +2549,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": 16.99,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 123,
+      "anzahl": 129,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -3289,6 +3289,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "EDEKA Foodservice"
@@ -3370,34 +3398,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt-Bier",
-          "marke": "Bolten",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 130,
+      "anzahl": 133,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 119,
+      "anzahl": 125,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -5001,6 +5001,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "EDEKA Foodservice"
@@ -5068,34 +5096,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 118,
+      "anzahl": 121,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -5892,6 +5892,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -5931,20 +5945,6 @@
           "gueltig_von": "2026-07-10",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 102,
+      "anzahl": 108,
       "angebote": [
         {
           "produkt": "Pils",
@@ -6573,6 +6573,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "EDEKA Foodservice"
@@ -6684,6 +6712,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Herforder",
           "haendler": [
@@ -6752,48 +6794,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "nahkauf"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 112,
+      "anzahl": 115,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -7506,6 +7506,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -7626,20 +7640,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "E center"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 113,
+      "anzahl": 117,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -9206,6 +9206,20 @@
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
+            "E center"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
             "EDEKA"
           ],
           "preis": 11.49,
@@ -9327,20 +9341,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 134,
+      "anzahl": 144,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -9576,6 +9576,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bud",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "E center"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.94,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bud Beer",
           "marke": "Anheuser Busch",
           "haendler": [
@@ -9636,6 +9650,20 @@
           "marke": "Warsteiner",
           "haendler": [
             "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "E center"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -9747,6 +9775,20 @@
           "produkt": "Weisse",
           "marke": "Berliner Kindl",
           "haendler": [
+            "E center"
+          ],
+          "preis": 4.44,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.24,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weisse",
+          "marke": "Berliner Kindl",
+          "haendler": [
             "EDEKA"
           ],
           "preis": 4.44,
@@ -9781,6 +9823,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.27,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "E center"
+          ],
+          "preis": 4.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.42,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
@@ -9902,6 +9958,20 @@
           "marke": "Peroni",
           "haendler": [
             "EDEKA"
+          ],
+          "preis": 5.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.77,
+          "gueltig_von": "2026-07-05",
+          "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "E center"
           ],
           "preis": 5.49,
           "alt_preis": null,
@@ -10120,76 +10190,6 @@
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizen Naturtrüb",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 10.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.91,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizen Naturtrüb",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.91,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Jever",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-06-30",
-          "gueltig_bis": "2026-07-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.67,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 114,
+      "anzahl": 117,
       "angebote": [
         {
           "produkt": "Bier",
@@ -10860,6 +10860,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "EDEKA Foodservice"
@@ -10912,6 +10926,20 @@
           "grundpreis": 1.15,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
           "kategorie": "Bier"
         },
         {
@@ -11011,34 +11039,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": 16.99,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 129,
+      "anzahl": 132,
       "angebote": [
         {
           "produkt": "Natur-Radler",
@@ -11835,6 +11835,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -11874,20 +11888,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alkoholfreies Malzgetränk",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 129,
+      "anzahl": 132,
       "angebote": [
         {
           "produkt": "Bier",
@@ -12656,6 +12656,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -12723,20 +12737,6 @@
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt-Bier",
-          "marke": "Bolten",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 114,
+      "anzahl": 117,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -13449,6 +13449,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -13569,20 +13583,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.82,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "EDEKA"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 93,
+      "anzahl": 96,
       "angebote": [
         {
           "produkt": "Pils",
@@ -15007,6 +15007,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -15188,6 +15202,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Krombacher",
           "haendler": [
@@ -15253,34 +15281,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-07-01",
-          "gueltig_bis": "2026-07-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Urig-Würzig",
-          "marke": "Altenmünster Brauer Bier",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.86,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
           "gueltig_von": "2026-07-01",
           "gueltig_bis": "2026-07-08",
           "kategorie": "Bier"
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 122,
+      "anzahl": 125,
       "angebote": [
         {
           "produkt": "Svetlo Pivo",
@@ -16887,6 +16887,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-08",
+          "gueltig_bis": "2026-07-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "Handelshof"
@@ -16965,20 +16979,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.67,
-          "gueltig_von": "2026-07-05",
-          "gueltig_bis": "2026-07-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
           "gueltig_von": "2026-07-05",
           "gueltig_bis": "2026-07-11",
           "kategorie": "Bier"
