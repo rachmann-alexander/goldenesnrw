@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-24T06:23:55.165Z",
+  "generated_at": "2026-07-25T06:15:57.117Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1616,
+  "offer_count": 1676,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 71,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -65,6 +65,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -206,6 +220,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -459,6 +487,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Radler Naturtrüb",
@@ -809,48 +851,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 81,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -890,18 +890,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Radler",
@@ -928,6 +928,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -1083,6 +1097,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -1364,6 +1392,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Radler Naturtrüb",
@@ -1658,48 +1700,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 86,
+      "anzahl": 89,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -1739,46 +1739,60 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 1.54,
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Schmackes",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Schmackes",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-19",
+          "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -1960,6 +1974,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -2271,6 +2299,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -2507,48 +2549,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Naturradler",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 95,
+      "anzahl": 98,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -2602,46 +2602,60 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 1.54,
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Schmackes",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Schmackes",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-19",
+          "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -2851,6 +2865,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -3176,6 +3204,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -3356,48 +3398,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Natur Radler",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 84,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -3437,6 +3437,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -3449,20 +3463,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
-          "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Radler",
@@ -3489,6 +3489,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -3672,6 +3686,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -3969,6 +3997,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -4205,48 +4247,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alkoholfreies Malzgetränk",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 84,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -4300,6 +4300,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -4314,18 +4328,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
-            "Thomas Philipps"
+            "Lidl"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.79,
+          "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -4521,6 +4535,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -4790,6 +4818,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -5054,48 +5096,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Premium Pils Alkoholfrei",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 77,
+      "anzahl": 80,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -5149,18 +5149,32 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -5314,6 +5328,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -5525,6 +5553,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Weißbier Hell",
@@ -5903,48 +5945,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 82,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -6065,6 +6065,20 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -6233,6 +6247,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -6486,6 +6514,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Hell",
@@ -6752,48 +6794,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Urtyp Pils",
-          "marke": "Dithmarscher Brauerei",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.31,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Frische-Fässchen",
-          "marke": "Heineken",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.6,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 71,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -6857,6 +6857,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -7012,6 +7026,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -7237,6 +7265,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Radler Naturtrüb",
@@ -7601,48 +7643,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium-Pils",
-          "marke": "Leikeim",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 66,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -7679,6 +7679,20 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -7847,6 +7861,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -8172,6 +8200,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -8450,48 +8492,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 64,
+      "anzahl": 67,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -8541,6 +8541,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -8682,6 +8696,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -8921,6 +8949,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -9299,48 +9341,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Grapefruit",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 15.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.96,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Dunkel",
-          "marke": "König Ludwig",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 71,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -9404,6 +9404,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -9531,6 +9545,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -9770,6 +9798,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -10148,48 +10190,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium-Pils",
-          "marke": "Leikeim",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 89,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -10268,6 +10268,20 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -10464,6 +10478,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -10789,6 +10817,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -10997,48 +11039,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Premium Pils Alkoholfrei",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 73,
+      "anzahl": 76,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -11102,6 +11102,20 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-07-30",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
@@ -11229,6 +11243,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -11540,6 +11568,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Radler Naturtrüb",
           "marke": "Bitburger",
           "haendler": [
@@ -11846,48 +11888,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Gambrinus",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Bier",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 95,
+      "anzahl": 98,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -11938,6 +11938,20 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -12148,6 +12162,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -12487,6 +12515,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -12695,48 +12737,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Naturradler",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 80,
+      "anzahl": 83,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -12776,6 +12776,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -12790,18 +12804,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
-            "Thomas Philipps"
+            "Lidl"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.79,
+          "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -12955,6 +12969,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -13292,6 +13320,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Weißbier Hell",
@@ -13544,48 +13586,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 75,
+      "anzahl": 78,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -13611,18 +13611,32 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Thomas Philipps"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.69,
+          "alt_preis": 0.89,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -13818,6 +13832,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -14098,6 +14126,20 @@
           "grundpreis": 0.8,
           "gueltig_von": "2026-07-24",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -14393,48 +14435,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-22",
-          "gueltig_bis": "2026-07-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Petz"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier-Mix",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 74,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -14527,6 +14527,20 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -14667,6 +14681,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -14920,6 +14948,20 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Hell",
@@ -15242,48 +15284,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kellerbier",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Gambrinus",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 102,
+      "anzahl": 105,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -15306,6 +15306,20 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -15323,18 +15337,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
-            "Thomas Philipps"
+            "Lidl"
           ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
+          "preis": 0.79,
+          "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -15572,6 +15586,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -15925,6 +15953,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -16091,48 +16133,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 96,
+      "anzahl": 99,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -16200,6 +16200,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -16212,20 +16226,6 @@
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Bier",
-          "marke": "Staropramen",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.77,
-          "alt_preis": 0.95,
-          "einheit": "Liter",
-          "grundpreis": 1.54,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -16253,6 +16253,20 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -16421,6 +16435,20 @@
           "grundpreis": 1.94,
           "gueltig_von": "2026-07-19",
           "gueltig_bis": "2026-07-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils XXL",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.79,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -16746,6 +16774,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier Hell",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -16940,48 +16982,6 @@
           "gueltig_von": "2026-07-22",
           "gueltig_bis": "2026-07-29",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-07-19",
-          "gueltig_bis": "2026-07-25",
-          "kategorie": "Bier"
         }
       ]
     }
