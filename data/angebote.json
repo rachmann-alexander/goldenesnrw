@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-07-30T06:25:32.366Z",
+  "generated_at": "2026-07-31T06:42:04.855Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1908,
+  "offer_count": 1822,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 94,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Bier",
@@ -167,20 +167,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -207,20 +193,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -685,20 +657,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -851,6 +809,48 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.46,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 94,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Bier",
@@ -1016,20 +1016,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -1056,20 +1042,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -1193,20 +1165,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -1576,20 +1534,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -1700,6 +1644,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 104,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Bier",
@@ -1879,20 +1879,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -1933,20 +1919,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -2129,20 +2101,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Gronie Bier",
@@ -2481,20 +2439,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -2549,6 +2493,62 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 112,
+      "anzahl": 107,
       "angebote": [
         {
           "produkt": "Bier",
@@ -2714,20 +2714,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -2768,20 +2754,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -2966,20 +2938,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -3005,20 +2963,6 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-02",
           "gueltig_bis": "2026-08-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -3344,20 +3288,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -3398,6 +3328,76 @@
           "gueltig_von": "2026-06-30",
           "gueltig_bis": "2026-07-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-30",
+          "gueltig_bis": "2026-07-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 100,
+      "anzahl": 96,
       "angebote": [
         {
           "produkt": "Bier",
@@ -3577,20 +3577,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -3617,20 +3603,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -3768,20 +3740,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -4207,20 +4165,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils Stubbi",
           "marke": "Bitburger",
           "haendler": [
@@ -4247,6 +4191,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-06-30",
+          "gueltig_bis": "2026-07-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Altbier",
+          "marke": "Diebels",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 103,
+      "anzahl": 98,
       "angebote": [
         {
           "produkt": "Bier",
@@ -4412,20 +4412,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -4452,20 +4438,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -4608,20 +4580,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -4662,20 +4620,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pülleken Helles",
@@ -5000,20 +4944,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -5096,6 +5026,76 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener Steinie",
+          "marke": "Veltins",
+          "haendler": [
+            "boni Center"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 81,
+      "anzahl": 73,
       "angebote": [
         {
           "produkt": "Bier",
@@ -5219,20 +5219,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -5259,20 +5245,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -5387,34 +5359,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Radler Alkoholfrei",
           "marke": "Warsteiner",
           "haendler": [
@@ -5468,20 +5412,6 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-02",
           "gueltig_bis": "2026-08-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -5709,20 +5639,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -5769,20 +5685,6 @@
           "marke": "Warsteiner",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "PENNY"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -5919,20 +5821,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsner",
-          "marke": "Landskron",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Flensburger",
           "haendler": [
@@ -5945,6 +5833,118 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud Lagerbier",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.46,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Oscar Maxxum",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.5,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.68,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier Alkoholfrei",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Berliner Pilsner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Bier",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 101,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Nordlicht Alkoholfreies Bier",
@@ -5995,20 +5995,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Brauerei Astra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.09,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -6138,20 +6124,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -6178,20 +6150,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -6357,20 +6315,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler",
-          "marke": "Krombacher",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -6670,20 +6614,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Steinie",
           "marke": "König Pilsener",
           "haendler": [
@@ -6696,20 +6626,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -6794,6 +6710,90 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizenbier",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brauherren Pils",
+          "marke": "Einbecker Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.67,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 87,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Bier",
@@ -6931,20 +6931,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -6971,20 +6957,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -7435,20 +7407,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -7643,6 +7601,48 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-31",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Oscar Maxxum",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.5,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.68,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 78,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Bier",
@@ -7766,20 +7766,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -7792,20 +7778,6 @@
           "gueltig_von": "2026-08-05",
           "gueltig_bis": "2026-08-08",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -7932,20 +7904,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Gronie Bier",
@@ -8198,20 +8156,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Premium Pilsener",
@@ -8492,6 +8436,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grevensteiner Landbier",
+          "marke": "C. & A. Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Berliner Pilsner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Bier",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 80,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Hell",
@@ -8615,20 +8615,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -8655,20 +8641,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -9119,20 +9091,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -9341,6 +9299,48 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier Alkoholfrei",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Berliner Pilsner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Bier",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 88,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Bier",
@@ -9478,20 +9478,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -9518,20 +9504,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -9641,20 +9613,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -9954,20 +9912,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -10190,6 +10134,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Bolten",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Oscar Maxxum",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.5,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.68,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 99,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Bier",
@@ -10313,20 +10313,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -10367,20 +10353,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -10537,20 +10509,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -10576,20 +10534,6 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-02",
           "gueltig_bis": "2026-08-08",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
         },
         {
@@ -10887,20 +10831,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -11039,6 +10969,76 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 89,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Bier",
@@ -11190,20 +11190,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -11230,20 +11216,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -11353,20 +11325,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler Naturtrüb",
-          "marke": "Bitburger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -11680,20 +11638,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Beck's",
           "haendler": [
@@ -11888,6 +11832,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.46,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Bolten",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Oscar Maxxum",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.5,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.68,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 112,
+      "anzahl": 108,
       "angebote": [
         {
           "produkt": "Bier",
@@ -12025,20 +12025,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -12079,20 +12065,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -12277,20 +12249,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Gronie Bier",
           "marke": "Tyskie",
           "haendler": [
@@ -12445,7 +12403,7 @@
           "kategorie": "Craft Beer"
         },
         {
-          "produkt": "Alkoholfrei",
+          "produkt": "Weissbier Alkoholfrei",
           "marke": "Franziskaner",
           "haendler": [
             "Getränke Hoffmann"
@@ -12613,20 +12571,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -12737,6 +12681,62 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Dortmunder Kronen",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Gutsherren",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.11,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 97,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Bier",
@@ -12888,20 +12888,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -12928,20 +12914,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -13096,20 +13068,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Gronie Bier",
@@ -13404,20 +13362,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -13586,6 +13530,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 96,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -13723,20 +13723,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -13777,20 +13763,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Malzgetränk",
@@ -14101,7 +14073,7 @@
           "kategorie": "Craft Beer"
         },
         {
-          "produkt": "Alkoholfrei",
+          "produkt": "Weissbier Alkoholfrei",
           "marke": "Franziskaner",
           "haendler": [
             "Getränke Hoffmann"
@@ -14283,20 +14255,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -14435,6 +14393,48 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Brauerei Bosch",
+          "haendler": [
+            "REWE Petz"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.04,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-31",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 85,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "Nordlicht Alkoholfreies Bier",
@@ -14458,20 +14458,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Brauerei Astra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.09,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -14612,20 +14598,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -14777,20 +14749,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Radler",
-          "marke": "Krombacher",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
@@ -15048,20 +15006,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -15284,6 +15228,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.46,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Oscar Maxxum",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.5,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.68,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Landbier",
+          "marke": "Pott's",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 113,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Bier",
@@ -15407,20 +15407,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -15461,20 +15447,6 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -15657,20 +15629,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pülleken Helles",
@@ -15869,7 +15827,7 @@
           "kategorie": "Craft Beer"
         },
         {
-          "produkt": "Alkoholfrei",
+          "produkt": "Weissbier Alkoholfrei",
           "marke": "Franziskaner",
           "haendler": [
             "Getränke Hoffmann"
@@ -16065,20 +16023,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -16133,6 +16077,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Warsteiner",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-07-29",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 95,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Bier",
@@ -16270,20 +16270,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bier + Cola",
-          "marke": "Karlsberg MiXery",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Bier",
           "marke": "Ožujsko",
           "haendler": [
@@ -16310,20 +16296,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Elephant",
-          "marke": "Carlsberg",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe-Weißbier",
@@ -16492,20 +16464,6 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "König Pilsener",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.33,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Gronie Bier",
@@ -16774,20 +16732,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Mexican Beer",
-          "marke": "Corona Extra",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-07-26",
-          "gueltig_bis": "2026-08-01",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -16982,6 +16926,62 @@
           "gueltig_von": "2026-07-26",
           "gueltig_bis": "2026-08-01",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-26",
+          "gueltig_bis": "2026-08-01",
+          "kategorie": "Bier"
         }
       ]
     }
