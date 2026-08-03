@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-02T06:30:56.491Z",
+  "generated_at": "2026-08-03T06:57:26.543Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1225,
+  "offer_count": 1229,
   "regionen": [
     {
       "stadt": "Köln",
@@ -1666,7 +1666,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 74,
+      "anzahl": 76,
       "angebote": [
         {
           "produkt": "Pils",
@@ -2302,6 +2302,20 @@
           "produkt": "Bier",
           "marke": "Bitburger",
           "haendler": [
+            "akzenta"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-02",
+          "gueltig_bis": "2026-08-08",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Bitburger",
+          "haendler": [
             "boni Center"
           ],
           "preis": 11.99,
@@ -2470,7 +2484,7 @@
           "produkt": "Kölsch",
           "marke": "Früh",
           "haendler": [
-            "boni Center"
+            "akzenta"
           ],
           "preis": 14.49,
           "alt_preis": null,
@@ -2481,31 +2495,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Lager Bier",
-          "marke": "Heineken",
+          "produkt": "Kölsch",
+          "marke": "Früh",
           "haendler": [
-            "Kaufland"
+            "boni Center"
           ],
-          "preis": 14.99,
+          "preis": 14.49,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Heineken",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-07-29",
-          "gueltig_bis": "2026-08-05",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-08-02",
+          "gueltig_bis": "2026-08-08",
           "kategorie": "Bier"
         }
       ]
@@ -5062,7 +5062,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 51,
+      "anzahl": 53,
       "angebote": [
         {
           "produkt": "Pils",
@@ -5542,6 +5542,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Bitburger",
+          "haendler": [
+            "akzenta"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-02",
+          "gueltig_bis": "2026-08-08",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -5651,6 +5665,20 @@
           "gueltig_von": "2026-07-29",
           "gueltig_bis": "2026-08-05",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "akzenta"
+          ],
+          "preis": 14.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-08-02",
+          "gueltig_bis": "2026-08-08",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Lager Bier",
