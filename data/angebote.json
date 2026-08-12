@@ -1,17 +1,31 @@
 {
-  "generated_at": "2026-08-11T05:05:38.272Z",
+  "generated_at": "2026-08-12T05:29:23.640Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1669,
+  "offer_count": 1694,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 79,
+      "anzahl": 81,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -293,20 +307,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -415,7 +415,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -557,6 +557,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -728,6 +742,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -823,34 +851,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Zwickl Kellerbier",
-          "marke": "Th.König",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -873,6 +873,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -955,20 +969,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
@@ -1226,20 +1226,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Lager",
           "marke": "Veltins",
           "haendler": [
@@ -1408,18 +1394,18 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Biere",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 9.49,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.44,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -1545,6 +1531,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 88,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -1722,6 +1722,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -1995,20 +2009,6 @@
           "marke": "Warsteiner",
           "haendler": [
             "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -2313,6 +2313,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Dortmunder Kronen",
           "haendler": [
@@ -2496,6 +2510,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -2521,34 +2549,6 @@
           "gueltig_von": "2026-08-05",
           "gueltig_bis": "2026-08-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 92,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -2571,6 +2571,34 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -2868,20 +2896,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -3163,6 +3177,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Frankenheim",
           "haendler": [
             "Handelshof"
@@ -3356,48 +3398,6 @@
           "gueltig_von": "2026-08-05",
           "gueltig_bis": "2026-08-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-07-31",
-          "gueltig_bis": "2026-08-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-07-31",
-          "gueltig_bis": "2026-08-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-31",
-          "gueltig_bis": "2026-08-31",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3420,6 +3420,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -3718,20 +3732,6 @@
         },
         {
           "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
             "Kaufland"
@@ -3824,20 +3824,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.27,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
@@ -3997,18 +3983,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Biere",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 9.49,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.44,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -4208,6 +4194,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 84,
+      "anzahl": 89,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -4269,6 +4269,34 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -4514,20 +4542,6 @@
           "marke": "Warsteiner",
           "haendler": [
             "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -4790,6 +4804,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -4987,6 +5029,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "EDEKA Foodservice"
@@ -5026,76 +5096,6 @@
           "gueltig_von": "2026-08-05",
           "gueltig_bis": "2026-08-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biermixgetränk",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Flensburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 82,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -5118,6 +5118,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -5321,20 +5335,6 @@
           "marke": "Schöfferhofer",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -5612,6 +5612,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Frankenheim",
           "haendler": [
             "Handelshof"
@@ -5780,6 +5794,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -5917,34 +5945,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,8 +5953,36 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 89,
+      "anzahl": 92,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -6030,20 +6058,6 @@
           "marke": "Paulaner",
           "haendler": [
             "REWE"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 0.89,
           "alt_preis": null,
@@ -6222,20 +6236,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -6358,7 +6358,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -6530,6 +6530,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -6685,6 +6713,34 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Detmolder",
           "haendler": [
             "EDEKA Foodservice"
@@ -6737,62 +6793,6 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biermixgetränk",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biermixgetränk",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Beck's",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
         }
       ]
@@ -6802,8 +6802,22 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 73,
+      "anzahl": 75,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -7043,20 +7057,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -7165,7 +7165,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -7295,6 +7295,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Urig-Würzig",
           "marke": "Altenmünster Brauer Bier",
           "haendler": [
@@ -7418,6 +7432,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -7615,34 +7643,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original Bier",
-          "marke": "Duckstein",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 67,
+      "anzahl": 66,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -7896,20 +7896,6 @@
           "marke": "Warsteiner",
           "haendler": [
             "REWE"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -8492,6 +8478,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 66,
+      "anzahl": 65,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -8741,20 +8741,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -8863,7 +8849,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -9341,6 +9327,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.18,
+          "gueltig_von": "2026-08-05",
+          "gueltig_bis": "2026-08-12",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -9351,6 +9351,20 @@
       "lon": 6.4344,
       "anzahl": 75,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -9431,20 +9445,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
@@ -9660,20 +9660,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Helles Lager",
           "marke": "Veltins",
           "haendler": [
@@ -9828,18 +9814,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Biere",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 9.49,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.44,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -9965,6 +9951,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -10160,7 +10160,7 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -10198,8 +10198,22 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 89,
+      "anzahl": 91,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -10457,20 +10471,6 @@
           "marke": "Schöfferhofer",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -10733,6 +10733,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -10930,6 +10944,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "EDEKA Foodservice"
@@ -11011,34 +11039,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Zwickl Kellerbier",
-          "marke": "Th.König",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11049,6 +11049,20 @@
       "lon": 6.5853,
       "anzahl": 71,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -11129,20 +11143,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
@@ -11372,20 +11372,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Tequila Bier Original",
           "marke": "Desperados",
           "haendler": [
@@ -11512,18 +11498,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Biere",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 9.49,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.44,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Vatertag"
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -11649,6 +11635,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -11830,7 +11830,7 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -11896,8 +11896,22 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 97,
+      "anzahl": 99,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -12155,20 +12169,6 @@
           "marke": "Schöfferhofer",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -12501,6 +12501,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -12698,6 +12712,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -12709,34 +12737,6 @@
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biermixgetränk",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-05",
-          "gueltig_bis": "2026-08-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 80,
+      "anzahl": 82,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -12759,6 +12759,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -13004,20 +13018,6 @@
           "marke": "Schöfferhofer",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -13323,6 +13323,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
             "Netto Marken-Discount"
@@ -13477,6 +13491,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -13558,34 +13586,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Zwickl Kellerbier",
-          "marke": "Th.König",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.97,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 83,
+      "anzahl": 82,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -13919,20 +13919,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grapefruit Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -14027,7 +14013,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -14435,6 +14421,20 @@
           "gueltig_von": "2026-08-05",
           "gueltig_bis": "2026-08-12",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-05",
+          "gueltig_bis": "2026-08-12",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -14445,6 +14445,20 @@
       "lon": 8.7575,
       "anzahl": 77,
       "angebote": [
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pilsener",
           "marke": "Holsten",
@@ -14520,20 +14534,6 @@
           "marke": "Paulaner",
           "haendler": [
             "REWE"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 0.89,
           "alt_preis": null,
@@ -14670,20 +14670,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -14792,7 +14778,7 @@
           "einheit": "Liter",
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -14950,6 +14936,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -15073,6 +15073,20 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -15270,20 +15284,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 110,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -15663,20 +15663,6 @@
           "marke": "Schöfferhofer",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 3.99,
           "alt_preis": null,
@@ -16133,6 +16119,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 92,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -16155,6 +16155,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
         },
         {
@@ -16230,20 +16244,6 @@
         {
           "produkt": "Pils",
           "marke": "Pilsner Urquell",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -16425,20 +16425,6 @@
         },
         {
           "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.02,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
             "Kaufland"
@@ -16547,6 +16533,20 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -16733,6 +16733,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
             "Netto Marken-Discount"
@@ -16915,6 +16929,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.29,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.43,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Paulaner",
           "haendler": [
             "Handelshof"
@@ -16951,34 +16979,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
