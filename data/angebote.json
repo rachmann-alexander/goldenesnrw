@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-14T05:36:28.034Z",
+  "generated_at": "2026-08-15T04:27:43.751Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1597,
+  "offer_count": 1541,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 72,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Bier",
@@ -377,20 +377,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -417,20 +403,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Tequila Bier Original",
@@ -851,6 +823,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Craft Beer"
+        },
+        {
+          "produkt": "Premium Lagerbier",
+          "marke": "Carlsberg",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kellerbier",
+          "marke": "Keiler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 82,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -957,20 +957,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -1210,20 +1196,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -1700,6 +1672,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Altbier",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 86,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -2131,20 +2131,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -2549,6 +2535,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 87,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -2980,20 +2980,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-07-31",
+          "gueltig_bis": "2026-08-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 85,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -3518,20 +3518,6 @@
           "grundpreis": 1.78,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -3813,20 +3799,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -4247,6 +4219,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Bolten",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Flensburger",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 12.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 81,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -4634,20 +4634,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -5096,6 +5082,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Flensburger",
+          "haendler": [
+            "boni Center"
+          ],
+          "preis": 12.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 78,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -5230,20 +5230,6 @@
           "grundpreis": 0.94,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "5,0 Original Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 1.88,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.94,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -5413,20 +5399,6 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -5945,6 +5917,34 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Münchner",
+          "marke": "Paulaner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grevensteiner Original",
+          "marke": "C. & A. Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.75,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 86,
+      "anzahl": 83,
       "angebote": [
         {
           "produkt": "Bier",
@@ -6348,20 +6348,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -6388,20 +6374,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Tequila Bier Original",
@@ -6794,6 +6766,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 69,
+      "anzahl": 66,
       "angebote": [
         {
           "produkt": "Bier",
@@ -7141,20 +7141,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -7181,20 +7167,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Tequila Bier Original",
@@ -7643,6 +7615,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 66,
+      "anzahl": 64,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -7974,20 +7974,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -8492,6 +8478,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 63,
+      "anzahl": 60,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -8825,20 +8825,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -8865,20 +8851,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Tequila Bier Original",
@@ -9341,6 +9313,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Bayreuther Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Sommerzwickl",
+          "marke": "Hofbräu München",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 72,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Bier",
@@ -9433,20 +9433,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -9644,20 +9630,6 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -10136,20 +10108,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Münchner Hell",
-          "marke": "Paulaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Original Bier",
           "marke": "Duckstein",
           "haendler": [
@@ -10190,6 +10148,48 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Lagerbier",
+          "marke": "Carlsberg",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-12",
+          "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kellerbier",
+          "marke": "Keiler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Münchner Hell",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 85,
+      "anzahl": 83,
       "angebote": [
         {
           "produkt": "Bier",
@@ -10549,20 +10549,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -11039,6 +11025,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Altbier",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 66,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Bier",
@@ -11131,20 +11131,6 @@
           "grundpreis": 1.58,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.89,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.78,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Bier"
         },
         {
@@ -11342,20 +11328,6 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -11778,20 +11750,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Münchner Hell",
-          "marke": "Paulaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Original Bier",
           "marke": "Duckstein",
           "haendler": [
@@ -11888,6 +11846,48 @@
           "gueltig_von": "2026-08-15",
           "gueltig_bis": "2026-08-16",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Budvar Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Grolsch",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.22,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 95,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Bier",
@@ -12261,20 +12261,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -12737,6 +12723,20 @@
           "gueltig_von": "2026-07-31",
           "gueltig_bis": "2026-08-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 78,
+      "anzahl": 76,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -13110,20 +13110,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
         },
         {
           "produkt": "Pilsener",
@@ -13586,6 +13572,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Zwickl Kellerbier",
+          "marke": "Th.König",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.97,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 77,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -14003,34 +14003,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Tequila Bier Original",
           "marke": "Desperados",
           "haendler": [
@@ -14435,6 +14407,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Münchner",
+          "marke": "Paulaner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Classic",
+          "marke": "Karamalz",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.77,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 74,
+      "anzahl": 71,
       "angebote": [
         {
           "produkt": "Bier",
@@ -14768,20 +14768,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -14808,20 +14794,6 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Tequila Bier Original",
@@ -15284,6 +15256,34 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Münchner",
+          "marke": "Paulaner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Duckstein",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.5,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 105,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -15729,20 +15729,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -16133,6 +16119,20 @@
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.08,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 90,
+      "anzahl": 86,
       "angebote": [
         {
           "produkt": "Original 5,0 Pils",
@@ -16508,20 +16508,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Haut + Haare Bierhefe",
-          "marke": "Sanotact",
-          "haendler": [
-            "ROSSMANN"
-          ],
-          "preis": 3.99,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 18.14,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
-          "kategorie": "Haut-, Haar- & Nagelpflegeartikel"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -16575,20 +16561,6 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-09",
-          "gueltig_bis": "2026-08-14",
           "kategorie": "Vatertag"
         },
         {
@@ -16979,6 +16951,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-08-09",
+          "gueltig_bis": "2026-08-15",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
           "gueltig_von": "2026-08-09",
           "gueltig_bis": "2026-08-15",
           "kategorie": "Bier"
