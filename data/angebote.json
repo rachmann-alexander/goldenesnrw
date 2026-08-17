@@ -1,17 +1,45 @@
 {
-  "generated_at": "2026-08-16T04:33:11.358Z",
+  "generated_at": "2026-08-17T04:39:04.796Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 911,
+  "offer_count": 1113,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 32,
+      "anzahl": 44,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -24,6 +52,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -55,6 +111,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -66,6 +136,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -94,6 +178,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -433,18 +601,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -467,8 +635,36 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 37,
+      "anzahl": 49,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -481,6 +677,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -512,6 +736,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Svetlo Pivo",
           "marke": "Jelen Pivo",
           "haendler": [
@@ -540,6 +778,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alkoholfrei Biere",
           "marke": "Schloss",
           "haendler": [
@@ -565,6 +817,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -960,18 +1296,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -994,8 +1330,36 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 60,
+      "anzahl": 69,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -1011,6 +1375,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -1020,6 +1398,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -1162,6 +1554,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -1709,132 +2171,6 @@
           "gueltig_von": "2026-08-16",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Chiemseer Hell",
-          "marke": "Chiemgauer Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lagerbier",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.28,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1843,8 +2179,36 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 48,
+      "anzahl": 57,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -1874,6 +2238,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -1883,6 +2261,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -1969,6 +2361,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -2476,18 +2938,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -2524,8 +2986,36 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 48,
+      "anzahl": 60,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -2538,6 +3028,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -2567,6 +3085,20 @@
           "gueltig_von": "2026-08-20",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Hell",
@@ -2625,6 +3157,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alkoholfrei Biere",
           "marke": "Schloss",
           "haendler": [
@@ -2650,6 +3196,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -3171,18 +3801,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -3205,8 +3835,36 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 54,
+      "anzahl": 63,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -3236,6 +3894,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -3245,6 +3917,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -3345,6 +4031,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -3920,48 +4676,6 @@
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Köstritzer",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.28,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3970,8 +4684,36 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 45,
+      "anzahl": 54,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -3987,6 +4729,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -3996,6 +4752,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -4082,6 +4852,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -4589,18 +5429,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4609,8 +5449,36 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 41,
+      "anzahl": 50,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -4640,6 +5508,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -4649,6 +5531,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -4707,6 +5603,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -5172,18 +6138,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5192,8 +6158,36 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 33,
+      "anzahl": 45,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -5206,6 +6200,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -5237,6 +6259,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -5248,6 +6284,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -5290,6 +6340,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -5629,18 +6763,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -5663,8 +6797,50 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 28,
+      "anzahl": 38,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pils",
           "marke": "Krombacher",
@@ -5675,6 +6851,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -5747,6 +6937,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6030,6 +7290,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bierfass",
+          "marke": "Desperados",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Beer",
           "marke": "Heineken",
           "haendler": [
@@ -6064,8 +7338,64 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 27,
+      "anzahl": 39,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pils",
           "marke": "Krombacher",
@@ -6095,6 +7425,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -6106,6 +7450,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6134,6 +7492,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6417,18 +7859,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -6451,8 +7893,36 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 31,
+      "anzahl": 43,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -6465,6 +7935,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6496,6 +7994,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -6507,6 +8019,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6535,6 +8061,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -6860,18 +8470,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -6894,8 +8504,36 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 48,
+      "anzahl": 57,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -6911,6 +8549,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -6920,6 +8572,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -6992,6 +8658,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -7527,18 +9263,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -7575,8 +9311,36 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 31,
+      "anzahl": 43,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -7589,6 +9353,34 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-08-12",
           "gueltig_bis": "2026-08-19",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.65,
+          "alt_preis": 0.99,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -7620,6 +9412,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7631,6 +9437,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Damm Bier",
+          "marke": "Estrella",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.7,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -7659,6 +9479,90 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "ALDI SÜD"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.76,
+          "gueltig_von": "2026-08-27",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -7984,18 +9888,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Stubbi",
@@ -8018,8 +9922,36 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 71,
+      "anzahl": 80,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -8035,6 +9967,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -8044,6 +9990,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -8186,6 +10146,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -8733,132 +10763,6 @@
           "gueltig_von": "2026-08-16",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Berliner Pilsner",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Chiemseer Hell",
-          "marke": "Chiemgauer Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lagerbier",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.28,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -8867,8 +10771,36 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 43,
+      "anzahl": 52,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -8884,6 +10816,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -8893,6 +10839,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -8979,6 +10939,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -9430,18 +11460,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -9478,8 +11508,50 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 63,
+      "anzahl": 72,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pils",
           "marke": "Krombacher",
@@ -9490,6 +11562,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -9618,6 +11704,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -10167,18 +12323,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -10193,132 +12349,6 @@
           "gueltig_von": "2026-08-16",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Porter Schwarzes Bier",
-          "marke": "Lausitzer",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Karmeliter Bräu",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.7,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.15,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Mooser Liesl Hell",
-          "marke": "Arcobräu",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "The Original  Pilsner",
-          "marke": "Pilsner Urquell",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 19.98,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Stubbi",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Petz"
-          ],
-          "preis": 19.98,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10327,8 +12357,36 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 35,
+      "anzahl": 44,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -10344,6 +12402,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -10353,6 +12425,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -10411,6 +12497,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -10806,18 +12962,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Bierfass",
+          "marke": "Desperados",
           "haendler": [
-            "Kaufland"
+            "Lidl"
           ],
-          "preis": 14.99,
+          "preis": 15.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
+          "grundpreis": 3.2,
+          "gueltig_von": "2026-08-26",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -10826,8 +12982,50 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 78,
+      "anzahl": 87,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pils",
           "marke": "Krombacher",
@@ -10838,6 +13036,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -11008,6 +13220,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -11541,132 +13823,6 @@
           "gueltig_von": "2026-08-21",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-21",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Berliner Pilsner",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Stauder",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11675,8 +13831,36 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 58,
+      "anzahl": 67,
       "angebote": [
+        {
+          "produkt": "Radler Naturtrüb",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.55,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Bier",
           "marke": "Krombacher",
@@ -11692,6 +13876,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Strong Beer",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.65,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -11701,6 +13899,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.3,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Camaro Cerveza-Bier",
+          "marke": "Argus",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.09,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -11801,6 +14013,76 @@
           "grundpreis": 1.29,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Hefe-Weissbier",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.69,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Gold Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 2.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.93,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Perlenbacher",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 3.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.16,
+          "gueltig_von": "2026-08-23",
+          "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
         },
         {
@@ -12387,104 +14669,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lagerbier",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-12",
-          "gueltig_bis": "2026-08-19",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-16",
-          "gueltig_bis": "2026-08-22",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-15",
-          "gueltig_bis": "2026-08-16",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.28,
           "gueltig_von": "2026-08-16",
           "gueltig_bis": "2026-08-22",
           "kategorie": "Bier"
