@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-21T04:35:20.617Z",
+  "generated_at": "2026-08-22T04:30:11.189Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1823,
+  "offer_count": 1821,
   "regionen": [
     {
       "stadt": "Köln",
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 92,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 85,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -6849,20 +6849,6 @@
         {
           "produkt": "Strong Beer",
           "marke": "Perlenbacher",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.65,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
           "haendler": [
             "Lidl"
           ],
@@ -7635,6 +7621,20 @@
           "marke": "Tyskie",
           "haendler": [
             "REWE"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-16",
+          "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 88,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -13627,20 +13627,6 @@
         {
           "produkt": "Strong Beer",
           "marke": "Perlenbacher",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.65,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
           "haendler": [
             "Lidl"
           ],
@@ -14434,6 +14420,20 @@
           "grundpreis": 2.12,
           "gueltig_von": "2026-08-16",
           "gueltig_bis": "2026-08-22",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-08-19",
+          "gueltig_bis": "2026-08-26",
           "kategorie": "Bier"
         }
       ]
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 95,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -16174,20 +16174,6 @@
         {
           "produkt": "Strong Beer",
           "marke": "Perlenbacher",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.65,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
           "haendler": [
             "Lidl"
           ],
@@ -16981,6 +16967,20 @@
           "grundpreis": 1.3,
           "gueltig_von": "2026-08-19",
           "gueltig_bis": "2026-08-26",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Edelherb Pils",
+          "marke": "Kulmbacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-08-16",
+          "gueltig_bis": "2026-08-22",
           "kategorie": "Bier"
         }
       ]
