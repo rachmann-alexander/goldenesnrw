@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-08-28T15:54:18.698Z",
+  "generated_at": "2026-08-29T10:46:53.775Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1691,
+  "offer_count": 1746,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 82,
+      "anzahl": 83,
       "angebote": [
         {
           "produkt": "Kölsch",
@@ -859,8 +859,22 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 85,
+      "anzahl": 89,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -960,20 +974,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Natur Radler",
           "marke": "Gösser",
           "haendler": [
@@ -1056,6 +1056,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -1363,6 +1391,20 @@
           "grundpreis": 0.75,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
         },
         {
@@ -1658,48 +1700,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Bolten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,8 +1708,22 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 88,
+      "anzahl": 93,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -1809,20 +1823,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Radler Naturtrüb",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
@@ -1905,6 +1905,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -2257,6 +2285,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -2507,48 +2549,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,8 +2557,22 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 91,
+      "anzahl": 96,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -2637,20 +2651,6 @@
           ],
           "preis": 0.69,
           "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
           "einheit": "Liter",
           "grundpreis": 1.38,
           "gueltig_von": "2026-08-23",
@@ -2740,6 +2740,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -3064,6 +3092,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -3356,48 +3398,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,8 +3406,22 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 91,
+      "anzahl": 95,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -3488,20 +3502,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.09,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -3631,6 +3631,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -4011,6 +4039,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -4205,48 +4247,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.29,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.43,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-07-31",
-          "gueltig_bis": "2026-08-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,8 +4255,22 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 87,
+      "anzahl": 92,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -4323,20 +4337,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.09,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -4452,6 +4452,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -4776,6 +4804,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -5054,48 +5096,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alkoholfreies Malzgetränk",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,8 +5104,22 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 81,
+      "anzahl": 85,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -5172,20 +5186,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.09,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -5287,6 +5287,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -5580,6 +5608,20 @@
           "grundpreis": 0.75,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
         },
         {
@@ -5903,48 +5945,6 @@
           "gueltig_von": "2026-08-26",
           "gueltig_bis": "2026-09-02",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Czech Premium Lager",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "PENNY"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 89,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Pils",
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 86,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "Kölsch",
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 67,
+      "anzahl": 68,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 76,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 75,
+      "anzahl": 76,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 83,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 77,
+      "anzahl": 78,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 98,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Radler Naturtrüb",
@@ -12745,8 +12745,22 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 79,
+      "anzahl": 83,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -12832,20 +12846,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Natur Radler",
           "marke": "Gösser",
           "haendler": [
@@ -12900,6 +12900,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -13207,6 +13235,20 @@
           "grundpreis": 0.75,
           "gueltig_von": "2026-08-26",
           "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
         },
         {
@@ -13544,48 +13586,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brauspezialitäten-Tragerl",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.48,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.48,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,8 +13594,22 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 81,
+      "anzahl": 85,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -13681,20 +13695,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -13765,6 +13765,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -13777,6 +13791,20 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Alkoholfreies Malzgetränk",
@@ -14056,6 +14084,20 @@
           "grundpreis": 3.4,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
         },
         {
@@ -14385,48 +14427,6 @@
           "marke": "Privatbrauerei Gaffel",
           "haendler": [
             "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Lager Beer",
-          "marke": "Carlsberg",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -15292,8 +15292,22 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 105,
+      "anzahl": 110,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler Naturtrüb",
           "marke": "Perlenbacher",
@@ -15388,20 +15402,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.09,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
@@ -15505,6 +15505,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -15517,6 +15531,20 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -15897,6 +15925,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -16091,48 +16133,6 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,8 +16141,22 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 92,
+      "anzahl": 96,
       "angebote": [
+        {
+          "produkt": "Original 5,0 Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.48,
+          "alt_preis": 0.68,
+          "einheit": "Liter",
+          "grundpreis": 0.96,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Pils",
           "marke": "Regenten",
@@ -16242,20 +16256,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.69,
-          "alt_preis": 0.89,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -16324,6 +16324,34 @@
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Oktoberfestbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Malzbier",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 1.11,
+          "alt_preis": 1.29,
+          "einheit": "Liter",
+          "grundpreis": 1.48,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -16648,6 +16676,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils Partyfass",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 7.77,
+          "alt_preis": 9.99,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-08-30",
+          "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
@@ -16939,48 +16981,6 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-08-23",
           "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Krombacher",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Das Original",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-08-23",
-          "gueltig_bis": "2026-08-29",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
           "kategorie": "Bier"
         }
       ]
