@@ -1,17 +1,31 @@
 {
-  "generated_at": "2026-09-01T09:09:55.354Z",
+  "generated_at": "2026-09-02T08:23:16.598Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1739,
+  "offer_count": 1796,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 72,
+      "anzahl": 75,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -615,6 +629,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -665,7 +693,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -823,34 +851,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Grevensteiner",
-          "marke": "C. & A. Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Lübzer",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 88,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -873,6 +873,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -1590,6 +1604,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Blue Biermischgetränk",
           "marke": "Frankenheim",
           "haendler": [
@@ -1672,34 +1700,6 @@
           "gueltig_von": "2026-08-26",
           "gueltig_bis": "2026-09-02",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Flensburger",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.28,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-09-04",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 98,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -1722,6 +1722,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -2523,31 +2537,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
+          "produkt": "Bier",
+          "marke": "Paulaner",
           "haendler": [
-            "trinkgut"
+            "Handelshof"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         }
       ]
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 98,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -2571,6 +2571,34 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -3370,34 +3398,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "E center"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 98,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -3420,6 +3420,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -4233,20 +4247,6 @@
           "gueltig_von": "2026-09-03",
           "gueltig_bis": "2026-09-04",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.29,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.43,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 96,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -4269,6 +4269,34 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -5068,34 +5096,6 @@
           "gueltig_von": "2026-08-26",
           "gueltig_bis": "2026-09-02",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 87,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -5118,6 +5118,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -5891,6 +5905,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -5917,34 +5945,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,8 +5953,36 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 93,
+      "anzahl": 99,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -6684,6 +6712,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -6738,62 +6794,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,8 +6802,22 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 81,
+      "anzahl": 84,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -7449,6 +7463,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -7527,7 +7555,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -7612,34 +7640,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.45,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Bier",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -8152,7 +8152,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -9085,7 +9085,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -9335,8 +9335,22 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 72,
+      "anzahl": 75,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -9926,6 +9940,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -9990,7 +10018,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -10148,34 +10176,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Grevensteiner",
-          "marke": "C. & A. Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Lübzer",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -10184,8 +10184,22 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 89,
+      "anzahl": 92,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -10887,6 +10901,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -10951,7 +10979,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -10997,34 +11025,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.12,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11033,8 +11033,22 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 74,
+      "anzahl": 77,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -11624,6 +11638,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -11702,7 +11730,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -11846,34 +11874,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Grevensteiner",
-          "marke": "C. & A. Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Lübzer",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -11882,8 +11882,22 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 104,
+      "anzahl": 107,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -12697,31 +12711,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
+          "produkt": "Bier",
+          "marke": "Paulaner",
           "haendler": [
-            "trinkgut"
+            "Handelshof"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         }
       ]
@@ -12731,7 +12731,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 82,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -12745,6 +12745,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -13420,6 +13434,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -13470,7 +13498,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -13541,34 +13569,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-08-26",
-          "gueltig_bis": "2026-09-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Bier",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -14429,8 +14429,22 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 76,
+      "anzahl": 79,
       "angebote": [
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
         {
           "produkt": "Radler",
           "marke": "Schloss",
@@ -15034,6 +15048,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Paulaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -15126,7 +15154,7 @@
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 3.28,
+          "grundpreis": 1.97,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -15239,34 +15267,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-08-30",
-          "gueltig_bis": "2026-09-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Bier"
@@ -16127,7 +16127,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 103,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "Original 5,0 Bier",
@@ -16141,6 +16141,20 @@
           "grundpreis": 0.96,
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-09-02",
+          "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
         },
         {
@@ -16954,20 +16968,6 @@
           "gueltig_von": "2026-08-30",
           "gueltig_bis": "2026-09-05",
           "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.11,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.11,
-          "gueltig_von": "2026-09-03",
-          "gueltig_bis": "2026-09-04",
-          "kategorie": "Bier"
         }
       ]
     }
