@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-08T08:36:48.348Z",
+  "generated_at": "2026-09-09T08:37:10.473Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2475,
+  "offer_count": 2617,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 129,
+      "anzahl": 134,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 126,
+      "anzahl": 131,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -1170,7 +1170,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "Netto Marken-Discount"
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 139,
+      "anzahl": 144,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 140,
+      "anzahl": 156,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -2868,6 +2868,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Iced Tea",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -3019,6 +3033,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -3370,34 +3398,6 @@
           "gueltig_von": "2026-09-06",
           "gueltig_bis": "2026-09-09",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 5.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.09,
-          "gueltig_von": "2026-09-06",
-          "gueltig_bis": "2026-09-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 5.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.6,
-          "gueltig_von": "2026-09-02",
-          "gueltig_bis": "2026-09-09",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 137,
+      "anzahl": 142,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -3759,7 +3759,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "Netto Marken-Discount"
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 136,
+      "anzahl": 152,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -4566,6 +4566,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Iced Tea",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -4717,6 +4731,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -5068,34 +5096,6 @@
           "gueltig_von": "2026-09-06",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 5.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.6,
-          "gueltig_von": "2026-09-02",
-          "gueltig_bis": "2026-09-09",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Paderborner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 6.66,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.67,
-          "gueltig_von": "2026-09-09",
-          "gueltig_bis": "2026-09-16",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 131,
+      "anzahl": 136,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 117,
+      "anzahl": 127,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 120,
+      "anzahl": 125,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 109,
+      "anzahl": 115,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -8755,6 +8755,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Iced Tea",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -8920,6 +8934,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -9313,34 +9341,6 @@
           "gueltig_von": "2026-09-10",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-09-09",
-          "gueltig_bis": "2026-09-16",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-09-09",
-          "gueltig_bis": "2026-09-16",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 113,
+      "anzahl": 124,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -9646,7 +9646,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "Netto Marken-Discount"
@@ -9828,6 +9828,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9935,6 +9949,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.27,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Heineken",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
           "gueltig_von": "2026-09-06",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
@@ -10162,34 +10190,6 @@
           "gueltig_von": "2026-09-10",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-09-09",
-          "gueltig_bis": "2026-09-16",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-09-06",
-          "gueltig_bis": "2026-09-12",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 128,
+      "anzahl": 139,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -10481,6 +10481,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Iced Tea",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -10604,6 +10618,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -11011,34 +11039,6 @@
           "gueltig_von": "2026-09-06",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierglasträger",
-          "marke": "Kesper",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 8.99,
-          "gueltig_von": "2026-08-31",
-          "gueltig_bis": "2026-09-30",
-          "kategorie": "Küchenzubehör"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-09-10",
-          "gueltig_bis": "2026-09-12",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 115,
+      "anzahl": 123,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -11344,7 +11344,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "Netto Marken-Discount"
@@ -11509,6 +11509,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -11874,20 +11888,6 @@
           "gueltig_von": "2026-08-31",
           "gueltig_bis": "2026-09-30",
           "kategorie": "Küchenzubehör"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-09-10",
-          "gueltig_bis": "2026-09-12",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 145,
+      "anzahl": 154,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 120,
+      "anzahl": 125,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 104,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -15272,17 +15272,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Biermischgetränke",
+          "marke": "Schöfferhofer",
           "haendler": [
-            "REWE"
+            "Handelshof"
           ],
-          "preis": 11.99,
+          "preis": 11.49,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-09-06",
-          "gueltig_bis": "2026-09-12",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-09-09",
+          "gueltig_bis": "2026-09-16",
           "kategorie": "Bier"
         }
       ]
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 152,
+      "anzahl": 158,
       "angebote": [
         {
           "produkt": "Helles Bier",
@@ -15631,6 +15631,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Iced Tea",
+          "marke": "Karlsberg MiXery",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -15838,6 +15852,20 @@
           "grundpreis": 2.02,
           "gueltig_von": "2026-09-02",
           "gueltig_bis": "2026-09-09",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-09-06",
+          "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
         },
         {
@@ -16105,34 +16133,6 @@
           "gueltig_von": "2026-09-06",
           "gueltig_bis": "2026-09-12",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Grevensteiner Original",
-          "marke": "C. & A. Veltins",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 5.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.77,
-          "gueltig_von": "2026-09-06",
-          "gueltig_bis": "2026-09-12",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 5.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.81,
-          "gueltig_von": "2026-09-09",
-          "gueltig_bis": "2026-09-16",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 131,
+      "anzahl": 140,
       "angebote": [
         {
           "produkt": "Helles Bier",
