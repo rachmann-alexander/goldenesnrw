@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-05T11:10:39.975Z",
+  "generated_at": "2026-10-06T11:00:37.817Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1727,
+  "offer_count": 1729,
   "regionen": [
     {
       "stadt": "Köln",
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 89,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6393,6 +6393,20 @@
           "produkt": "Premium Pils",
           "marke": "Hasseröder",
           "haendler": [
+            "EDEKA"
+          ],
+          "preis": 8.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.85,
+          "gueltig_von": "2026-10-04",
+          "gueltig_bis": "2026-10-10",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Hasseröder",
+          "haendler": [
             "REWE"
           ],
           "preis": 8.99,
@@ -6779,20 +6793,6 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
         }
       ]
@@ -14303,7 +14303,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 78,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -14682,6 +14682,20 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Craft Beer"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Hasseröder",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 8.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.85,
+          "gueltig_von": "2026-10-04",
+          "gueltig_bis": "2026-10-10",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilger",
@@ -15130,20 +15144,6 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Craft Beer"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
