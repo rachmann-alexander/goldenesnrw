@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-06T11:00:37.817Z",
+  "generated_at": "2026-10-07T10:50:48.598Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1729,
+  "offer_count": 1783,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 81,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -531,6 +531,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Dom Kölsch",
           "haendler": [
@@ -755,6 +769,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -823,34 +851,6 @@
           "gueltig_von": "2026-10-07",
           "gueltig_bis": "2026-10-14",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 89,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -1380,6 +1380,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -1686,20 +1700,6 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 97,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -2285,6 +2285,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -2523,31 +2537,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
           "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.17,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
+            "Handelshof"
           ],
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
           "kategorie": "Bier"
         }
       ]
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 97,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -3162,6 +3162,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -3372,31 +3386,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Hövels Original",
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
           "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.17,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
+            "Handelshof"
           ],
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
           "kategorie": "Bier"
         }
       ]
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 91,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -3997,6 +3997,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -4233,20 +4247,6 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 92,
+      "anzahl": 95,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -4818,6 +4818,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -5028,6 +5042,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Hövels Original",
           "haendler": [
@@ -5068,34 +5096,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 13.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Paderborner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.98,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.7,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 83,
+      "anzahl": 86,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -5625,6 +5625,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Dom Kölsch",
           "haendler": [
@@ -5807,6 +5821,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -5917,34 +5945,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 90,
+      "anzahl": 96,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6474,6 +6474,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -6766,34 +6794,6 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.25,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "V + Curuba",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 78,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -7281,6 +7281,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Dom Kölsch",
           "haendler": [
@@ -7491,6 +7505,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -7615,34 +7643,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Original Bier",
-          "marke": "Duckstein",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.5,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -9209,7 +9209,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 77,
+      "anzahl": 80,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -9730,6 +9730,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -9940,6 +9954,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -10022,34 +10050,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
         }
       ]
     },
@@ -10058,7 +10058,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 94,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -10607,6 +10607,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -10803,6 +10817,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Hövels Original",
           "haendler": [
@@ -10871,34 +10899,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Paderborner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.98,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.7,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.12,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10907,7 +10907,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 76,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -11400,6 +11400,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -11624,6 +11638,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -11720,34 +11748,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Original Bier",
-          "marke": "Duckstein",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.5,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -11756,7 +11756,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 110,
+      "anzahl": 113,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -12431,6 +12431,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -12583,20 +12597,6 @@
           "gueltig_von": "2026-10-04",
           "gueltig_bis": "2026-10-10",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12605,7 +12605,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 81,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -13112,6 +13112,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -13308,6 +13322,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Hövels Original",
           "haendler": [
@@ -13408,34 +13436,6 @@
         {
           "produkt": "Hefe-Weißbier",
           "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-09-30",
-          "gueltig_bis": "2026-10-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
           "haendler": [
             "Kaufland"
           ],
@@ -14303,7 +14303,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 79,
+      "anzahl": 82,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -14782,6 +14782,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -15020,6 +15034,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "V + Curuba",
           "marke": "Veltins",
           "haendler": [
@@ -15116,34 +15144,6 @@
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Classic",
-          "marke": "Karamalz",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Original Bier",
-          "marke": "Duckstein",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.5,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -15152,7 +15152,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 117,
+      "anzahl": 120,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -15855,6 +15855,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -15979,20 +15993,6 @@
           "gueltig_von": "2026-10-07",
           "gueltig_bis": "2026-10-14",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -16001,7 +16001,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 98,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -16564,6 +16564,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-10-07",
+          "gueltig_bis": "2026-10-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
@@ -16817,20 +16831,6 @@
         },
         {
           "produkt": "Fun",
-          "marke": "Jever",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-10-04",
-          "gueltig_bis": "2026-10-10",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
-          "produkt": "Fun Alkoholfrei",
           "marke": "Jever",
           "haendler": [
             "Netto Marken-Discount"
