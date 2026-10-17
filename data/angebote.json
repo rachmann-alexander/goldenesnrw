@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-16T08:44:53.816Z",
+  "generated_at": "2026-10-17T08:15:37.224Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1833,
+  "offer_count": 1815,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 94,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -545,20 +545,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Biere",
           "marke": "Bitburger",
           "haendler": [
@@ -851,6 +837,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -873,20 +873,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -915,6 +901,20 @@
           "grundpreis": 1.79,
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
           "kategorie": "Bier"
         },
         {
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 101,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -1722,20 +1722,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -1793,6 +1779,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -2327,20 +2327,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -2549,6 +2535,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Dortmunder Kronen",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 112,
+      "anzahl": 111,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -2571,20 +2571,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -2656,6 +2642,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Würste"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -3162,20 +3162,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 93,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -3420,20 +3420,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -3491,6 +3477,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Altbier",
@@ -4039,20 +4039,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -4247,6 +4233,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 101,
+      "anzahl": 100,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -4269,20 +4269,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -4340,6 +4326,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -4832,20 +4832,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -5096,6 +5082,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 85,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -5118,20 +5118,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -5175,6 +5161,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -5625,20 +5625,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -5945,6 +5931,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Zwickl Kellerbier",
+          "marke": "Th.König",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.97,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 89,
+      "anzahl": 88,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -6488,20 +6488,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "König Pilsener",
           "haendler": [
@@ -6794,6 +6780,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 12.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-10-14",
+          "gueltig_bis": "2026-10-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 85,
+      "anzahl": 84,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -7309,20 +7309,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Biere",
           "marke": "Bitburger",
           "haendler": [
@@ -7643,6 +7629,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Privatbrauerei Gaffel",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 60,
+      "anzahl": 59,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -7987,20 +7987,6 @@
           "grundpreis": 1.44,
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
           "kategorie": "Bier"
         },
         {
@@ -8500,7 +8486,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 80,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -8979,20 +8965,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Biere",
           "marke": "Bitburger",
           "haendler": [
@@ -9338,6 +9310,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra Stout",
+          "marke": "Guinness",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.63,
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
@@ -10198,7 +10184,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 98,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10705,20 +10691,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -11038,6 +11010,20 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urig-Würzig",
+          "marke": "Altenmünster Brauer Bier",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.86,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         }
       ]
@@ -11896,7 +11882,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 107,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12529,20 +12515,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -12737,6 +12709,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Dortmunder Kronen",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -12745,7 +12731,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 95,
+      "anzahl": 94,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12759,20 +12745,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -12830,6 +12802,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "V+ Mixgetränke",
@@ -13266,20 +13252,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -13586,6 +13558,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,22 +13580,8 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 66,
+      "anzahl": 65,
       "angebote": [
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Pülleken",
           "marke": "Veltins",
@@ -13622,6 +13594,20 @@
           "grundpreis": 1.79,
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
           "kategorie": "Bier"
         },
         {
@@ -14059,20 +14045,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Biere",
           "marke": "Bitburger",
           "haendler": [
@@ -14435,6 +14407,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Brauerei Bosch",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.7,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -14443,7 +14429,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 78,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -14908,20 +14894,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "König Pilsener",
           "haendler": [
@@ -15284,6 +15256,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -15292,7 +15278,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 112,
+      "anzahl": 111,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -15306,20 +15292,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -15377,6 +15349,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -15953,20 +15939,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -16133,6 +16105,20 @@
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-16",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16127,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 98,
+      "anzahl": 96,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -16155,20 +16141,6 @@
           "grundpreis": 0.9,
           "gueltig_von": "2026-10-18",
           "gueltig_bis": "2026-10-24",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Original 5,0 Pils",
-          "marke": "Oettinger",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.48,
-          "alt_preis": 0.68,
-          "einheit": "Liter",
-          "grundpreis": 0.96,
-          "gueltig_von": "2026-10-11",
-          "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
         },
         {
@@ -16212,6 +16184,20 @@
           "gueltig_von": "2026-10-14",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.69,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.38,
+          "gueltig_von": "2026-10-18",
+          "gueltig_bis": "2026-10-24",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pils",
@@ -16718,34 +16704,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-10-15",
-          "gueltig_bis": "2026-10-16",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -16979,6 +16937,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.15,
+          "gueltig_von": "2026-10-11",
+          "gueltig_bis": "2026-10-17",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-14",
+          "gueltig_bis": "2026-10-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "EDEKA"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
           "gueltig_von": "2026-10-11",
           "gueltig_bis": "2026-10-17",
           "kategorie": "Bier"
