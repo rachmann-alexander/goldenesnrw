@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-28T10:20:56.250Z",
+  "generated_at": "2026-10-29T10:42:55.810Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 2019,
+  "offer_count": 1983,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 95,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -778,36 +778,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.61,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
           "kategorie": "Bier"
         },
         {
@@ -851,6 +823,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Edelherb",
+          "marke": "Kulmbacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Biberspannbetttuch",
+          "marke": "Blerbaum",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Stück",
+          "grundpreis": 12.99,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 101,
+      "anzahl": 99,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -1604,20 +1604,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Tyskie",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-10-28",
-          "gueltig_bis": "2026-11-04",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
@@ -1629,6 +1615,20 @@
           "grundpreis": 1.2,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Tyskie",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
           "kategorie": "Bier"
         },
         {
@@ -1669,23 +1669,23 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
+          "gueltig_von": "2026-09-30",
+          "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
+          "produkt": "Alt",
+          "marke": "Bolten",
           "haendler": [
-            "Handelshof"
+            "Netto Marken-Discount"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-09-30",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Alt",
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 111,
+      "anzahl": 109,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 115,
+      "anzahl": 113,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 103,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 106,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 97,
+      "anzahl": 95,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -5914,20 +5914,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -5935,6 +5921,20 @@
         {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Fun Alkoholfrei",
+          "marke": "Jever",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 109,
+      "anzahl": 105,
       "angebote": [
         {
           "produkt": "Urtyp",
@@ -6202,7 +6202,7 @@
           "preis": 3.49,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 0.35,
+          "grundpreis": 1.75,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 92,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -7556,36 +7556,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.61,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
           "kategorie": "Bier"
         },
         {
@@ -7643,6 +7615,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Biberspannbetttuch",
+          "marke": "Blerbaum",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Stück",
+          "grundpreis": 12.99,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 90,
+      "anzahl": 88,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -10089,20 +10089,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -10120,20 +10106,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.61,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -10190,6 +10162,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Einbecker Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 106,
+      "anzahl": 104,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 92,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -11787,20 +11787,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -11818,20 +11804,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.61,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -11888,6 +11860,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Einbecker Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 120,
+      "anzahl": 118,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 104,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 93,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Urtyp",
@@ -14664,7 +14664,7 @@
           "preis": 3.49,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 0.35,
+          "grundpreis": 1.75,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -15239,36 +15239,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weizenbier",
-          "marke": "Schöfferhofer",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-09-30",
           "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Beck's",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.61,
-          "gueltig_von": "2026-10-21",
-          "gueltig_bis": "2026-10-28",
           "kategorie": "Bier"
         },
         {
@@ -15284,6 +15256,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud Lagerbier",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Edelherb",
+          "marke": "Kulmbacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 129,
+      "anzahl": 127,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 103,
+      "anzahl": 101,
       "angebote": [
         {
           "produkt": "Pilsener",
