@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-10-29T10:42:55.810Z",
+  "generated_at": "2026-10-30T10:42:44.920Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1983,
+  "offer_count": 1940,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 93,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -165,34 +165,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -657,20 +629,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -851,6 +809,48 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Privatbrauerei Gaffel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.77,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Einbecker Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 99,
+      "anzahl": 97,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -1000,34 +1000,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -1436,6 +1408,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -1468,20 +1454,6 @@
           "marke": "Veltins",
           "haendler": [
             "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -1700,6 +1672,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Hövels Original",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.17,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud Lagerbier",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 109,
+      "anzahl": 106,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -1877,34 +1877,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -2439,20 +2411,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -2490,7 +2448,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
@@ -2549,6 +2507,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Königsbacher",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 113,
+      "anzahl": 112,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -2712,20 +2712,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bierschinken",
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 101,
+      "anzahl": 99,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -3561,34 +3561,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Bierschinken",
@@ -4095,6 +4067,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -4113,20 +4099,6 @@
           "marke": "Veltins",
           "haendler": [
             "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -4247,6 +4219,34 @@
           "gueltig_von": "2026-10-28",
           "gueltig_bis": "2026-11-04",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Altbier",
+          "marke": "Diebels",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 104,
+      "anzahl": 103,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -4410,20 +4410,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bierschinken",
@@ -5096,6 +5082,20 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 95,
+      "anzahl": 92,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -5301,34 +5301,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Bierschinken",
@@ -5723,20 +5695,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -5751,20 +5709,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -5774,6 +5718,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.39,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -5945,6 +5903,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Hövels Original",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.17,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud Lagerbier",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Edelherb",
+          "marke": "Kulmbacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 105,
+      "anzahl": 103,
       "angebote": [
         {
           "produkt": "Urtyp",
@@ -5994,7 +5994,7 @@
           "einheit": "Liter",
           "grundpreis": 1.18,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Alkoholfreies Bier"
         },
         {
@@ -6078,7 +6078,7 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -6120,7 +6120,7 @@
           "einheit": "Liter",
           "grundpreis": 1.98,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Vatertag"
         },
         {
@@ -6134,7 +6134,7 @@
           "einheit": "Kilogramm",
           "grundpreis": 6.67,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Wurstaufschnitt"
         },
         {
@@ -6610,7 +6610,7 @@
           "einheit": "Liter",
           "grundpreis": 1,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -6708,7 +6708,7 @@
           "einheit": "Liter",
           "grundpreis": 1.23,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -6750,7 +6750,7 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 90,
+      "anzahl": 87,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -6943,34 +6943,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -7421,20 +7393,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7643,6 +7601,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Einbecker Brauhaus",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 75,
+      "anzahl": 72,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -7722,34 +7722,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Elephant Extra Strong",
@@ -8144,20 +8116,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -8209,7 +8167,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
@@ -8492,6 +8450,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Oberdorfer Helles",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Oberdorfer Helles",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -8500,7 +8500,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 84,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -8613,34 +8613,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -9119,20 +9091,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9341,6 +9299,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Eifeler Landbier",
+          "marke": "Gemünder",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -9349,7 +9349,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 88,
+      "anzahl": 86,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -9476,34 +9476,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -9912,6 +9884,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -9944,20 +9930,6 @@
           "marke": "Veltins",
           "haendler": [
             "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -10190,6 +10162,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -10198,7 +10198,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 104,
+      "anzahl": 103,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -10339,20 +10339,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bierschinken",
@@ -11039,6 +11025,20 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11047,7 +11047,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 90,
+      "anzahl": 88,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -11188,34 +11188,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -11610,6 +11582,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -11642,20 +11628,6 @@
           "marke": "Veltins",
           "haendler": [
             "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -11888,6 +11860,34 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Winterbock",
+          "marke": "Bitburger",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -11896,7 +11896,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 118,
+      "anzahl": 115,
       "angebote": [
         {
           "produkt": "XXL Pilsener",
@@ -12051,34 +12051,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -12585,20 +12557,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -12650,7 +12608,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
@@ -12737,6 +12695,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Tyskie",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12745,7 +12745,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 102,
+      "anzahl": 99,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -12900,34 +12900,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -13434,20 +13406,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -13499,7 +13457,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
@@ -13586,6 +13544,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Tyskie",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-10-28",
+          "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13594,7 +13594,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 94,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -13707,34 +13707,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Das Original",
@@ -14199,20 +14171,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-30",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -14435,6 +14393,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.57,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Frankenheim",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Petz"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -14443,7 +14443,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 91,
+      "anzahl": 89,
       "angebote": [
         {
           "produkt": "Urtyp",
@@ -14484,7 +14484,7 @@
           "einheit": "Liter",
           "grundpreis": 1.18,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Alkoholfreies Bier"
         },
         {
@@ -14554,7 +14554,7 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -14582,7 +14582,7 @@
           "einheit": "Liter",
           "grundpreis": 1.98,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Vatertag"
         },
         {
@@ -14596,7 +14596,7 @@
           "einheit": "Kilogramm",
           "grundpreis": 6.67,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Wurstaufschnitt"
         },
         {
@@ -15016,7 +15016,7 @@
           "einheit": "Liter",
           "grundpreis": 1,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -15142,7 +15142,7 @@
           "einheit": "Liter",
           "grundpreis": 1.39,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -15292,7 +15292,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 127,
+      "anzahl": 124,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -15475,34 +15475,6 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 0.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.98,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Bierschinken",
-          "marke": "Hofmaier",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Kilogramm",
-          "grundpreis": 6.67,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Wurstaufschnitt"
         },
         {
           "produkt": "Bierschinken",
@@ -16079,20 +16051,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kiezmische",
           "marke": "Brauerei Astra",
           "haendler": [
@@ -16133,6 +16091,48 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-10-30",
+          "gueltig_bis": "2026-10-31",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -16141,7 +16141,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 101,
+      "anzahl": 103,
       "angebote": [
         {
           "produkt": "Pilsener",
@@ -16184,6 +16184,20 @@
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "5,0 Original Alkoholfrei",
+          "marke": "Oettinger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-30",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "5,0 Original Alkoholfrei",
@@ -16280,6 +16294,20 @@
           "einheit": "Liter",
           "grundpreis": 1.78,
           "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Pilsner Urquell",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
         },
@@ -16308,7 +16336,7 @@
           "einheit": "Liter",
           "grundpreis": 1.98,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Vatertag"
         },
         {
@@ -16322,7 +16350,7 @@
           "einheit": "Kilogramm",
           "grundpreis": 6.67,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Wurstaufschnitt"
         },
         {
@@ -16714,7 +16742,7 @@
           "einheit": "Liter",
           "grundpreis": 1,
           "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
+          "gueltig_bis": "2026-10-30",
           "kategorie": "Bier"
         },
         {
@@ -16769,20 +16797,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.05,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -16867,6 +16881,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.39,
+          "gueltig_von": "2026-10-25",
+          "gueltig_bis": "2026-10-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
           "kategorie": "Bier"
@@ -16953,34 +16981,6 @@
           "grundpreis": 1.15,
           "gueltig_von": "2026-10-25",
           "gueltig_bis": "2026-10-31",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-10-25",
-          "gueltig_bis": "2026-10-31",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-10-28",
-          "gueltig_bis": "2026-11-04",
           "kategorie": "Bier"
         }
       ]
