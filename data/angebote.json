@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-01T11:01:30.857Z",
+  "generated_at": "2026-11-02T11:59:35.696Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 946,
+  "offer_count": 1162,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 39,
+      "anzahl": 48,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -83,6 +83,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -106,6 +120,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -179,6 +207,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -332,6 +388,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -475,6 +545,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -545,6 +643,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -565,7 +691,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 52,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Especial",
@@ -638,6 +764,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -678,6 +818,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -748,6 +902,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -876,6 +1058,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -971,6 +1167,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -1142,6 +1352,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -1193,6 +1417,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -1268,32 +1520,18 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
           "haendler": [
-            "Lidl"
+            "trinkgut"
           ],
-          "preis": 24.99,
+          "preis": 17.99,
           "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
-        },
-        {
-          "produkt": "Biber Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "SCHAFFRATH"
-          ],
-          "preis": 29.99,
-          "alt_preis": 44.95,
-          "einheit": "Stück",
-          "grundpreis": 29.99,
-          "gueltig_von": "2026-10-22",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Heimtextilien"
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1302,7 +1540,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 59,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -1389,6 +1627,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -1457,6 +1709,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -1543,6 +1809,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -1625,6 +1919,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -1736,6 +2044,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -1851,6 +2173,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -1930,6 +2266,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -2031,104 +2381,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Moritz Fiege",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 24.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -2137,7 +2389,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 51,
+      "anzahl": 65,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -2224,6 +2476,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -2264,6 +2530,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -2350,6 +2630,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -2434,6 +2742,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -2474,6 +2796,20 @@
           "gueltig_von": "2026-11-04",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -2571,6 +2907,34 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -2700,6 +3064,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -2737,6 +3115,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -2824,34 +3230,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Moritz Fiege",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 24.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -2860,7 +3238,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 48,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Especial",
@@ -2933,6 +3311,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -2975,6 +3367,20 @@
           "kategorie": "Küchenzubehör"
         },
         {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -2984,6 +3390,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.58,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 2.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.66,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -3057,6 +3477,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -3143,6 +3591,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -3181,6 +3643,20 @@
           "einheit": "Liter",
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bud",
+          "marke": "Anheuser Busch",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.53,
+          "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
@@ -3269,6 +3745,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Winterspezial",
           "marke": "Bolten",
           "haendler": [
@@ -3395,6 +3927,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -3418,6 +3964,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -3507,32 +4067,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
           "haendler": [
-            "Lidl"
+            "trinkgut"
           ],
-          "preis": 24.99,
+          "preis": 17.99,
           "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
-        },
-        {
-          "produkt": "Biber Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "SCHAFFRATH"
-          ],
-          "preis": 29.99,
-          "alt_preis": 44.95,
-          "einheit": "Stück",
-          "grundpreis": 29.99,
-          "gueltig_von": "2026-10-22",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Heimtextilien"
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3541,7 +4087,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 50,
+      "anzahl": 60,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -3614,6 +4160,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -3668,6 +4228,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -3752,6 +4326,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -3864,6 +4466,20 @@
           "gueltig_von": "2026-11-04",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -3978,6 +4594,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -4076,6 +4706,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -4113,6 +4757,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -4230,6 +4888,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -4250,7 +4936,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 43,
+      "anzahl": 55,
       "angebote": [
         {
           "produkt": "Especial",
@@ -4337,6 +5023,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -4377,6 +5077,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -4463,6 +5177,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -4519,6 +5261,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -4559,6 +5315,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Premium Pils",
@@ -4659,6 +5429,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Tyskie",
           "haendler": [
@@ -4729,6 +5513,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -4752,6 +5550,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -4827,6 +5653,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -4861,7 +5715,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 40,
+      "anzahl": 54,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -4906,6 +5760,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -4929,6 +5797,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -4976,6 +5858,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränk",
           "marke": "Beck's",
           "haendler": [
@@ -5002,6 +5898,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -5158,6 +6082,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -5211,6 +6149,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -5284,6 +6236,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Frische-Fässchen",
+          "marke": "Heineken",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.6,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Kapuziner",
           "haendler": [
@@ -5310,6 +6276,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Weißbier",
@@ -5349,6 +6343,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Hohenfelder",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -5410,6 +6432,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -5430,7 +6480,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 39,
+      "anzahl": 48,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -5503,6 +6553,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -5526,6 +6590,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -5599,6 +6677,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -5755,6 +6861,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -5909,6 +7029,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -5965,6 +7113,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -5985,7 +7161,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 27,
+      "anzahl": 36,
       "angebote": [
         {
           "produkt": "Elephant",
@@ -6011,6 +7187,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -6056,6 +7246,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -6114,6 +7332,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -6154,6 +7386,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -6240,6 +7486,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Czech Premium Lager",
           "marke": "Budweiser Budvar (CZ)",
           "haendler": [
@@ -6263,6 +7523,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -6352,6 +7626,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -6372,7 +7674,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 31,
+      "anzahl": 40,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6417,6 +7719,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -6440,6 +7756,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -6513,6 +7843,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -6622,6 +7980,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -6739,6 +8111,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -6795,6 +8195,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -6815,7 +8243,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 40,
+      "anzahl": 51,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6888,6 +8316,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Elephant",
           "marke": "Carlsberg",
           "haendler": [
@@ -6911,6 +8353,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -6984,6 +8440,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -7070,6 +8554,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7151,6 +8649,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -7280,6 +8792,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -7303,6 +8829,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -7350,6 +8904,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -7384,7 +8966,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 46,
+      "anzahl": 57,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -7457,6 +9039,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier-Mix",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -7466,6 +9062,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -7553,6 +9163,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -7667,6 +9305,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -7762,6 +9414,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -7877,6 +9543,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -7914,6 +9594,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -8017,6 +9711,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -8029,6 +9751,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Heimtextilien"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Stauder",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 30,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -8037,7 +9773,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 38,
+      "anzahl": 49,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -8110,6 +9846,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier-Mix",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -8119,6 +9869,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -8194,6 +9958,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -8262,6 +10054,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Pils",
@@ -8345,6 +10151,34 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -8474,6 +10308,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -8497,6 +10345,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -8544,6 +10406,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -8578,7 +10468,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 70,
+      "anzahl": 80,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -8665,6 +10555,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -8702,6 +10606,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -8817,6 +10735,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -8987,6 +10933,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Bier",
           "marke": "Warsteiner",
           "haendler": [
@@ -9096,6 +11056,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -9239,6 +11213,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -9295,6 +11283,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -9307,118 +11309,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.87,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pülleken",
-          "marke": "Veltins",
-          "haendler": [
-            "boni Center"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -9427,7 +11317,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 45,
+      "anzahl": 55,
       "angebote": [
         {
           "produkt": "Especial",
@@ -9500,6 +11390,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier-Mix",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -9526,6 +11430,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -9612,6 +11530,34 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Nastro Azzurro",
           "marke": "Peroni",
           "haendler": [
@@ -9677,6 +11623,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.44,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -9777,6 +11737,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -9906,6 +11880,20 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -9943,6 +11931,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -10046,6 +12048,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -10066,7 +12096,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 67,
+      "anzahl": 68,
       "angebote": [
         {
           "produkt": "Especial",
@@ -10109,6 +12139,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Especial",
@@ -10893,20 +12937,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bud Lagerbier",
-          "marke": "Anheuser Busch",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.22,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -10915,7 +12945,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 31,
+      "anzahl": 46,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -10946,6 +12976,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier-Mix",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -10955,6 +12999,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -11002,6 +13060,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Biermischgetränk",
           "marke": "Beck's",
           "haendler": [
@@ -11028,6 +13100,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -11081,6 +13181,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 10,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.26,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -11156,6 +13270,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -11181,6 +13309,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -11226,6 +13368,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Frische-Fässchen",
+          "marke": "Heineken",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.6,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Kapuziner",
           "haendler": [
@@ -11254,6 +13410,34 @@
           "kategorie": "Heimtextilien"
         },
         {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -11277,6 +13461,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Hohenfelder",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -11338,6 +13550,34 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Hefe-Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.8,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 21.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weihnachts Feinbiber-Bettwäsche",
           "marke": "Blerbaum",
           "haendler": [
@@ -11358,7 +13598,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 79,
+      "anzahl": 90,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -11459,6 +13699,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -11499,6 +13753,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bud Lagerbier",
@@ -11611,6 +13879,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -11767,6 +14063,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Schlösser",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -11821,6 +14131,20 @@
           "gueltig_von": "2026-11-04",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -11932,6 +14256,20 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-10-28",
           "gueltig_bis": "2026-11-04",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -12089,113 +14427,15 @@
           "kategorie": "Heimtextilien"
         },
         {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
           "haendler": [
-            "Kaufland"
+            "trinkgut"
           ],
           "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Grevensteiner Original",
-          "marke": "C. & A. Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.75,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Stauder",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Czech Premium Lager",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biere",
-          "marke": "Pott's",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsner",
-          "marke": "Radeberger Pilsner",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -12207,7 +14447,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 51,
+      "anzahl": 65,
       "angebote": [
         {
           "produkt": "Especial",
@@ -12280,6 +14520,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Naturradler 0,0% Alkoholfrei",
+          "marke": "Gösser",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 0.89,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Bier-Mix",
           "marke": "Karlsberg MiXery",
           "haendler": [
@@ -12306,6 +14560,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Küchenzubehör"
+        },
+        {
+          "produkt": "Schwarzer Abt",
+          "marke": "Neuzeller Kloster-Bräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 1.19,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.38,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Extra",
@@ -12345,6 +14613,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.32,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 3.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.02,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -12390,6 +14672,34 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 4.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Nastro Azzurro",
@@ -12518,6 +14828,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -12616,6 +14940,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Bier",
+          "marke": "Beck's",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.45,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -12641,6 +14979,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -12714,6 +15066,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Frische-Fässchen",
+          "marke": "Heineken",
+          "haendler": [
+            "Combi"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.6,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Altbier",
           "marke": "Diebels",
           "haendler": [
@@ -12759,7 +15125,35 @@
           "produkt": "Bier",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
+            "Combi"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -12793,6 +15187,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -12880,48 +15288,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 24.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
         }
       ]
     }
