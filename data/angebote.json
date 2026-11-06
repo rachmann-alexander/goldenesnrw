@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-05T11:51:19.353Z",
+  "generated_at": "2026-11-06T11:48:30.088Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1412,
+  "offer_count": 1425,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 61,
+      "anzahl": 62,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -783,6 +783,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -837,20 +851,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Schwarzer Abt",
-          "marke": "Neuzeller Kloster-Bräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 21.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.2,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 76,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Especial",
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 78,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 68,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -6007,6 +6007,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Bier",
+          "marke": "Knabe Malz",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
@@ -6780,20 +6794,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 61,
+      "anzahl": 62,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -7575,6 +7575,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -7629,20 +7643,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Schwarzer Abt",
-          "marke": "Neuzeller Kloster-Bräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 21.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.2,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -7651,7 +7651,7 @@
       "plz": "48143",
       "lat": 51.9607,
       "lon": 7.6261,
-      "anzahl": 49,
+      "anzahl": 50,
       "angebote": [
         {
           "produkt": "Elephant",
@@ -8270,6 +8270,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -8346,7 +8360,7 @@
       "plz": "52062",
       "lat": 50.7753,
       "lon": 6.0839,
-      "anzahl": 53,
+      "anzahl": 54,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -9021,6 +9035,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -9097,7 +9125,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 64,
+      "anzahl": 65,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -9898,6 +9926,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -9924,20 +9966,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9946,7 +9974,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 70,
+      "anzahl": 71,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -10795,7 +10823,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 62,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -11568,6 +11596,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Uerige",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.87,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Craft Beer"
+        },
+        {
           "produkt": "Gold Hell",
           "marke": "Kloster Scheyern",
           "haendler": [
@@ -11619,20 +11661,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.65,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Schwarzer Abt",
-          "marke": "Neuzeller Kloster-Bräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 21.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.2,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
@@ -12493,7 +12521,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 68,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Especial",
@@ -13342,7 +13370,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 68,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Especial",
@@ -14171,18 +14199,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Schwarzbier",
-          "marke": "Köstritzer",
+          "produkt": "Alt",
+          "marke": "Uerige",
           "haendler": [
-            "Getränke Hoffmann"
+            "REWE"
           ],
-          "preis": 15.99,
+          "preis": 15.49,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.6,
+          "grundpreis": 3.87,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
+          "kategorie": "Craft Beer"
         }
       ]
     },
@@ -14191,7 +14219,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 60,
+      "anzahl": 61,
       "angebote": [
         {
           "produkt": "Original Bier",
@@ -14231,6 +14259,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.78,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alkoholfrei Bier",
+          "marke": "Knabe Malz",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 0.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.98,
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Alkoholfreies Bier"
@@ -15018,20 +15060,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weihnachts Feinbiber-Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 24.99,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 24.99,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Heimtextilien"
         }
       ]
     },
