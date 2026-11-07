@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T11:48:30.088Z",
+  "generated_at": "2026-11-07T10:52:58.609Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1425,
+  "offer_count": 1415,
   "regionen": [
     {
       "stadt": "Köln",
@@ -859,22 +859,8 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 77,
+      "anzahl": 76,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Original Bier",
           "marke": "Oettinger",
@@ -916,6 +902,20 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -972,20 +972,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -1700,6 +1686,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 82,
+      "anzahl": 81,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -1722,20 +1722,6 @@
           "grundpreis": 0.78,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -1779,6 +1765,20 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -1863,20 +1863,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -2549,6 +2535,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 79,
+      "anzahl": 78,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -2571,20 +2571,6 @@
           "grundpreis": 0.78,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -2614,6 +2600,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -2684,20 +2684,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -3398,6 +3384,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3406,22 +3406,8 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 76,
+      "anzahl": 75,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Original Bier",
           "marke": "Oettinger",
@@ -3449,6 +3435,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -3519,20 +3519,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -4247,6 +4233,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium-Pils",
+          "marke": "Leikeim",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 73,
+      "anzahl": 72,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -4269,20 +4269,6 @@
           "grundpreis": 0.78,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -4312,6 +4298,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -4382,20 +4382,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -5096,6 +5082,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Benediktiner Weissbier",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -5104,22 +5104,8 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 68,
+      "anzahl": 67,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Original Bier",
           "marke": "Oettinger",
@@ -5161,6 +5147,20 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -5231,20 +5231,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -5945,6 +5931,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Grapefruit",
+          "marke": "Schöfferhofer",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.96,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12521,22 +12521,8 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 69,
+      "anzahl": 68,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Original Bier",
           "marke": "Oettinger",
@@ -12580,6 +12566,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -12620,20 +12620,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -13362,6 +13348,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -13370,22 +13370,8 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 69,
+      "anzahl": 68,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "5,0 Original Pils",
           "marke": "Oettinger",
@@ -13399,6 +13385,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsner",
@@ -13469,20 +13469,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Biermischgetränk",
@@ -14211,6 +14197,20 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Craft Beer"
+        },
+        {
+          "produkt": "Schwarzbier",
+          "marke": "Köstritzer",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -15068,7 +15068,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 103,
+      "anzahl": 102,
       "angebote": [
         {
           "produkt": "Export Bier",
@@ -15082,20 +15082,6 @@
           "grundpreis": 0.78,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
         },
         {
@@ -15139,6 +15125,20 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -15209,20 +15209,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -15909,6 +15895,20 @@
           "gueltig_von": "2026-11-04",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -15917,22 +15917,8 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 79,
+      "anzahl": 78,
       "angebote": [
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 0.39,
-          "alt_preis": 0.59,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Bier"
-        },
         {
           "produkt": "Original Bier",
           "marke": "Oettinger",
@@ -15976,6 +15962,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pils",
+          "marke": "Efes Pilsener",
+          "haendler": [
+            "Thomas Philipps"
+          ],
+          "preis": 0.66,
+          "alt_preis": 0.89,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -16016,20 +16016,6 @@
           "gueltig_von": "2026-11-01",
           "gueltig_bis": "2026-11-07",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bierdeckel-Spiel 12er-Set",
-          "marke": "thisisnobrand123",
-          "haendler": [
-            "Thomas Philipps"
-          ],
-          "preis": 1,
-          "alt_preis": null,
-          "einheit": "Stück",
-          "grundpreis": 0.08,
-          "gueltig_von": "2026-11-01",
-          "gueltig_bis": "2026-11-07",
-          "kategorie": "Küchenzubehör"
         },
         {
           "produkt": "Schwarzer Abt",
@@ -16750,6 +16736,20 @@
           "marke": "Erdinger Weißbräu",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-01",
+          "gueltig_bis": "2026-11-07",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Czech Premium Lager",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "REWE Dortmund"
           ],
           "preis": 13.99,
           "alt_preis": null,
