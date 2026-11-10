@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T12:31:13.968Z",
+  "generated_at": "2026-11-10T12:05:40.488Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
@@ -13,20 +13,6 @@
       "anzahl": 43,
       "angebote": [
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -38,6 +24,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -83,8 +83,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
+          "produkt": "Kölsch",
+          "marke": "Privatbrauerei Gaffel",
           "haendler": [
             "Lidl"
           ],
@@ -92,8 +92,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -111,8 +111,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
           "haendler": [
             "Lidl"
           ],
@@ -120,8 +120,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -307,20 +307,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -363,10 +349,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -381,6 +381,20 @@
           "marke": "Bitburger",
           "haendler": [
             "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -405,10 +419,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -419,15 +433,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Especial",
+          "marke": "San Miguel",
           "haendler": [
-            "Netto Marken-Discount"
+            "Kaufland"
           ],
-          "preis": 10.99,
+          "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -444,20 +458,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -531,20 +531,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -554,6 +540,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -624,20 +624,6 @@
       "anzahl": 48,
       "angebote": [
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -649,6 +635,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -708,20 +708,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -733,6 +719,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -932,20 +932,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -989,14 +975,28 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
+          "grundpreis": 1.1,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -1016,15 +1016,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -1096,6 +1096,20 @@
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -1111,20 +1125,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -1184,20 +1184,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -1207,6 +1193,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -1333,20 +1333,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -1358,6 +1344,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -1431,20 +1431,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -1456,6 +1442,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -1725,20 +1725,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -1782,30 +1768,16 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 10.99,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -1837,48 +1809,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -1894,6 +1824,20 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Dortmunder Kronen",
           "haendler": [
             "REWE Dortmund"
@@ -1919,6 +1863,62 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -1935,20 +1935,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -1960,6 +1946,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -2047,6 +2047,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -2079,20 +2093,6 @@
           "marke": "Franziskaner",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -2182,20 +2182,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -2207,6 +2193,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -2280,20 +2280,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -2305,6 +2291,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -2532,20 +2532,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -2603,44 +2589,16 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 10.99,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-13",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -2658,10 +2616,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -2672,10 +2630,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -2700,6 +2658,48 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-13",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -2709,6 +2709,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.18,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -2739,34 +2767,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -2868,34 +2868,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -2910,10 +2882,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Chiemseer Hell",
-          "marke": "Chiemgauer Brauhaus",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -2924,10 +2896,38 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Chiemseer Hell",
+          "marke": "Chiemgauer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -3003,20 +3003,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -3028,6 +3014,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -3087,20 +3087,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -3112,6 +3098,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -3297,20 +3297,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -3354,14 +3340,28 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
+          "grundpreis": 1.1,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -3376,6 +3376,48 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Bolten",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.67,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Dortmunder Kronen",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -3423,48 +3465,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Alt",
-          "marke": "Bolten",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.67,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Dortmunder Kronen",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -3474,6 +3474,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.18,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -3490,20 +3504,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -3577,6 +3577,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -3595,20 +3609,6 @@
           "marke": "Chiemgauer Brauhaus",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
-          "haendler": [
-            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -3712,20 +3712,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -3737,6 +3723,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -3782,20 +3782,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -3807,6 +3793,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -4034,17 +4034,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -4076,31 +4076,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -4108,6 +4094,34 @@
           "marke": "Bitburger",
           "haendler": [
             "boni Center"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -4133,14 +4147,28 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "König Pilsener",
+          "marke": "Dortmunder Kronen",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -4174,34 +4202,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Dortmunder Kronen",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -4216,17 +4216,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
+          "produkt": "Especial",
+          "marke": "San Miguel",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -4244,17 +4244,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Especial",
-          "marke": "San Miguel",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -4356,34 +4356,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Chiemseer Hell",
-          "marke": "Chiemgauer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Oberbräu Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -4393,6 +4365,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -4410,6 +4396,20 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Chiemseer Hell",
+          "marke": "Chiemgauer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Beer",
@@ -4575,20 +4575,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -4614,6 +4600,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -4771,17 +4771,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -4813,31 +4813,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -4864,6 +4850,34 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "PENNY"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -4911,15 +4925,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Especial",
+          "marke": "San Miguel",
           "haendler": [
-            "PENNY"
+            "Kaufland"
           ],
-          "preis": 10.99,
+          "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -4936,20 +4950,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -5116,6 +5116,20 @@
       "anzahl": 51,
       "angebote": [
         {
+          "produkt": "Premium Pils",
+          "marke": "Turmbräu",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Original Bier",
           "marke": "Oettinger",
           "haendler": [
@@ -5144,38 +5158,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Turmbräu",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Urtyp",
           "marke": "Brauerei Astra",
           "haendler": [
             "REWE"
-          ],
-          "preis": 0.59,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.18,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Urtyp",
-          "marke": "Brauerei Astra",
-          "haendler": [
-            "nahkauf"
           ],
           "preis": 0.59,
           "alt_preis": null,
@@ -5190,6 +5176,20 @@
           "marke": "Holsten",
           "haendler": [
             "Combi"
+          ],
+          "preis": 0.59,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.18,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Urtyp",
+          "marke": "Brauerei Astra",
+          "haendler": [
+            "nahkauf"
           ],
           "preis": 0.59,
           "alt_preis": null,
@@ -5410,31 +5410,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "EDEKA Foodservice"
+            "Kaufland"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -5466,17 +5452,31 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "EDEKA Foodservice"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -5490,34 +5490,6 @@
           "einheit": "Liter",
           "grundpreis": 1.05,
           "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -5536,10 +5508,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
           "haendler": [
-            "Netto Marken-Discount"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -5595,28 +5567,28 @@
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
-            "Handelshof"
+            "Netto Marken-Discount"
           ],
-          "preis": 11.99,
+          "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "EDEKA Foodservice"
+            "Netto Marken-Discount"
           ],
-          "preis": 11.99,
+          "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -5645,6 +5617,34 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -5704,10 +5704,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Bier",
-          "marke": "Paulaner",
+          "produkt": "Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Combi"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -5732,10 +5732,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Bier",
+          "marke": "Paulaner",
           "haendler": [
-            "REWE"
+            "Combi"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -5839,20 +5839,6 @@
       "anzahl": 43,
       "angebote": [
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -5864,6 +5850,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -5909,8 +5909,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
+          "produkt": "Kölsch",
+          "marke": "Privatbrauerei Gaffel",
           "haendler": [
             "Lidl"
           ],
@@ -5918,8 +5918,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -5937,8 +5937,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
           "haendler": [
             "Lidl"
           ],
@@ -5946,8 +5946,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -6133,17 +6133,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -6175,24 +6175,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
           "produkt": "Pils",
-          "marke": "Krombacher",
+          "marke": "Bitburger",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -6220,6 +6220,20 @@
           "produkt": "Pils",
           "marke": "Krombacher",
           "haendler": [
+            "Kaufland"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Krombacher",
+          "haendler": [
             "Netto Marken-Discount"
           ],
           "preis": 10.99,
@@ -6227,20 +6241,6 @@
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-13",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -6259,20 +6259,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -6284,6 +6270,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -6357,20 +6357,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -6380,6 +6366,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -6674,34 +6674,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -6720,6 +6692,34 @@
           "marke": "Bitburger",
           "haendler": [
             "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -6786,10 +6786,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -6800,10 +6800,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE Dortmund"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -6893,8 +6893,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
+          "produkt": "Kölsch",
+          "marke": "Privatbrauerei Gaffel",
           "haendler": [
             "Lidl"
           ],
@@ -6902,8 +6902,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -6921,8 +6921,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
           "haendler": [
             "Lidl"
           ],
@@ -6930,8 +6930,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.58,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -7117,6 +7117,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -7145,16 +7159,16 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
-          "preis": 9.99,
+          "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -7183,20 +7197,6 @@
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-13",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -7285,20 +7285,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -7308,6 +7294,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -7364,20 +7364,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Original Bier",
-          "marke": "Oettinger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.98,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Turmbräu",
           "haendler": [
@@ -7389,6 +7375,20 @@
           "grundpreis": 0.98,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Original Bier",
+          "marke": "Oettinger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 0.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.98,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -7448,20 +7448,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7473,6 +7459,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -7658,17 +7658,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-11",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -7700,38 +7700,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Bier",
+          "marke": "Flensburger",
           "haendler": [
-            "Kaufland"
+            "Handelshof"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
           "produkt": "Pils",
-          "marke": "Krombacher",
+          "marke": "Bitburger",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -7757,14 +7743,28 @@
         },
         {
           "produkt": "Pils",
-          "marke": "Bitburger",
+          "marke": "Krombacher",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -7798,20 +7798,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -7823,6 +7809,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -7882,20 +7882,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -7905,6 +7891,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -8073,20 +8073,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -8098,6 +8084,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -8283,20 +8283,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -8354,44 +8340,16 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 10.99,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-13",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -8409,10 +8367,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -8423,10 +8381,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -8449,6 +8407,48 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-13",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -8479,6 +8479,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
@@ -8490,34 +8518,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -8647,34 +8647,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -8689,10 +8661,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Chiemseer Hell",
-          "marke": "Chiemgauer Brauhaus",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -8703,10 +8675,38 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Chiemseer Hell",
+          "marke": "Chiemgauer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -8852,20 +8852,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -8877,6 +8863,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -9006,20 +9006,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -9063,14 +9049,28 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
+          "grundpreis": 1.1,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -9090,15 +9090,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
+          "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -9132,20 +9132,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -9157,6 +9143,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -9216,20 +9216,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -9239,6 +9225,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -9407,20 +9407,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9432,6 +9418,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -9561,20 +9561,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.52,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Weizen-Mix",
           "marke": "Schöfferhofer",
           "haendler": [
@@ -9593,6 +9579,20 @@
           "marke": "Früh",
           "haendler": [
             "Getränke Hoffmann"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 4.99,
           "alt_preis": null,
@@ -9673,20 +9673,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -9730,16 +9716,16 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 10.99,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -9757,24 +9743,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alkoholfreies Bier",
-          "marke": "Erdinger Weißbräu",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Alkoholfreies Bier"
-        },
-        {
           "produkt": "Pils",
-          "marke": "Beck's",
+          "marke": "Bitburger",
           "haendler": [
-            "Getränke Hoffmann"
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -9813,46 +9785,32 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Gutsherren",
+          "produkt": "Alkoholfreies Bier",
+          "marke": "Erdinger Weißbräu",
           "haendler": [
             "Getränke Hoffmann"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.11,
+          "grundpreis": 2,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsener",
@@ -9869,6 +9827,48 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pils",
+          "marke": "Gutsherren",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.11,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -9878,6 +9878,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.18,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -9894,20 +9908,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -10009,6 +10009,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Heineken",
           "haendler": [
@@ -10018,20 +10032,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -10051,10 +10051,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE Dortmund"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -10270,20 +10270,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -10295,6 +10281,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -10438,20 +10438,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -10495,44 +10481,16 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
-          "preis": 10.99,
+          "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
           "kategorie": "Bier"
         },
         {
@@ -10565,6 +10523,48 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "REWE Dortmund"
@@ -10573,6 +10573,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.18,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Especial",
+          "marke": "San Miguel",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -10589,20 +10603,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Especial",
-          "marke": "San Miguel",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -10676,20 +10676,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -10704,10 +10690,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -10718,10 +10704,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -11063,10 +11063,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Helles Lagerbier Glutenfrei",
-          "marke": "Bitburger",
+          "produkt": "Weißbier",
+          "marke": "Erdinger Weißbräu",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -11077,10 +11077,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weißbier",
-          "marke": "Erdinger Weißbräu",
+          "produkt": "Helles Lagerbier Glutenfrei",
+          "marke": "Bitburger",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 4.49,
           "alt_preis": null,
@@ -11100,20 +11100,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 3.78,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 4.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.52,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -11147,6 +11133,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 4.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.52,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Lager",
           "marke": "Budweiser Budvar (CZ)",
           "haendler": [
@@ -11156,20 +11156,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.77,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 5.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.09,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -11198,6 +11184,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 3.03,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 5.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.09,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -11301,6 +11301,48 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE Petz"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alkoholfreies Bier",
           "marke": "Erdinger Weißbräu",
           "haendler": [
@@ -11329,18 +11371,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
+          "produkt": "Pils",
+          "marke": "Gutsherren",
           "haendler": [
-            "Kaufland"
+            "Getränke Hoffmann"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
+          "grundpreis": 1.11,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pils",
@@ -11357,20 +11399,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -11383,34 +11411,6 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Petz"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Gutsherren",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.11,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Especial",
@@ -11455,6 +11455,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Kölsch",
+          "marke": "Privatbrauerei Gaffel",
+          "haendler": [
+            "REWE Petz"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Hell",
           "marke": "Bayreuther Brauhaus",
           "haendler": [
@@ -11473,20 +11487,6 @@
           "marke": "Berliner Pilsner",
           "haendler": [
             "Getränke Hoffmann"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Privatbrauerei Gaffel",
-          "haendler": [
-            "REWE Petz"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -11525,20 +11525,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.14,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Holzkirchner Oberbräu",
           "haendler": [
@@ -11553,15 +11539,29 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Helles",
-          "marke": "Oberdorfer Helles",
+          "produkt": "Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Netto Marken-Discount"
+            "REWE Petz"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Lager",
+          "marke": "Heineken",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.14,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -11581,10 +11581,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Helles",
+          "marke": "Oberdorfer Helles",
           "haendler": [
-            "REWE Petz"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -11814,20 +11814,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -11870,6 +11856,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -11880,34 +11880,6 @@
           "einheit": "Liter",
           "grundpreis": 1.05,
           "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
@@ -11926,10 +11898,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
           "haendler": [
-            "Netto Marken-Discount"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -11985,14 +11957,28 @@
           "produkt": "Bier",
           "marke": "Krombacher",
           "haendler": [
-            "Handelshof"
+            "Netto Marken-Discount"
           ],
-          "preis": 11.99,
+          "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
@@ -12021,6 +12007,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -12066,10 +12066,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Bier",
-          "marke": "Paulaner",
+          "produkt": "Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Combi"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -12094,10 +12094,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Bier",
+          "marke": "Paulaner",
           "haendler": [
-            "REWE"
+            "Combi"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -12271,20 +12271,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -12296,6 +12282,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -12439,10 +12439,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
+          "produkt": "Weizen-Mix",
+          "marke": "Schöfferhofer",
           "haendler": [
-            "Netto Marken-Discount"
+            "Getränke Hoffmann"
           ],
           "preis": 4.99,
           "alt_preis": null,
@@ -12453,10 +12453,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weizen-Mix",
-          "marke": "Schöfferhofer",
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
           "haendler": [
-            "Getränke Hoffmann"
+            "Netto Marken-Discount"
           ],
           "preis": 4.99,
           "alt_preis": null,
@@ -12579,20 +12579,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -12650,23 +12636,37 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Krombacher",
+          "marke": "Flensburger",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.39,
+          "grundpreis": 1.1,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
           "haendler": [
-            "Netto Marken-Discount"
+            "Kaufland"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -12706,9 +12706,51 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "König Pilsener",
+          "marke": "Dortmunder Kronen",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Gutsherren",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.11,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -12773,48 +12815,6 @@
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Gutsherren",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.11,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Dortmunder Kronen",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Vatertag"
         },
         {
           "produkt": "Pilsener",
@@ -12971,15 +12971,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Lager",
-          "marke": "Heineken",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 2.14,
+          "grundpreis": 1.5,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -13120,20 +13120,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "V+ Mixgetränke",
-          "marke": "Veltins",
-          "haendler": [
-            "Lidl"
-          ],
-          "preis": 0.79,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.58,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -13145,6 +13131,20 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "V+ Mixgetränke",
+          "marke": "Veltins",
+          "haendler": [
+            "Lidl"
+          ],
+          "preis": 0.79,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.58,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -13302,20 +13302,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Flensburger",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-04",
-          "gueltig_bis": "2026-11-11",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -13358,6 +13344,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Flensburger",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-04",
+          "gueltig_bis": "2026-11-11",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pilsner",
           "marke": "Radeberger Pilsner",
           "haendler": [
@@ -13386,24 +13386,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
+          "produkt": "Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.39,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Netto Marken-Discount"
+            "REWE Dortmund"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -13442,62 +13428,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-08",
-          "gueltig_bis": "2026-11-14",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -13535,6 +13465,76 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.39,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-08",
+          "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
           "kategorie": "Bier"
@@ -13554,20 +13554,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Especial",
           "marke": "San Miguel",
           "haendler": [
@@ -13579,6 +13565,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-08",
           "gueltig_bis": "2026-11-14",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -13638,10 +13638,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Bier",
-          "marke": "Paulaner",
+          "produkt": "Oberbräu Hell",
+          "marke": "Holzkirchner Oberbräu",
           "haendler": [
-            "Combi"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -13666,10 +13666,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Bier",
+          "marke": "Paulaner",
           "haendler": [
-            "Netto Marken-Discount"
+            "Combi"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -13694,10 +13694,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Oberbräu Hell",
-          "marke": "Holzkirchner Oberbräu",
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE Dortmund"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
