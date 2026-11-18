@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-17T12:46:18.992Z",
+  "generated_at": "2026-11-18T12:38:30.034Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1324,
+  "offer_count": 1378,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 64,
+      "anzahl": 67,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -503,6 +503,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -601,7 +615,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
+          "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
             "REWE"
@@ -615,7 +629,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
+          "produkt": "Pils",
           "marke": "König Pilsener",
           "haendler": [
             "REWE"
@@ -671,6 +685,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -683,6 +711,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -809,48 +851,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Naturtrüb",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.15,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.12,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 66,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -1310,6 +1310,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -1492,6 +1506,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -1518,6 +1546,20 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -1658,48 +1700,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.25,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Naturtrüb",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.15,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 74,
+      "anzahl": 77,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -2229,6 +2229,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Warsteiner",
           "haendler": [
@@ -2453,6 +2467,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -2482,6 +2510,20 @@
         },
         {
           "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
           "marke": "Paulaner",
           "haendler": [
             "Kaufland"
@@ -2507,48 +2549,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 71,
+      "anzahl": 74,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -3064,6 +3064,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -3302,6 +3316,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Münchner Hell",
           "marke": "Paulaner",
           "haendler": [
@@ -3356,48 +3398,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 70,
+      "anzahl": 73,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -3899,6 +3899,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -4109,6 +4123,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -4121,6 +4149,20 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -4205,48 +4247,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe Weizen",
-          "marke": "Tucher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 68,
+      "anzahl": 71,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -4762,6 +4762,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Warsteiner",
           "haendler": [
@@ -4972,6 +4986,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Münchner Hell",
           "marke": "Paulaner",
           "haendler": [
@@ -5054,48 +5096,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe Weizen",
-          "marke": "Tucher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 61,
+      "anzahl": 64,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -5555,6 +5555,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Warsteiner",
           "haendler": [
@@ -5723,6 +5737,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -5734,6 +5762,20 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-19",
           "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Vatertag"
         },
         {
@@ -5903,48 +5945,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mooser Liesl Hell",
-          "marke": "Arcobräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Vollbier Hell",
-          "marke": "Kloster Andechs",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 19.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 70,
+      "anzahl": 76,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6432,6 +6432,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -6656,6 +6684,62 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Münchner Hell",
           "marke": "Paulaner",
           "haendler": [
@@ -6710,90 +6794,6 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Bayreuther Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe Weizen",
-          "marke": "Tucher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 61,
+      "anzahl": 64,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -7281,6 +7281,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -7435,6 +7449,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -7447,6 +7475,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -7598,48 +7640,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.12,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Heineken",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 17.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 3.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mooser Liesl Hell",
-          "marke": "Arcobräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -9125,7 +9125,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 61,
+      "anzahl": 64,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -9576,6 +9576,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -9730,6 +9744,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -9742,6 +9770,20 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -9924,48 +9966,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mooser Liesl Hell",
-          "marke": "Arcobräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Vollbier Hell",
-          "marke": "Kloster Andechs",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 19.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -9974,7 +9974,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 69,
+      "anzahl": 72,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10439,6 +10439,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -10664,6 +10678,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Jever",
           "haendler": [
             "REWE Dortmund"
@@ -10675,6 +10703,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -10773,48 +10815,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe Weizen",
-          "marke": "Tucher",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Kapuziner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
         }
       ]
     },
@@ -10823,7 +10823,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 58,
+      "anzahl": 61,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -11232,6 +11232,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -11386,6 +11400,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Tyskie",
           "haendler": [
@@ -11398,6 +11426,20 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -11456,8 +11498,8 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -11470,8 +11512,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -11622,20 +11664,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Biber Bettwäsche",
-          "marke": "Blerbaum",
-          "haendler": [
-            "SCHAFFRATH"
-          ],
-          "preis": 29.99,
-          "alt_preis": 44.95,
-          "einheit": "Stück",
-          "grundpreis": 29.99,
-          "gueltig_von": "2026-10-22",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -11644,7 +11672,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 82,
+      "anzahl": 85,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -12179,6 +12207,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bier",
           "marke": "Warsteiner",
           "haendler": [
@@ -12375,6 +12417,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -12386,6 +12442,20 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-19",
           "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Vatertag"
         },
         {
@@ -12443,48 +12513,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -12493,7 +12521,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 64,
+      "anzahl": 67,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -12930,6 +12958,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -13126,6 +13168,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -13137,6 +13193,20 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-19",
           "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Vatertag"
         },
         {
@@ -13289,48 +13359,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.25,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Naturtrüb",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 15.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.6,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.15,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Beer",
-          "marke": "Heineken",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 16.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.12,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -14135,7 +14163,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 59,
+      "anzahl": 62,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -14516,6 +14544,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -14696,6 +14738,34 @@
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -14934,34 +15004,6 @@
           "gueltig_von": "2026-11-11",
           "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
-        },
-        {
-          "produkt": "Mooser Liesl Hell",
-          "marke": "Arcobräu",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.9,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Vollbier Hell",
-          "marke": "Kloster Andechs",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 19.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         }
       ]
     },
@@ -14970,7 +15012,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 90,
+      "anzahl": 93,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -15547,17 +15589,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
           "haendler": [
-            "REWE Dortmund"
+            "Handelshof"
           ],
-          "preis": 10.99,
-          "alt_preis": 19.99,
+          "preis": 10.49,
+          "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -15568,6 +15610,20 @@
           ],
           "preis": 10.99,
           "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Beck's",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.99,
+          "alt_preis": 19.99,
           "einheit": "Liter",
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
@@ -15771,46 +15827,32 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
           "haendler": [
-            "Netto Marken-Discount"
+            "Handelshof"
           ],
           "preis": 12.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-19",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-11-19",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Münchner Hell",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
           "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-21",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-19",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -15819,7 +15861,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 76,
+      "anzahl": 79,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -16270,6 +16312,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsner",
+          "marke": "Radeberger Pilsner",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.32,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Warsteiner",
           "haendler": [
@@ -16536,6 +16592,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pülleken Helles",
           "marke": "Veltins",
           "haendler": [
@@ -16547,6 +16617,20 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-19",
           "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Vatertag"
         },
         {
@@ -16616,48 +16700,6 @@
           "einheit": "Liter",
           "grundpreis": 1.75,
           "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Landbier",
-          "marke": "Pott's",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.27,
-          "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         }
