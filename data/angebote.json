@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-18T12:38:30.034Z",
+  "generated_at": "2026-11-19T12:29:24.776Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
-  "offer_count": 1378,
+  "offer_count": 1312,
   "regionen": [
     {
       "stadt": "Köln",
       "plz": "50667",
       "lat": 50.9384,
       "lon": 6.9598,
-      "anzahl": 67,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -66,20 +66,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -433,20 +419,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kölsch",
           "marke": "Sester",
           "haendler": [
@@ -559,20 +531,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -680,8 +638,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -694,8 +652,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -741,38 +699,38 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -851,6 +809,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Naturtrüb",
+          "marke": "Benediktiner Weissbier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.15,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -859,7 +859,7 @@
       "plz": "40210",
       "lat": 51.2204,
       "lon": 6.7925,
-      "anzahl": 69,
+      "anzahl": 65,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -915,20 +915,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -1254,20 +1240,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Natur Radler Zitrone",
           "marke": "Traugott Simon",
           "haendler": [
@@ -1349,20 +1321,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -1501,8 +1459,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -1515,8 +1473,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -1576,10 +1534,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -1590,10 +1548,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -1700,6 +1658,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.25,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Naturtrüb",
+          "marke": "Benediktiner Weissbier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.15,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "plz": "44137",
       "lat": 51.5142,
       "lon": 7.4653,
-      "anzahl": 77,
+      "anzahl": 73,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -1806,20 +1806,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -2145,20 +2131,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -2173,17 +2145,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -2296,20 +2268,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -2462,8 +2420,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -2476,8 +2434,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -2549,6 +2507,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -2557,7 +2557,7 @@
       "plz": "45127",
       "lat": 51.4566,
       "lon": 7.0123,
-      "anzahl": 74,
+      "anzahl": 70,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -2627,20 +2627,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -2980,20 +2966,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -3008,17 +2980,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -3131,20 +3103,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -3297,6 +3255,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
@@ -3313,20 +3285,6 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -3372,6 +3330,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -3398,6 +3370,34 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Landbier",
+          "marke": "Pott's",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -3406,7 +3406,7 @@
       "plz": "47051",
       "lat": 51.4316,
       "lon": 6.7626,
-      "anzahl": 73,
+      "anzahl": 69,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -3462,20 +3462,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -3815,20 +3801,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -3843,17 +3815,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -3938,20 +3910,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -4118,8 +4076,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -4132,8 +4090,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -4193,6 +4151,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -4221,10 +4193,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -4235,10 +4221,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "Kaufland"
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe Weizen",
+          "marke": "Tucher",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -4255,7 +4255,7 @@
       "plz": "44787",
       "lat": 51.4818,
       "lon": 7.2162,
-      "anzahl": 71,
+      "anzahl": 67,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -4325,20 +4325,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -4678,20 +4664,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -4706,17 +4678,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -4815,20 +4787,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -4967,6 +4925,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
@@ -4983,20 +4955,6 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -5042,6 +5000,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -5070,10 +5042,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -5084,10 +5070,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Hefe Weizen",
+          "marke": "Tucher",
           "haendler": [
-            "Kaufland"
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Kapuziner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -5104,7 +5104,7 @@
       "plz": "42103",
       "lat": 51.2562,
       "lon": 7.1508,
-      "anzahl": 64,
+      "anzahl": 60,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -5146,20 +5146,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -5485,20 +5471,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kölsch",
           "marke": "Sester",
           "haendler": [
@@ -5594,20 +5566,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -5732,8 +5690,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -5746,8 +5704,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -5945,6 +5903,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Mooser Liesl Hell",
+          "marke": "Arcobräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 18.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.9,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Vollbier Hell",
+          "marke": "Kloster Andechs",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 19.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Biber Bettwäsche",
+          "marke": "Blerbaum",
+          "haendler": [
+            "SCHAFFRATH"
+          ],
+          "preis": 29.99,
+          "alt_preis": 44.95,
+          "einheit": "Stück",
+          "grundpreis": 29.99,
+          "gueltig_von": "2026-10-22",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -5953,7 +5953,7 @@
       "plz": "33602",
       "lat": 52.0211,
       "lon": 8.5347,
-      "anzahl": 76,
+      "anzahl": 68,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6009,34 +6009,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -6334,20 +6306,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -6362,31 +6320,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
-            "EDEKA Foodservice"
+            "REWE"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -6499,34 +6443,6 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -6659,34 +6575,6 @@
           "produkt": "Bier",
           "marke": "Budweiser Budvar (CZ)",
           "haendler": [
-            "Handelshof"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
             "EDEKA Foodservice"
           ],
           "preis": 12.99,
@@ -6709,6 +6597,34 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -6794,6 +6710,90 @@
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Bayreuther Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe Weizen",
+          "marke": "Tucher",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -6802,7 +6802,7 @@
       "plz": "53111",
       "lat": 50.7339,
       "lon": 7.0997,
-      "anzahl": 64,
+      "anzahl": 60,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -6858,20 +6858,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -7211,20 +7197,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Kölsch",
           "marke": "Sester",
           "haendler": [
@@ -7320,20 +7292,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -7444,8 +7402,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -7458,8 +7416,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -7505,10 +7463,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -7519,10 +7477,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -7640,6 +7598,48 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.12,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Heineken",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 17.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 3.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Mooser Liesl Hell",
+          "marke": "Arcobräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 18.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.9,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Vollbier Hell",
+          "marke": "Kloster Andechs",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 19.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -8937,10 +8937,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -8951,10 +8951,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -9125,7 +9125,7 @@
       "plz": "41061",
       "lat": 51.1947,
       "lon": 6.4344,
-      "anzahl": 64,
+      "anzahl": 60,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -9181,20 +9181,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -9520,20 +9506,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Natur Radler Zitrone",
           "marke": "Traugott Simon",
           "haendler": [
@@ -9615,20 +9587,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -9739,8 +9697,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -9753,8 +9711,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -9800,10 +9758,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -9814,10 +9772,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -9966,6 +9924,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Mooser Liesl Hell",
+          "marke": "Arcobräu",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 18.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.9,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Vollbier Hell",
+          "marke": "Kloster Andechs",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 19.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Biber Bettwäsche",
+          "marke": "Blerbaum",
+          "haendler": [
+            "SCHAFFRATH"
+          ],
+          "preis": 29.99,
+          "alt_preis": 44.95,
+          "einheit": "Stück",
+          "grundpreis": 29.99,
+          "gueltig_von": "2026-10-22",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -9974,7 +9974,7 @@
       "plz": "45879",
       "lat": 51.5099,
       "lon": 7.0963,
-      "anzahl": 72,
+      "anzahl": 68,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10030,20 +10030,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -10355,20 +10341,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -10383,17 +10355,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -10506,20 +10478,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -10666,20 +10624,6 @@
           "produkt": "Bier",
           "marke": "Budweiser Budvar (CZ)",
           "haendler": [
-            "EDEKA Foodservice"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
             "Handelshof"
           ],
           "preis": 12.99,
@@ -10688,6 +10632,20 @@
           "grundpreis": 1.64,
           "gueltig_von": "2026-11-18",
           "gueltig_bis": "2026-11-25",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "EDEKA Foodservice"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -10747,6 +10705,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -10789,10 +10761,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -10803,10 +10789,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Hefe Weizen",
+          "marke": "Tucher",
           "haendler": [
-            "Kaufland"
+            "trinkgut"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Kapuziner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -10823,7 +10823,7 @@
       "plz": "47798",
       "lat": 51.3388,
       "lon": 6.5853,
-      "anzahl": 61,
+      "anzahl": 57,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -10865,20 +10865,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -11176,20 +11162,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Natur Radler Zitrone",
           "marke": "Traugott Simon",
           "haendler": [
@@ -11271,20 +11243,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -11395,8 +11353,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -11409,8 +11367,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -11456,10 +11414,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -11470,10 +11428,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -11624,20 +11582,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 18.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Mooser Liesl Hell",
           "marke": "Arcobräu",
           "haendler": [
@@ -11664,6 +11608,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Biber Bettwäsche",
+          "marke": "Blerbaum",
+          "haendler": [
+            "SCHAFFRATH"
+          ],
+          "preis": 29.99,
+          "alt_preis": 44.95,
+          "einheit": "Stück",
+          "grundpreis": 29.99,
+          "gueltig_von": "2026-10-22",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Heimtextilien"
         }
       ]
     },
@@ -11672,7 +11630,7 @@
       "plz": "58095",
       "lat": 51.3671,
       "lon": 7.4633,
-      "anzahl": 85,
+      "anzahl": 83,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -11742,20 +11700,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -12109,20 +12053,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -12137,17 +12067,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -12277,20 +12207,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -12317,6 +12233,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -12412,8 +12342,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -12426,8 +12356,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -12513,6 +12443,34 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -12521,7 +12479,7 @@
       "plz": "59065",
       "lat": 51.6739,
       "lon": 7.815,
-      "anzahl": 67,
+      "anzahl": 63,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -12577,20 +12535,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -12874,20 +12818,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -12902,17 +12832,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -13025,20 +12955,6 @@
           "grundpreis": 1.1,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -13163,8 +13079,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -13177,8 +13093,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -13238,6 +13154,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -13275,20 +13205,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.27,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -13362,6 +13278,48 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Naturtrüb",
+          "marke": "Benediktiner Weissbier",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 15.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.6,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Nastro Azzurro",
+          "marke": "Peroni",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.15,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Beer",
+          "marke": "Heineken",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 16.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.12,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -13370,7 +13328,7 @@
       "plz": "57072",
       "lat": 50.8748,
       "lon": 8.0243,
-      "anzahl": 56,
+      "anzahl": 58,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -13807,6 +13765,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
           "produkt": "Pilsener",
           "marke": "König Pilsener",
           "haendler": [
@@ -13919,20 +13891,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -13947,10 +13905,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "REWE Petz"
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -13961,10 +13933,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Hell",
+          "marke": "Benediktiner Weissbier",
           "haendler": [
-            "Kaufland"
+            "REWE Petz"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -14000,6 +13972,20 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Paulaner",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 15.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.55,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
         {
@@ -14163,7 +14149,7 @@
       "plz": "33098",
       "lat": 51.7189,
       "lon": 8.7575,
-      "anzahl": 62,
+      "anzahl": 58,
       "angebote": [
         {
           "produkt": "Original 5,0",
@@ -14191,20 +14177,6 @@
           "grundpreis": 1.18,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -14460,20 +14432,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
-          "haendler": [
-            "REWE"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.26,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -14488,17 +14446,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
-            "Handelshof"
+            "REWE"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.26,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -14597,20 +14555,6 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -14735,8 +14679,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -14749,8 +14693,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -14824,10 +14768,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -14838,10 +14782,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -14992,17 +14936,31 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Nastro Azzurro",
-          "marke": "Peroni",
+          "produkt": "Mooser Liesl Hell",
+          "marke": "Arcobräu",
           "haendler": [
-            "Handelshof"
+            "trinkgut"
           ],
           "preis": 18.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 2.4,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.9,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Vollbier Hell",
+          "marke": "Kloster Andechs",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 19.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         }
       ]
@@ -15012,7 +14970,7 @@
       "plz": "45657",
       "lat": 51.6144,
       "lon": 7.1979,
-      "anzahl": 93,
+      "anzahl": 91,
       "angebote": [
         {
           "produkt": "Premium Pils",
@@ -15068,20 +15026,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -15491,20 +15435,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -15519,17 +15449,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -15645,20 +15575,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
@@ -15713,6 +15629,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Bier",
@@ -15853,6 +15783,34 @@
           "gueltig_von": "2026-11-19",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.64,
+          "gueltig_von": "2026-11-19",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 13.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
+          "kategorie": "Vatertag"
         }
       ]
     },
@@ -15861,7 +15819,7 @@
       "plz": "59821",
       "lat": 51.3963,
       "lon": 8.0631,
-      "anzahl": 79,
+      "anzahl": 75,
       "angebote": [
         {
           "produkt": "5,0 Original Pils",
@@ -15903,20 +15861,6 @@
           "grundpreis": 1.38,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Gösser",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 0.69,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.38,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -16228,20 +16172,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hell",
-          "marke": "Schmackes",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Extra",
           "marke": "Corona Extra",
           "haendler": [
@@ -16256,17 +16186,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Warsteiner",
+          "produkt": "Hell",
+          "marke": "Schmackes",
           "haendler": [
-            "Handelshof"
+            "REWE Dortmund"
           ],
           "preis": 9.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         },
         {
@@ -16379,20 +16309,6 @@
           "grundpreis": 1.39,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Maisel's Weisse",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-11",
-          "gueltig_bis": "2026-11-18",
           "kategorie": "Bier"
         },
         {
@@ -16587,8 +16503,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-25",
           "kategorie": "Bier"
         },
         {
@@ -16601,8 +16517,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.64,
-          "gueltig_von": "2026-11-18",
-          "gueltig_bis": "2026-11-25",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -16700,6 +16616,48 @@
           "einheit": "Liter",
           "grundpreis": 1.75,
           "gueltig_von": "2026-11-18",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
         }
