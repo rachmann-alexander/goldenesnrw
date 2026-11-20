@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:29:24.776Z",
+  "generated_at": "2026-11-20T12:29:51.463Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
@@ -13,7 +13,7 @@
       "anzahl": 63,
       "angebote": [
         {
-          "produkt": "Original 5,0",
+          "produkt": "5,0 Original Pils",
           "marke": "Oettinger",
           "haendler": [
             "REWE"
@@ -27,7 +27,7 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "5,0 Original Pils",
+          "produkt": "Original 5,0",
           "marke": "Oettinger",
           "haendler": [
             "REWE"
@@ -321,6 +321,20 @@
           "kategorie": "Craft Beer"
         },
         {
+          "produkt": "Weißbier Hell",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.63,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -349,24 +363,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weißbier Hell",
-          "marke": "Erdinger Weißbräu",
+          "produkt": "Kölsch",
+          "marke": "Colonius",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -377,10 +377,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Colonius",
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -419,8 +419,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Sester",
+          "produkt": "Natur Radler Zitrone",
+          "marke": "Traugott Simon",
           "haendler": [
             "trinkgut"
           ],
@@ -433,8 +433,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Natur Radler Zitrone",
-          "marke": "Traugott Simon",
+          "produkt": "Kölsch",
+          "marke": "Sester",
           "haendler": [
             "trinkgut"
           ],
@@ -531,20 +531,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -563,6 +549,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -699,6 +699,34 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -716,21 +744,7 @@
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -753,20 +767,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Hefe Weizen",
@@ -1325,65 +1325,65 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -1534,6 +1534,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -1548,10 +1562,52 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Hefe-Weissbier",
+          "marke": "Franziskaner",
+          "haendler": [
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -1574,62 +1630,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Hefe-Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Hefe Weizen",
@@ -2131,20 +2131,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -2154,6 +2140,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -2272,37 +2272,37 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -2523,10 +2523,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -2537,15 +2537,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Landbier",
+          "marke": "Pott's",
           "haendler": [
             "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 2.27,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -2924,20 +2924,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -2950,6 +2936,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -2966,20 +2966,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -2989,6 +2975,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -3107,9 +3107,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -3121,9 +3121,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -3204,20 +3204,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
           "haendler": [
@@ -3230,6 +3216,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Original Bier",
@@ -3330,20 +3330,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -3386,8 +3372,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -3397,7 +3383,21 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         }
       ]
     },
@@ -3759,20 +3759,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -3785,6 +3771,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -3801,20 +3801,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -3824,6 +3810,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -3914,20 +3914,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
@@ -3959,6 +3945,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -4025,20 +4025,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
           "haendler": [
@@ -4051,6 +4037,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Original Bier",
@@ -4151,20 +4151,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -4193,8 +4179,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -4204,7 +4190,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -4233,6 +4219,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -4622,20 +4622,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -4648,6 +4634,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -4664,20 +4664,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -4687,6 +4673,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -4791,9 +4791,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -4805,9 +4805,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -4874,20 +4874,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
           "haendler": [
@@ -4900,6 +4886,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Original Bier",
@@ -5000,20 +5000,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -5042,8 +5028,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -5053,7 +5039,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -5068,6 +5054,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -5401,20 +5401,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -5427,6 +5413,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -5471,8 +5471,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Sester",
+          "produkt": "Natur Radler Zitrone",
+          "marke": "Traugott Simon",
           "haendler": [
             "trinkgut"
           ],
@@ -5485,8 +5485,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Natur Radler Zitrone",
-          "marke": "Traugott Simon",
+          "produkt": "Kölsch",
+          "marke": "Sester",
           "haendler": [
             "trinkgut"
           ],
@@ -5570,37 +5570,37 @@
         },
         {
           "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
           "marke": "Warsteiner",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -5639,20 +5639,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
           "haendler": [
@@ -5665,6 +5651,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Original Bier",
@@ -5779,20 +5779,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -5805,6 +5791,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -6306,20 +6306,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -6329,6 +6315,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.26,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -6447,9 +6447,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -6461,9 +6461,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -6530,10 +6530,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -6544,10 +6544,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Alt",
+          "marke": "Diebels",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -6684,20 +6684,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Premium Beer",
           "marke": "Heineken",
           "haendler": [
@@ -6712,18 +6698,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
           "haendler": [
-            "Kaufland"
+            "Combi"
           ],
-          "preis": 14.99,
+          "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 1.77,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -6740,8 +6726,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -6751,7 +6737,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -6780,6 +6766,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -7099,6 +7099,20 @@
           "kategorie": "Craft Beer"
         },
         {
+          "produkt": "Weißbier Hell",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.63,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -7127,24 +7141,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weißbier Hell",
-          "marke": "Erdinger Weißbräu",
+          "produkt": "Kölsch",
+          "marke": "Colonius",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -7155,10 +7155,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Colonius",
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -7197,8 +7197,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Sester",
+          "produkt": "Natur Radler Zitrone",
+          "marke": "Traugott Simon",
           "haendler": [
             "trinkgut"
           ],
@@ -7211,8 +7211,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Natur Radler Zitrone",
-          "marke": "Traugott Simon",
+          "produkt": "Kölsch",
+          "marke": "Sester",
           "haendler": [
             "trinkgut"
           ],
@@ -7295,20 +7295,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -7327,6 +7313,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -7463,6 +7463,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -7480,7 +7494,7 @@
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -7503,20 +7517,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Hefe Weizen",
@@ -7906,20 +7906,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Paderborner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 7.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.8,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Goldmalz",
           "haendler": [
@@ -7932,6 +7918,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Paderborner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.8,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Weißbier",
@@ -8075,9 +8075,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -8089,9 +8089,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -8657,6 +8657,20 @@
           "kategorie": "Craft Beer"
         },
         {
+          "produkt": "Weißbier Hell",
+          "marke": "Erdinger Weißbräu",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.63,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Weißbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -8685,24 +8699,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weißbier Hell",
-          "marke": "Erdinger Weißbräu",
+          "produkt": "Kölsch",
+          "marke": "Colonius",
           "haendler": [
             "Netto Marken-Discount"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.63,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -8713,10 +8713,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Colonius",
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 9.49,
           "alt_preis": null,
@@ -8755,8 +8755,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Sester",
+          "produkt": "Natur Radler Zitrone",
+          "marke": "Traugott Simon",
           "haendler": [
             "trinkgut"
           ],
@@ -8769,8 +8769,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Natur Radler Zitrone",
-          "marke": "Traugott Simon",
+          "produkt": "Kölsch",
+          "marke": "Sester",
           "haendler": [
             "trinkgut"
           ],
@@ -8839,20 +8839,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -8871,6 +8857,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -8937,6 +8937,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Weissbier",
           "marke": "Franziskaner",
           "haendler": [
@@ -8954,7 +8968,7 @@
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "REWE"
+            "Netto Marken-Discount"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -8977,20 +8991,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
         },
         {
           "produkt": "Hefe Weizen",
@@ -9590,20 +9590,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9622,6 +9608,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -9758,20 +9758,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -9786,8 +9772,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -9797,7 +9783,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -9826,6 +9812,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -10299,20 +10299,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -10325,6 +10311,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -10341,20 +10341,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -10364,6 +10350,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -10482,9 +10482,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -10496,9 +10496,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -10565,20 +10565,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Vitamalz",
           "haendler": [
@@ -10591,6 +10577,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -10705,20 +10705,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -10761,8 +10747,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -10772,7 +10758,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -10787,6 +10773,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -11246,20 +11246,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -11278,6 +11264,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -11414,20 +11414,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -11442,8 +11428,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -11453,7 +11439,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -11482,6 +11468,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -12053,20 +12053,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -12076,6 +12062,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -12208,20 +12208,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
@@ -12247,6 +12233,20 @@
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -12445,10 +12445,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Büble Edelbräu",
+          "marke": "Allgäuer Brauhaus",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -12459,15 +12459,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Landbier",
+          "marke": "Pott's",
           "haendler": [
             "REWE Dortmund"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 2.27,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -12734,20 +12734,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Paderborner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 7.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.8,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Goldmalz",
           "haendler": [
@@ -12760,6 +12746,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Paderborner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.8,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Weißbier",
@@ -12818,20 +12818,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -12841,6 +12827,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -12959,9 +12959,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -12973,9 +12973,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -13154,20 +13154,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -13210,8 +13196,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -13221,7 +13207,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -13236,6 +13222,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -13891,20 +13891,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Büble Edelbräu",
           "marke": "Allgäuer Brauhaus",
           "haendler": [
@@ -13919,8 +13905,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -13930,21 +13916,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Hell",
-          "marke": "Benediktiner Weissbier",
-          "haendler": [
-            "REWE Petz"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.5,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier + Cola + X",
@@ -13973,6 +13945,34 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hell",
+          "marke": "Benediktiner Weissbier",
+          "haendler": [
+            "REWE Petz"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Münchner Hell",
@@ -14432,20 +14432,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pils",
           "marke": "Beck's",
           "haendler": [
@@ -14455,6 +14441,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.26,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -14559,9 +14559,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
+          "marke": "Veltins",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -14573,9 +14573,9 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Veltins",
+          "marke": "Warsteiner",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -14628,10 +14628,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
-            "trinkgut"
+            "Netto Marken-Discount"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -14642,10 +14642,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Alt",
+          "marke": "Diebels",
           "haendler": [
-            "Netto Marken-Discount"
+            "trinkgut"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -14740,20 +14740,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Premium Beer",
           "marke": "Heineken",
           "haendler": [
@@ -14768,18 +14754,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
           "haendler": [
-            "Kaufland"
+            "Combi"
           ],
-          "preis": 14.99,
+          "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 1.77,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -14796,8 +14782,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Münchner Hell",
-          "marke": "Spaten",
+          "produkt": "Premium Weissbier",
+          "marke": "Franziskaner",
           "haendler": [
             "Kaufland"
           ],
@@ -14807,7 +14793,7 @@
           "grundpreis": 1.5,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
+          "kategorie": "Bier"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -14836,6 +14822,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
+        },
+        {
+          "produkt": "Münchner Hell",
+          "marke": "Spaten",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Hefe Weizen",
@@ -15323,20 +15323,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Paderborner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 7.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.8,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Alkoholfreies Malzgetränk",
           "marke": "Goldmalz",
           "haendler": [
@@ -15349,6 +15335,20 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Paderborner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 7.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.8,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Premium Biere",
@@ -15393,20 +15393,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Wicküler",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.95,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bier",
           "marke": "König Pilsener",
           "haendler": [
@@ -15419,6 +15405,20 @@
           "gueltig_von": "2026-11-20",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Wicküler",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.95,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Pilsner",
@@ -15435,20 +15435,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -15458,6 +15444,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -15576,20 +15576,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
@@ -15643,6 +15629,20 @@
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bier",
@@ -15701,6 +15701,20 @@
           "kategorie": "Vatertag"
         },
         {
+          "produkt": "Alkoholfreies Malzgetränk",
+          "marke": "Vitamalz",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Alkoholfreies Bier"
+        },
+        {
           "produkt": "Alt",
           "marke": "Diebels",
           "haendler": [
@@ -15727,20 +15741,6 @@
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Alkoholfreies Malzgetränk",
-          "marke": "Vitamalz",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Alkoholfreies Bier"
         },
         {
           "produkt": "Original Bier",
@@ -16172,20 +16172,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Extra",
-          "marke": "Corona Extra",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 2.35,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Hell",
           "marke": "Schmackes",
           "haendler": [
@@ -16195,6 +16181,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Extra",
+          "marke": "Corona Extra",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.35,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
@@ -16313,20 +16313,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "Warsteiner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
@@ -16344,6 +16330,20 @@
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Warsteiner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -16438,38 +16438,38 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alt",
           "marke": "Diebels",
           "haendler": [
             "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
-          "haendler": [
-            "Netto Marken-Discount"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -16578,20 +16578,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pülleken Helles",
-          "marke": "Veltins",
-          "haendler": [
-            "Combi"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-11-15",
-          "gueltig_bis": "2026-11-21",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Premium Beer",
           "marke": "Heineken",
           "haendler": [
@@ -16634,18 +16620,18 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Weissbier",
-          "marke": "Franziskaner",
+          "produkt": "Pülleken Helles",
+          "marke": "Veltins",
           "haendler": [
-            "Kaufland"
+            "Combi"
           ],
-          "preis": 14.99,
+          "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 1.77,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
-          "kategorie": "Bier"
+          "kategorie": "Vatertag"
         },
         {
           "produkt": "Büble Edelbräu",
@@ -16657,6 +16643,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
+          "gueltig_von": "2026-11-15",
+          "gueltig_bis": "2026-11-21",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Landbier",
+          "marke": "Pott's",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 2.27,
           "gueltig_von": "2026-11-15",
           "gueltig_bis": "2026-11-21",
           "kategorie": "Bier"
