@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T13:31:55.082Z",
+  "generated_at": "2026-11-27T13:28:30.948Z",
   "source": "marktguru.de (inoffizielle API)",
   "query": "bier",
   "region_count": 20,
@@ -461,10 +461,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -475,10 +475,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -531,20 +531,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -554,6 +540,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -573,20 +573,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bud Lagerbier",
           "marke": "Anheuser Busch",
           "haendler": [
@@ -596,6 +582,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.8,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -626,62 +626,6 @@
           "grundpreis": 2.6,
           "gueltig_von": "2026-11-21",
           "gueltig_bis": "2026-12-05",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Reissdorf",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.77,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
         {
@@ -751,6 +695,62 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Budvar Original",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Reissdorf",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.77,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -1324,10 +1324,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -1338,10 +1338,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -1422,20 +1422,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -1450,6 +1436,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alt",
           "marke": "Bolten",
           "haendler": [
@@ -1492,20 +1492,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Altbier",
-          "marke": "Diebels",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bud Lagerbier",
           "marke": "Anheuser Busch",
           "haendler": [
@@ -1515,6 +1501,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.8,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Altbier",
+          "marke": "Diebels",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -1548,48 +1548,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -1614,6 +1572,48 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -1812,7 +1812,7 @@
           "produkt": "Alkoholfrei Bier",
           "marke": "Knabe Malz",
           "haendler": [
-            "akzenta"
+            "boni Center"
           ],
           "preis": 0.9,
           "alt_preis": null,
@@ -1826,7 +1826,7 @@
           "produkt": "Alkoholfrei Bier",
           "marke": "Knabe Malz",
           "haendler": [
-            "boni Center"
+            "akzenta"
           ],
           "preis": 0.9,
           "alt_preis": null,
@@ -2173,20 +2173,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 10.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.31,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
@@ -2201,8 +2187,22 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Beck's",
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 10.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.31,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Bitburger",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -2215,8 +2215,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Bitburger",
+          "produkt": "Pils",
+          "marke": "Beck's",
           "haendler": [
             "Netto Marken-Discount"
           ],
@@ -2369,20 +2369,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Dortmunder Stifts Brauerei",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
@@ -2397,10 +2383,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "boni Center"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -2439,10 +2439,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "boni Center"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -2509,20 +2509,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -2532,6 +2518,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -3092,20 +3092,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Dortmunder Stifts Brauerei",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
@@ -3120,10 +3106,38 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Frankenheim",
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE Dortmund"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -3148,24 +3162,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Alt",
+          "marke": "Frankenheim",
           "haendler": [
-            "REWE"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -3232,20 +3232,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -3255,6 +3241,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -3330,48 +3330,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -3396,6 +3354,48 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Weißbier",
+          "marke": "Paulaner",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Budvar Original",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         }
@@ -3802,20 +3802,6 @@
         },
         {
           "produkt": "Pilsener",
-          "marke": "König Pilsener",
-          "haendler": [
-            "Netto Marken-Discount"
-          ],
-          "preis": 9.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.44,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
             "Netto Marken-Discount"
@@ -3839,6 +3825,20 @@
           "einheit": "Liter",
           "grundpreis": 1.44,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "König Pilsener",
+          "haendler": [
+            "Netto Marken-Discount"
+          ],
+          "preis": 9.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.44,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -3913,6 +3913,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Zwickl",
           "marke": "Th.König",
           "haendler": [
@@ -3955,17 +3969,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "REWE Dortmund"
+            "Handelshof"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -3980,20 +3994,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-12-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -4137,34 +4137,6 @@
           "kategorie": "Craft Beer"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -4183,6 +4155,34 @@
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
             "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -4692,10 +4692,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
+          "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
-            "REWE Dortmund"
+            "boni Center"
           ],
           "preis": 10.49,
           "alt_preis": null,
@@ -4706,10 +4706,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener Steinie",
+          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
-            "boni Center"
+            "REWE Dortmund"
           ],
           "preis": 10.49,
           "alt_preis": null,
@@ -4804,10 +4804,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "boni Center"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -4832,10 +4832,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "boni Center"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -4902,20 +4902,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -4925,6 +4911,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -4986,34 +4986,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Weißbier",
           "marke": "Paulaner",
           "haendler": [
@@ -5038,6 +5010,34 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -5569,6 +5569,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "akzenta"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Alt",
           "marke": "Frankenheim",
           "haendler": [
@@ -5597,17 +5611,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "akzenta"
+            "Handelshof"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -5622,20 +5636,6 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-12-02",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Krombacher",
-          "haendler": [
-            "Handelshof"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -6043,7 +6043,7 @@
           "produkt": "Bier",
           "marke": "Guinness",
           "haendler": [
-            "Handelshof"
+            "EDEKA Foodservice"
           ],
           "preis": 1.19,
           "alt_preis": null,
@@ -6057,7 +6057,7 @@
           "produkt": "Bier",
           "marke": "Guinness",
           "haendler": [
-            "EDEKA Foodservice"
+            "Handelshof"
           ],
           "preis": 1.19,
           "alt_preis": null,
@@ -6418,20 +6418,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Herforder",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.23,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -6441,6 +6427,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.39,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Herforder",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.23,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -6586,6 +6586,20 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Veltins",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bayrisch Hell",
           "marke": "Maximilian",
           "haendler": [
@@ -6609,20 +6623,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.35,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Veltins",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -6684,34 +6684,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -6736,6 +6708,34 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -7239,10 +7239,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -7253,10 +7253,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -7323,20 +7323,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -7346,6 +7332,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -7407,48 +7407,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -7487,6 +7445,48 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -8200,20 +8200,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -8223,6 +8209,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -8284,20 +8284,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Grevensteiner Landbier",
           "marke": "C. & A. Veltins",
           "haendler": [
@@ -8307,6 +8293,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 2.12,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -8909,10 +8909,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -8923,10 +8923,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -8951,20 +8951,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -8974,6 +8960,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -9021,48 +9021,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -9087,6 +9045,48 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Kölsch",
+          "marke": "Früh",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -9604,20 +9604,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Brauerei Königshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.9,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -9627,6 +9613,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.36,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Brauerei Königshof",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -9758,10 +9758,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -9772,10 +9772,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -9828,20 +9828,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -9851,6 +9837,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -9926,34 +9926,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -9978,6 +9950,34 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -10621,6 +10621,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Pils",
           "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
@@ -10638,35 +10652,7 @@
           "produkt": "Bier",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Bier",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
             "REWE Dortmund"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -10695,6 +10681,20 @@
           "marke": "Jever",
           "haendler": [
             "REWE Dortmund"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -10747,20 +10747,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -10770,6 +10756,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -10817,48 +10817,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -10925,6 +10883,48 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Budvar Original",
+          "marke": "Budweiser Budvar (CZ)",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -11232,20 +11232,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Brauerei Königshof",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 8.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 0.9,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Premium Pils",
           "marke": "Bitburger",
           "haendler": [
@@ -11255,6 +11241,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.36,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Brauerei Königshof",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 8.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 0.9,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -11386,6 +11386,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Zwickl",
           "marke": "Th.König",
           "haendler": [
@@ -11404,20 +11418,6 @@
           "marke": "Tyskie",
           "haendler": [
             "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilsener",
-          "marke": "Jever",
-          "haendler": [
-            "REWE"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -11470,20 +11470,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -11493,6 +11479,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -11568,34 +11568,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -11620,6 +11592,34 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -12235,10 +12235,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener Steinie",
+          "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
-            "boni Center"
+            "REWE Dortmund"
           ],
           "preis": 10.49,
           "alt_preis": null,
@@ -12249,10 +12249,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
+          "produkt": "Pilsener Steinie",
           "marke": "Veltins",
           "haendler": [
-            "REWE Dortmund"
+            "boni Center"
           ],
           "preis": 10.49,
           "alt_preis": null,
@@ -12308,6 +12308,34 @@
           "produkt": "Premium Pilsener",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
             "Kaufland"
           ],
           "preis": 10.99,
@@ -12323,34 +12351,6 @@
           "marke": "Dortmunder Kronen",
           "haendler": [
             "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Getränke Hoffmann"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -12417,6 +12417,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Bier",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Premium Pilsener",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
@@ -12445,24 +12459,10 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Bier",
-          "marke": "Brinkhoff's No. 1",
+          "produkt": "Pilsener",
+          "marke": "Jever",
           "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -12487,10 +12487,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -12510,8 +12510,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-12-02",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -12524,8 +12524,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-12-02",
           "kategorie": "Bier"
         },
         {
@@ -12566,6 +12566,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -12627,15 +12641,29 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
+          "produkt": "Weißbier",
+          "marke": "Paulaner",
           "haendler": [
-            "Getränke Hoffmann"
+            "REWE Dortmund"
           ],
-          "preis": 12.99,
+          "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.3,
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -12651,34 +12679,6 @@
           "einheit": "Liter",
           "grundpreis": 1.4,
           "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Weißbier",
-          "marke": "Paulaner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         }
@@ -13196,20 +13196,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -13228,6 +13214,20 @@
           "marke": "Jever",
           "haendler": [
             "REWE Dortmund"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -13280,20 +13280,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Bayrisch Hell",
-          "marke": "Maximilian",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.82,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Veltins",
           "haendler": [
@@ -13303,6 +13289,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bayrisch Hell",
+          "marke": "Maximilian",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.82,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -13350,34 +13350,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Brau-Spezialitäten",
           "marke": "Kulmbacher Mönchshof",
           "haendler": [
@@ -13408,20 +13380,6 @@
         {
           "produkt": "Weißbier",
           "marke": "Paulaner",
-          "haendler": [
-            "REWE Dortmund"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
           "haendler": [
             "REWE Dortmund"
           ],
@@ -13444,6 +13402,48 @@
           "einheit": "Liter",
           "grundpreis": 2.12,
           "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Dortmund"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -14003,20 +14003,6 @@
           "kategorie": "Vatertag"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -14045,6 +14031,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Fun Alkoholfrei",
           "marke": "Jever",
           "haendler": [
@@ -14057,6 +14057,20 @@
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Alkoholfreies Bier"
+        },
+        {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
         },
         {
           "produkt": "Bud Lagerbier",
@@ -14087,78 +14101,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 12.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.3,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Kölsch",
-          "marke": "Früh",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Hachenburger",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pils",
-          "marke": "Hachenburger",
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
           "haendler": [
             "REWE"
           ],
@@ -14171,8 +14115,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
+          "produkt": "Pils",
+          "marke": "Hachenburger",
           "haendler": [
             "REWE"
           ],
@@ -14189,6 +14133,20 @@
           "marke": "Paulaner",
           "haendler": [
             "REWE"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
+          "haendler": [
+            "REWE Petz"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -14227,10 +14185,52 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
+          "produkt": "Kölsch",
+          "marke": "Früh",
           "haendler": [
-            "REWE Petz"
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Hachenburger",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -14298,6 +14298,20 @@
         },
         {
           "produkt": "Bier",
+          "marke": "Westerwald Bräu",
+          "haendler": [
+            "REWE"
+          ],
+          "preis": 14.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.89,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
           "marke": "Corona Extra",
           "haendler": [
             "Kaufland"
@@ -14312,37 +14326,23 @@
         },
         {
           "produkt": "Bier",
-          "marke": "Westerwald Bräu",
+          "marke": "Bitburger",
           "haendler": [
-            "REWE"
-          ],
-          "preis": 14.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.89,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
-          "haendler": [
-            "Kaufland"
+            "Getränke Hoffmann"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.5,
-          "gueltig_von": "2026-11-25",
+          "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
         {
-          "produkt": "Büble Edelbräu",
-          "marke": "Allgäuer Brauhaus",
+          "produkt": "Bier",
+          "marke": "Krombacher",
           "haendler": [
-            "Kaufland"
+            "Getränke Hoffmann"
           ],
           "preis": 14.99,
           "alt_preis": null,
@@ -14367,15 +14367,15 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Bitburger",
+          "produkt": "Pilsener",
+          "marke": "Flensburger",
           "haendler": [
             "Getränke Hoffmann"
           ],
           "preis": 14.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.5,
+          "grundpreis": 2.27,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -14833,8 +14833,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-12-02",
+          "gueltig_von": "2026-10-31",
+          "gueltig_bis": "2026-11-30",
           "kategorie": "Bier"
         },
         {
@@ -14847,8 +14847,8 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-10-31",
-          "gueltig_bis": "2026-11-30",
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-12-02",
           "kategorie": "Bier"
         },
         {
@@ -14866,20 +14866,6 @@
           "kategorie": "Alkoholfreies Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Herforder",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.35,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Bayrisch Hell",
           "marke": "Maximilian",
           "haendler": [
@@ -14889,6 +14875,20 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.82,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pils",
+          "marke": "Herforder",
+          "haendler": [
+            "trinkgut"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.35,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -14950,24 +14950,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
           "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
+            "REWE"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -14992,10 +14978,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
           "haendler": [
-            "REWE"
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -15626,7 +15626,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.44,
-          "gueltig_von": "2026-11-27",
+          "gueltig_von": "2026-11-26",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -15640,7 +15640,7 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.44,
-          "gueltig_von": "2026-11-26",
+          "gueltig_von": "2026-11-27",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
@@ -15649,6 +15649,20 @@
           "marke": "Herren Bier",
           "haendler": [
             "Getränke Hoffmann"
+          ],
+          "preis": 9.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Pilger Landbier",
+          "marke": "Paderborner",
+          "haendler": [
+            "trinkgut"
           ],
           "preis": 9.99,
           "alt_preis": null,
@@ -15668,20 +15682,6 @@
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.51,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Pilger Landbier",
-          "marke": "Paderborner",
-          "haendler": [
-            "trinkgut"
-          ],
-          "preis": 9.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
@@ -15774,6 +15774,34 @@
           "produkt": "Premium Pilsener",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 10.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.1,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Premium Pilsener",
+          "marke": "Brinkhoff's No. 1",
+          "haendler": [
             "Kaufland"
           ],
           "preis": 10.99,
@@ -15789,34 +15817,6 @@
           "marke": "Dortmunder Kronen",
           "haendler": [
             "Kaufland"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Getränke Hoffmann"
-          ],
-          "preis": 10.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.1,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
-          "produkt": "Premium Pilsener",
-          "marke": "Brinkhoff's No. 1",
-          "haendler": [
-            "Getränke Hoffmann"
           ],
           "preis": 10.99,
           "alt_preis": null,
@@ -15883,20 +15883,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pils",
-          "marke": "Dortmunder Stifts Brauerei",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.49,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.15,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Vatertag"
-        },
-        {
           "produkt": "Bier",
           "marke": "Brinkhoff's No. 1",
           "haendler": [
@@ -15911,10 +15897,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
+          "produkt": "Pils",
+          "marke": "Dortmunder Stifts Brauerei",
           "haendler": [
             "Kaufland"
+          ],
+          "preis": 11.49,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.15,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Vatertag"
+        },
+        {
+          "produkt": "Pilsener",
+          "marke": "Jever",
+          "haendler": [
+            "REWE Dortmund"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -15925,10 +15925,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilsener",
-          "marke": "Jever",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
@@ -16009,6 +16009,20 @@
           "kategorie": "Bier"
         },
         {
+          "produkt": "Alt",
+          "marke": "Diebels",
+          "haendler": [
+            "Getränke Hoffmann"
+          ],
+          "preis": 12.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.3,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
           "produkt": "Bud Lagerbier",
           "marke": "Anheuser Busch",
           "haendler": [
@@ -16037,44 +16051,30 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Alt",
-          "marke": "Diebels",
+          "produkt": "Weißbier",
+          "marke": "Paulaner",
           "haendler": [
-            "Getränke Hoffmann"
+            "REWE Dortmund"
           ],
-          "preis": 12.99,
+          "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.3,
+          "grundpreis": 1.4,
           "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
         {
-          "produkt": "Budvar Original",
-          "marke": "Budweiser Budvar (CZ)",
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
           "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 13.99,
           "alt_preis": null,
           "einheit": "Liter",
           "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Hefe-Weißbier Naturtrüb",
-          "marke": "Paulaner",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
+          "gueltig_von": "2026-11-22",
           "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         }
@@ -16410,8 +16410,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Pilger",
-          "marke": "Paderborner",
+          "produkt": "Premium Pils",
+          "marke": "Hasseröder",
           "haendler": [
             "Kaufland"
           ],
@@ -16424,8 +16424,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Hasseröder",
+          "produkt": "Pilger",
+          "marke": "Paderborner",
           "haendler": [
             "Kaufland"
           ],
@@ -16676,20 +16676,6 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Premium Pils",
-          "marke": "Tyskie",
-          "haendler": [
-            "Kaufland"
-          ],
-          "preis": 11.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.2,
-          "gueltig_von": "2026-11-22",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
           "produkt": "Pilsener",
           "marke": "Jever",
           "haendler": [
@@ -16704,17 +16690,17 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Bier",
-          "marke": "Krombacher",
+          "produkt": "Premium Pils",
+          "marke": "Tyskie",
           "haendler": [
-            "Handelshof"
+            "Kaufland"
           ],
           "preis": 11.99,
           "alt_preis": null,
           "einheit": "Liter",
-          "grundpreis": 1.51,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-12-02",
+          "grundpreis": 1.2,
+          "gueltig_von": "2026-11-22",
+          "gueltig_bis": "2026-11-28",
           "kategorie": "Bier"
         },
         {
@@ -16729,6 +16715,20 @@
           "grundpreis": 1.51,
           "gueltig_von": "2026-10-31",
           "gueltig_bis": "2026-11-30",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Bier",
+          "marke": "Krombacher",
+          "haendler": [
+            "Handelshof"
+          ],
+          "preis": 11.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.51,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-12-02",
           "kategorie": "Bier"
         },
         {
@@ -16830,24 +16830,10 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Hefe-Weißbier Naturtrüb",
+          "produkt": "Weißbier",
           "marke": "Paulaner",
           "haendler": [
-            "Kaufland"
-          ],
-          "preis": 13.99,
-          "alt_preis": null,
-          "einheit": "Liter",
-          "grundpreis": 1.4,
-          "gueltig_von": "2026-11-25",
-          "gueltig_bis": "2026-11-28",
-          "kategorie": "Bier"
-        },
-        {
-          "produkt": "Helles",
-          "marke": "Erdinger Brauhaus",
-          "haendler": [
-            "Kaufland"
+            "REWE Dortmund"
           ],
           "preis": 13.99,
           "alt_preis": null,
@@ -16858,8 +16844,8 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Weißbier",
-          "marke": "Paulaner",
+          "produkt": "Brau-Spezialitäten",
+          "marke": "Kulmbacher Mönchshof",
           "haendler": [
             "REWE Dortmund"
           ],
@@ -16886,10 +16872,24 @@
           "kategorie": "Bier"
         },
         {
-          "produkt": "Brau-Spezialitäten",
-          "marke": "Kulmbacher Mönchshof",
+          "produkt": "Hefe-Weißbier Naturtrüb",
+          "marke": "Paulaner",
           "haendler": [
-            "REWE Dortmund"
+            "Kaufland"
+          ],
+          "preis": 13.99,
+          "alt_preis": null,
+          "einheit": "Liter",
+          "grundpreis": 1.4,
+          "gueltig_von": "2026-11-25",
+          "gueltig_bis": "2026-11-28",
+          "kategorie": "Bier"
+        },
+        {
+          "produkt": "Helles",
+          "marke": "Erdinger Brauhaus",
+          "haendler": [
+            "Kaufland"
           ],
           "preis": 13.99,
           "alt_preis": null,
